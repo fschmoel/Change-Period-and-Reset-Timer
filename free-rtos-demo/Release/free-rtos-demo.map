@@ -1,0 +1,2125 @@
+Archive member included to satisfy reference by file (symbol)
+
+/home/vboxuser/eclipse-workspace_1/eclipse-workspace/free-rtos-demo/libArduinoLibraries.a(tasks.o)
+                              ./src/test.o (vTaskStartScheduler)
+/home/vboxuser/eclipse-workspace_1/eclipse-workspace/free-rtos-demo/libArduinoLibraries.a(timers.o)
+                              /home/vboxuser/eclipse-workspace_1/eclipse-workspace/free-rtos-demo/libArduinoLibraries.a(tasks.o) (xTimerCreateTimerTask)
+/home/vboxuser/eclipse-workspace_1/eclipse-workspace/free-rtos-demo/libArduinoLibraries.a(variantHooks.o)
+                              /home/vboxuser/eclipse-workspace_1/eclipse-workspace/free-rtos-demo/libArduinoLibraries.a(tasks.o) (vApplicationIdleHook)
+/home/vboxuser/eclipse-workspace_1/eclipse-workspace/free-rtos-demo/libArduinoLibraries.a(heap_3.o)
+                              /home/vboxuser/eclipse-workspace_1/eclipse-workspace/free-rtos-demo/libArduinoLibraries.a(tasks.o) (pvPortMalloc)
+/home/vboxuser/eclipse-workspace_1/eclipse-workspace/free-rtos-demo/libArduinoLibraries.a(list.o)
+                              /home/vboxuser/eclipse-workspace_1/eclipse-workspace/free-rtos-demo/libArduinoLibraries.a(tasks.o) (vListInitialise)
+/home/vboxuser/eclipse-workspace_1/eclipse-workspace/free-rtos-demo/libArduinoLibraries.a(port.o)
+                              /home/vboxuser/eclipse-workspace_1/eclipse-workspace/free-rtos-demo/libArduinoLibraries.a(tasks.o) (pxPortInitialiseStack)
+/home/vboxuser/eclipse-workspace_1/eclipse-workspace/free-rtos-demo/libArduinoLibraries.a(queue.o)
+                              /home/vboxuser/eclipse-workspace_1/eclipse-workspace/free-rtos-demo/libArduinoLibraries.a(timers.o) (xQueueGenericCreate)
+/home/vboxuser/eclipse-workspace_1/eclipse-workspace/free-rtos-demo/libArduinoCore.a(HardwareSerial.o)
+                              ./src/test.o (_ZN14HardwareSerial5beginEl)
+/home/vboxuser/eclipse-workspace_1/eclipse-workspace/free-rtos-demo/libArduinoCore.a(Print.o)
+                              /home/vboxuser/eclipse-workspace_1/eclipse-workspace/free-rtos-demo/libArduinoCore.a(HardwareSerial.o) (_ZN5Print5writeEPKc)
+/home/vboxuser/eclipse-workspace_1/eclipse-workspace/free-rtos-demo/libArduinoCore.a(WString.o)
+                              /home/vboxuser/eclipse-workspace_1/eclipse-workspace/free-rtos-demo/libArduinoCore.a(Print.o) (_ZNK6StringixEj)
+/home/vboxuser/eclipse-workspace_1/eclipse-workspace/free-rtos-demo/libArduinoCore.a(wiring.o)
+                              /home/vboxuser/eclipse-workspace_1/eclipse-workspace/free-rtos-demo/libArduinoLibraries.a(port.o) (delay)
+/home/vboxuser/eclipse-workspace_1/eclipse-workspace/free-rtos-demo/libArduinoCore.a(wiring_digital.o)
+                              ./src/test.o (pinMode)
+/home/vboxuser/eclipse-workspace_1/eclipse-workspace/free-rtos-demo/libArduinoCore.a(pins_arduino.o)
+                              /home/vboxuser/eclipse-workspace_1/eclipse-workspace/free-rtos-demo/libArduinoCore.a(wiring_digital.o) (digital_pin_to_timer_PGM)
+/usr/lib/gcc/avr/7.3.0/avr5/libgcc.a(_udivmodhi4.o)
+                              ./src/test.o (__udivmodhi4)
+/usr/lib/gcc/avr/7.3.0/avr5/libgcc.a(_udivmodsi4.o)
+                              /home/vboxuser/eclipse-workspace_1/eclipse-workspace/free-rtos-demo/libArduinoCore.a(HardwareSerial.o) (__udivmodsi4)
+/usr/lib/gcc/avr/7.3.0/avr5/libgcc.a(_exit.o)
+                              /usr/lib/gcc/avr/7.3.0/../../../avr/lib/avr5/crtatmega328p.o (exit)
+/usr/lib/gcc/avr/7.3.0/avr5/libgcc.a(_tablejump2.o)
+                              /home/vboxuser/eclipse-workspace_1/eclipse-workspace/free-rtos-demo/libArduinoLibraries.a(timers.o) (__tablejump2__)
+/usr/lib/gcc/avr/7.3.0/avr5/libgcc.a(_copy_data.o)
+                              ./src/test.o (__do_copy_data)
+/usr/lib/gcc/avr/7.3.0/avr5/libgcc.a(_clear_bss.o)
+                              ./src/test.o (__do_clear_bss)
+/usr/lib/gcc/avr/7.3.0/avr5/libgcc.a(_ctors.o)
+                              /home/vboxuser/eclipse-workspace_1/eclipse-workspace/free-rtos-demo/libArduinoCore.a(HardwareSerial.o) (__do_global_ctors)
+/usr/lib/gcc/avr/7.3.0/../../../avr/lib/avr5/libm.a(addsf3.o)
+                              /home/vboxuser/eclipse-workspace_1/eclipse-workspace/free-rtos-demo/libArduinoCore.a(Print.o) (__subsf3)
+/usr/lib/gcc/avr/7.3.0/../../../avr/lib/avr5/libm.a(addsf3x.o)
+                              /usr/lib/gcc/avr/7.3.0/../../../avr/lib/avr5/libm.a(addsf3.o) (__addsf3x)
+/usr/lib/gcc/avr/7.3.0/../../../avr/lib/avr5/libm.a(cmpsf2.o)
+                              /home/vboxuser/eclipse-workspace_1/eclipse-workspace/free-rtos-demo/libArduinoCore.a(Print.o) (__ltsf2)
+/usr/lib/gcc/avr/7.3.0/../../../avr/lib/avr5/libm.a(divsf3.o)
+                              /home/vboxuser/eclipse-workspace_1/eclipse-workspace/free-rtos-demo/libArduinoCore.a(Print.o) (__divsf3)
+/usr/lib/gcc/avr/7.3.0/../../../avr/lib/avr5/libm.a(divsf3x.o)
+                              /usr/lib/gcc/avr/7.3.0/../../../avr/lib/avr5/libm.a(divsf3.o) (__divsf3x)
+/usr/lib/gcc/avr/7.3.0/../../../avr/lib/avr5/libm.a(fixsfsi.o)
+                              /home/vboxuser/eclipse-workspace_1/eclipse-workspace/free-rtos-demo/libArduinoCore.a(Print.o) (__fixsfsi)
+/usr/lib/gcc/avr/7.3.0/../../../avr/lib/avr5/libm.a(fixunssfsi.o)
+                              /home/vboxuser/eclipse-workspace_1/eclipse-workspace/free-rtos-demo/libArduinoCore.a(Print.o) (__fixunssfsi)
+/usr/lib/gcc/avr/7.3.0/../../../avr/lib/avr5/libm.a(floatsisf.o)
+                              /home/vboxuser/eclipse-workspace_1/eclipse-workspace/free-rtos-demo/libArduinoCore.a(Print.o) (__floatunsisf)
+/usr/lib/gcc/avr/7.3.0/../../../avr/lib/avr5/libm.a(fp_cmp.o)
+                              /usr/lib/gcc/avr/7.3.0/../../../avr/lib/avr5/libm.a(cmpsf2.o) (__fp_cmp)
+/usr/lib/gcc/avr/7.3.0/../../../avr/lib/avr5/libm.a(fp_inf.o)
+                              /usr/lib/gcc/avr/7.3.0/../../../avr/lib/avr5/libm.a(addsf3x.o) (__fp_inf)
+/usr/lib/gcc/avr/7.3.0/../../../avr/lib/avr5/libm.a(fp_nan.o)
+                              /usr/lib/gcc/avr/7.3.0/../../../avr/lib/avr5/libm.a(addsf3x.o) (__fp_nan)
+/usr/lib/gcc/avr/7.3.0/../../../avr/lib/avr5/libm.a(fp_pscA.o)
+                              /usr/lib/gcc/avr/7.3.0/../../../avr/lib/avr5/libm.a(addsf3x.o) (__fp_pscA)
+/usr/lib/gcc/avr/7.3.0/../../../avr/lib/avr5/libm.a(fp_pscB.o)
+                              /usr/lib/gcc/avr/7.3.0/../../../avr/lib/avr5/libm.a(addsf3x.o) (__fp_pscB)
+/usr/lib/gcc/avr/7.3.0/../../../avr/lib/avr5/libm.a(fp_round.o)
+                              /usr/lib/gcc/avr/7.3.0/../../../avr/lib/avr5/libm.a(addsf3.o) (__fp_round)
+/usr/lib/gcc/avr/7.3.0/../../../avr/lib/avr5/libm.a(fp_split3.o)
+                              /usr/lib/gcc/avr/7.3.0/../../../avr/lib/avr5/libm.a(addsf3x.o) (__fp_split3)
+/usr/lib/gcc/avr/7.3.0/../../../avr/lib/avr5/libm.a(fp_zero.o)
+                              /usr/lib/gcc/avr/7.3.0/../../../avr/lib/avr5/libm.a(addsf3x.o) (__fp_zero)
+/usr/lib/gcc/avr/7.3.0/../../../avr/lib/avr5/libm.a(mulsf3.o)
+                              /home/vboxuser/eclipse-workspace_1/eclipse-workspace/free-rtos-demo/libArduinoCore.a(Print.o) (__mulsf3)
+/usr/lib/gcc/avr/7.3.0/../../../avr/lib/avr5/libm.a(mulsf3x.o)
+                              /usr/lib/gcc/avr/7.3.0/../../../avr/lib/avr5/libm.a(mulsf3.o) (__mulsf3x)
+/usr/lib/gcc/avr/7.3.0/../../../avr/lib/avr5/libc.a(malloc.o)
+                              /home/vboxuser/eclipse-workspace_1/eclipse-workspace/free-rtos-demo/libArduinoLibraries.a(heap_3.o) (malloc)
+/usr/lib/gcc/avr/7.3.0/../../../avr/lib/avr5/libc.a(realloc.o)
+                              /home/vboxuser/eclipse-workspace_1/eclipse-workspace/free-rtos-demo/libArduinoCore.a(WString.o) (realloc)
+/usr/lib/gcc/avr/7.3.0/../../../avr/lib/avr5/libc.a(atol.o)
+                              /home/vboxuser/eclipse-workspace_1/eclipse-workspace/free-rtos-demo/libArduinoCore.a(WString.o) (atol)
+/usr/lib/gcc/avr/7.3.0/../../../avr/lib/avr5/libc.a(isspace.o)
+                              /home/vboxuser/eclipse-workspace_1/eclipse-workspace/free-rtos-demo/libArduinoCore.a(WString.o) (isspace)
+/usr/lib/gcc/avr/7.3.0/../../../avr/lib/avr5/libc.a(tolower.o)
+                              /home/vboxuser/eclipse-workspace_1/eclipse-workspace/free-rtos-demo/libArduinoCore.a(WString.o) (tolower)
+/usr/lib/gcc/avr/7.3.0/../../../avr/lib/avr5/libc.a(toupper.o)
+                              /home/vboxuser/eclipse-workspace_1/eclipse-workspace/free-rtos-demo/libArduinoCore.a(WString.o) (toupper)
+/usr/lib/gcc/avr/7.3.0/../../../avr/lib/avr5/libc.a(memcpy.o)
+                              /home/vboxuser/eclipse-workspace_1/eclipse-workspace/free-rtos-demo/libArduinoLibraries.a(queue.o) (memcpy)
+/usr/lib/gcc/avr/7.3.0/../../../avr/lib/avr5/libc.a(memset.o)
+                              /home/vboxuser/eclipse-workspace_1/eclipse-workspace/free-rtos-demo/libArduinoLibraries.a(tasks.o) (memset)
+/usr/lib/gcc/avr/7.3.0/../../../avr/lib/avr5/libc.a(strcat.o)
+                              /home/vboxuser/eclipse-workspace_1/eclipse-workspace/free-rtos-demo/libArduinoCore.a(WString.o) (strcat)
+/usr/lib/gcc/avr/7.3.0/../../../avr/lib/avr5/libc.a(strchr.o)
+                              /home/vboxuser/eclipse-workspace_1/eclipse-workspace/free-rtos-demo/libArduinoCore.a(WString.o) (strchr)
+/usr/lib/gcc/avr/7.3.0/../../../avr/lib/avr5/libc.a(strcmp.o)
+                              /home/vboxuser/eclipse-workspace_1/eclipse-workspace/free-rtos-demo/libArduinoCore.a(WString.o) (strcmp)
+/usr/lib/gcc/avr/7.3.0/../../../avr/lib/avr5/libc.a(strcpy.o)
+                              /home/vboxuser/eclipse-workspace_1/eclipse-workspace/free-rtos-demo/libArduinoCore.a(WString.o) (strcpy)
+/usr/lib/gcc/avr/7.3.0/../../../avr/lib/avr5/libc.a(strncmp.o)
+                              /home/vboxuser/eclipse-workspace_1/eclipse-workspace/free-rtos-demo/libArduinoCore.a(WString.o) (strncmp)
+/usr/lib/gcc/avr/7.3.0/../../../avr/lib/avr5/libc.a(strncpy.o)
+                              /home/vboxuser/eclipse-workspace_1/eclipse-workspace/free-rtos-demo/libArduinoCore.a(WString.o) (strncpy)
+/usr/lib/gcc/avr/7.3.0/../../../avr/lib/avr5/libc.a(strrchr.o)
+                              /home/vboxuser/eclipse-workspace_1/eclipse-workspace/free-rtos-demo/libArduinoCore.a(WString.o) (strrchr)
+/usr/lib/gcc/avr/7.3.0/../../../avr/lib/avr5/libc.a(strstr.o)
+                              /home/vboxuser/eclipse-workspace_1/eclipse-workspace/free-rtos-demo/libArduinoCore.a(WString.o) (strstr)
+/usr/lib/gcc/avr/7.3.0/../../../avr/lib/avr5/libc.a(itoa.o)
+                              /home/vboxuser/eclipse-workspace_1/eclipse-workspace/free-rtos-demo/libArduinoCore.a(WString.o) (__itoa)
+/usr/lib/gcc/avr/7.3.0/../../../avr/lib/avr5/libc.a(itoa_ncheck.o)
+                              /usr/lib/gcc/avr/7.3.0/../../../avr/lib/avr5/libc.a(itoa.o) (__itoa_ncheck)
+/usr/lib/gcc/avr/7.3.0/../../../avr/lib/avr5/libc.a(ltoa.o)
+                              /home/vboxuser/eclipse-workspace_1/eclipse-workspace/free-rtos-demo/libArduinoCore.a(WString.o) (__ltoa)
+/usr/lib/gcc/avr/7.3.0/../../../avr/lib/avr5/libc.a(ltoa_ncheck.o)
+                              /usr/lib/gcc/avr/7.3.0/../../../avr/lib/avr5/libc.a(ltoa.o) (__ltoa_ncheck)
+/usr/lib/gcc/avr/7.3.0/../../../avr/lib/avr5/libc.a(mulsi10.o)
+                              /usr/lib/gcc/avr/7.3.0/../../../avr/lib/avr5/libc.a(atol.o) (__mulsi_const_10)
+/usr/lib/gcc/avr/7.3.0/../../../avr/lib/avr5/libc.a(ultoa.o)
+                              /home/vboxuser/eclipse-workspace_1/eclipse-workspace/free-rtos-demo/libArduinoCore.a(WString.o) (__ultoa)
+/usr/lib/gcc/avr/7.3.0/../../../avr/lib/avr5/libc.a(ultoa_ncheck.o)
+                              /home/vboxuser/eclipse-workspace_1/eclipse-workspace/free-rtos-demo/libArduinoCore.a(WString.o) (__ultoa_ncheck)
+/usr/lib/gcc/avr/7.3.0/../../../avr/lib/avr5/libc.a(utoa_ncheck.o)
+                              /usr/lib/gcc/avr/7.3.0/../../../avr/lib/avr5/libc.a(itoa_ncheck.o) (__utoa_common)
+/usr/lib/gcc/avr/7.3.0/../../../avr/lib/avr5/libc.a(cty_isfalse.o)
+                              /usr/lib/gcc/avr/7.3.0/../../../avr/lib/avr5/libc.a(isspace.o) (__ctype_isfalse)
+/usr/lib/gcc/avr/7.3.0/../../../avr/lib/avr5/libc.a(strrev.o)
+                              /usr/lib/gcc/avr/7.3.0/../../../avr/lib/avr5/libc.a(ultoa_ncheck.o) (strrev)
+/usr/lib/gcc/avr/7.3.0/avr5/libgcc.a(_prologue.o)
+                              /usr/lib/gcc/avr/7.3.0/../../../avr/lib/avr5/libc.a(realloc.o) (__prologue_saves__)
+/usr/lib/gcc/avr/7.3.0/avr5/libgcc.a(_epilogue.o)
+                              /usr/lib/gcc/avr/7.3.0/../../../avr/lib/avr5/libc.a(realloc.o) (__epilogue_restores__)
+
+Allocating common symbols
+Common symbol       size              file
+
+__brkval            0x2               /usr/lib/gcc/avr/7.3.0/../../../avr/lib/avr5/libc.a(malloc.o)
+portTickRateHz      0x2               /home/vboxuser/eclipse-workspace_1/eclipse-workspace/free-rtos-demo/libArduinoLibraries.a(port.o)
+__flp               0x2               /usr/lib/gcc/avr/7.3.0/../../../avr/lib/avr5/libc.a(malloc.o)
+ticksRemainingInSec
+                    0x2               /home/vboxuser/eclipse-workspace_1/eclipse-workspace/free-rtos-demo/libArduinoLibraries.a(port.o)
+
+Discarded input sections
+
+ .data          0x0000000000000000        0x0 /usr/lib/gcc/avr/7.3.0/../../../avr/lib/avr5/crtatmega328p.o
+ .bss           0x0000000000000000        0x0 /usr/lib/gcc/avr/7.3.0/../../../avr/lib/avr5/crtatmega328p.o
+ .text          0x0000000000000000        0x0 ./src/test.o
+ .data          0x0000000000000000        0x0 ./src/test.o
+ .bss           0x0000000000000000        0x0 ./src/test.o
+ .text          0x0000000000000000        0x0 /home/vboxuser/eclipse-workspace_1/eclipse-workspace/free-rtos-demo/libArduinoLibraries.a(tasks.o)
+ .data          0x0000000000000000        0x0 /home/vboxuser/eclipse-workspace_1/eclipse-workspace/free-rtos-demo/libArduinoLibraries.a(tasks.o)
+ .bss           0x0000000000000000        0x0 /home/vboxuser/eclipse-workspace_1/eclipse-workspace/free-rtos-demo/libArduinoLibraries.a(tasks.o)
+ .text.hot.vTaskDelete
+                0x0000000000000000       0xba /home/vboxuser/eclipse-workspace_1/eclipse-workspace/free-rtos-demo/libArduinoLibraries.a(tasks.o)
+ .text.hot.uxTaskPriorityGet
+                0x0000000000000000       0x1c /home/vboxuser/eclipse-workspace_1/eclipse-workspace/free-rtos-demo/libArduinoLibraries.a(tasks.o)
+ .text.hot.uxTaskPriorityGetFromISR
+                0x0000000000000000       0x12 /home/vboxuser/eclipse-workspace_1/eclipse-workspace/free-rtos-demo/libArduinoLibraries.a(tasks.o)
+ .text.hot.uxTaskBasePriorityGet
+                0x0000000000000000       0x1c /home/vboxuser/eclipse-workspace_1/eclipse-workspace/free-rtos-demo/libArduinoLibraries.a(tasks.o)
+ .text.hot.uxTaskBasePriorityGetFromISR
+                0x0000000000000000       0x12 /home/vboxuser/eclipse-workspace_1/eclipse-workspace/free-rtos-demo/libArduinoLibraries.a(tasks.o)
+ .text.hot.vTaskPrioritySet
+                0x0000000000000000      0x112 /home/vboxuser/eclipse-workspace_1/eclipse-workspace/free-rtos-demo/libArduinoLibraries.a(tasks.o)
+ .text.hot.vTaskResume
+                0x0000000000000000       0xd6 /home/vboxuser/eclipse-workspace_1/eclipse-workspace/free-rtos-demo/libArduinoLibraries.a(tasks.o)
+ .text.hot.xTaskResumeFromISR
+                0x0000000000000000       0xe0 /home/vboxuser/eclipse-workspace_1/eclipse-workspace/free-rtos-demo/libArduinoLibraries.a(tasks.o)
+ .text.hot.vTaskEndScheduler
+                0x0000000000000000       0x22 /home/vboxuser/eclipse-workspace_1/eclipse-workspace/free-rtos-demo/libArduinoLibraries.a(tasks.o)
+ .text.hot.xTaskGetTickCountFromISR
+                0x0000000000000000        0xa /home/vboxuser/eclipse-workspace_1/eclipse-workspace/free-rtos-demo/libArduinoLibraries.a(tasks.o)
+ .text.hot.uxTaskGetNumberOfTasks
+                0x0000000000000000        0x6 /home/vboxuser/eclipse-workspace_1/eclipse-workspace/free-rtos-demo/libArduinoLibraries.a(tasks.o)
+ .text.hot.pcTaskGetName
+                0x0000000000000000       0x10 /home/vboxuser/eclipse-workspace_1/eclipse-workspace/free-rtos-demo/libArduinoLibraries.a(tasks.o)
+ .text.hot.xTaskDelayUntil
+                0x0000000000000000       0x66 /home/vboxuser/eclipse-workspace_1/eclipse-workspace/free-rtos-demo/libArduinoLibraries.a(tasks.o)
+ .text.hot.vTaskDelay
+                0x0000000000000000       0x2a /home/vboxuser/eclipse-workspace_1/eclipse-workspace/free-rtos-demo/libArduinoLibraries.a(tasks.o)
+ .text.hot.xTaskCatchUpTicks
+                0x0000000000000000       0x30 /home/vboxuser/eclipse-workspace_1/eclipse-workspace/free-rtos-demo/libArduinoLibraries.a(tasks.o)
+ .text.hot.vTaskSuspend
+                0x0000000000000000       0xaa /home/vboxuser/eclipse-workspace_1/eclipse-workspace/free-rtos-demo/libArduinoLibraries.a(tasks.o)
+ .text.hot.vTaskPlaceOnUnorderedEventList
+                0x0000000000000000       0x8a /home/vboxuser/eclipse-workspace_1/eclipse-workspace/free-rtos-demo/libArduinoLibraries.a(tasks.o)
+ .text.hot.vTaskRemoveFromUnorderedEventList
+                0x0000000000000000      0x10e /home/vboxuser/eclipse-workspace_1/eclipse-workspace/free-rtos-demo/libArduinoLibraries.a(tasks.o)
+ .text.hot.vTaskSetTimeOutState
+                0x0000000000000000       0x20 /home/vboxuser/eclipse-workspace_1/eclipse-workspace/free-rtos-demo/libArduinoLibraries.a(tasks.o)
+ .text.hot.uxTaskGetStackHighWaterMark
+                0x0000000000000000       0x22 /home/vboxuser/eclipse-workspace_1/eclipse-workspace/free-rtos-demo/libArduinoLibraries.a(tasks.o)
+ .text.hot.xTaskGetCurrentTaskHandle
+                0x0000000000000000        0xa /home/vboxuser/eclipse-workspace_1/eclipse-workspace/free-rtos-demo/libArduinoLibraries.a(tasks.o)
+ .text.hot.xTaskGetCurrentTaskHandleForCore
+                0x0000000000000000       0x14 /home/vboxuser/eclipse-workspace_1/eclipse-workspace/free-rtos-demo/libArduinoLibraries.a(tasks.o)
+ .text.hot.xTaskPriorityInherit
+                0x0000000000000000       0xfc /home/vboxuser/eclipse-workspace_1/eclipse-workspace/free-rtos-demo/libArduinoLibraries.a(tasks.o)
+ .text.hot.vTaskPriorityDisinheritAfterTimeout
+                0x0000000000000000       0xc6 /home/vboxuser/eclipse-workspace_1/eclipse-workspace/free-rtos-demo/libArduinoLibraries.a(tasks.o)
+ .text.hot.uxTaskResetEventItemValue
+                0x0000000000000000       0x2e /home/vboxuser/eclipse-workspace_1/eclipse-workspace/free-rtos-demo/libArduinoLibraries.a(tasks.o)
+ .text.hot.pvTaskIncrementMutexHeldCount
+                0x0000000000000000       0x16 /home/vboxuser/eclipse-workspace_1/eclipse-workspace/free-rtos-demo/libArduinoLibraries.a(tasks.o)
+ .text.hot.ulTaskGenericNotifyTake
+                0x0000000000000000      0x104 /home/vboxuser/eclipse-workspace_1/eclipse-workspace/free-rtos-demo/libArduinoLibraries.a(tasks.o)
+ .text.hot.xTaskGenericNotifyWait
+                0x0000000000000000      0x16e /home/vboxuser/eclipse-workspace_1/eclipse-workspace/free-rtos-demo/libArduinoLibraries.a(tasks.o)
+ .text.hot.xTaskGenericNotify
+                0x0000000000000000      0x1c2 /home/vboxuser/eclipse-workspace_1/eclipse-workspace/free-rtos-demo/libArduinoLibraries.a(tasks.o)
+ .text.hot.xTaskGenericNotifyFromISR
+                0x0000000000000000      0x212 /home/vboxuser/eclipse-workspace_1/eclipse-workspace/free-rtos-demo/libArduinoLibraries.a(tasks.o)
+ .text.hot.vTaskGenericNotifyGiveFromISR
+                0x0000000000000000      0x156 /home/vboxuser/eclipse-workspace_1/eclipse-workspace/free-rtos-demo/libArduinoLibraries.a(tasks.o)
+ .text.hot.xTaskGenericNotifyStateClear
+                0x0000000000000000       0x2c /home/vboxuser/eclipse-workspace_1/eclipse-workspace/free-rtos-demo/libArduinoLibraries.a(tasks.o)
+ .text.hot.ulTaskGenericNotifyValueClear
+                0x0000000000000000       0x5c /home/vboxuser/eclipse-workspace_1/eclipse-workspace/free-rtos-demo/libArduinoLibraries.a(tasks.o)
+ .text.hot.vTaskResetState
+                0x0000000000000000       0x42 /home/vboxuser/eclipse-workspace_1/eclipse-workspace/free-rtos-demo/libArduinoLibraries.a(tasks.o)
+ .text          0x0000000000000000        0x0 /home/vboxuser/eclipse-workspace_1/eclipse-workspace/free-rtos-demo/libArduinoLibraries.a(timers.o)
+ .data          0x0000000000000000        0x0 /home/vboxuser/eclipse-workspace_1/eclipse-workspace/free-rtos-demo/libArduinoLibraries.a(timers.o)
+ .bss           0x0000000000000000        0x0 /home/vboxuser/eclipse-workspace_1/eclipse-workspace/free-rtos-demo/libArduinoLibraries.a(timers.o)
+ .text.hot.xTimerGenericCommandFromISR
+                0x0000000000000000       0x4c /home/vboxuser/eclipse-workspace_1/eclipse-workspace/free-rtos-demo/libArduinoLibraries.a(timers.o)
+ .text.hot.xTimerGetTimerDaemonTaskHandle
+                0x0000000000000000        0xa /home/vboxuser/eclipse-workspace_1/eclipse-workspace/free-rtos-demo/libArduinoLibraries.a(timers.o)
+ .text.hot.xTimerGetPeriod
+                0x0000000000000000        0x8 /home/vboxuser/eclipse-workspace_1/eclipse-workspace/free-rtos-demo/libArduinoLibraries.a(timers.o)
+ .text.hot.vTimerSetReloadMode
+                0x0000000000000000       0x1c /home/vboxuser/eclipse-workspace_1/eclipse-workspace/free-rtos-demo/libArduinoLibraries.a(timers.o)
+ .text.hot.xTimerGetReloadMode
+                0x0000000000000000       0x16 /home/vboxuser/eclipse-workspace_1/eclipse-workspace/free-rtos-demo/libArduinoLibraries.a(timers.o)
+ .text.hot.uxTimerGetReloadMode
+                0x0000000000000000        0x4 /home/vboxuser/eclipse-workspace_1/eclipse-workspace/free-rtos-demo/libArduinoLibraries.a(timers.o)
+ .text.hot.xTimerGetExpiryTime
+                0x0000000000000000        0x8 /home/vboxuser/eclipse-workspace_1/eclipse-workspace/free-rtos-demo/libArduinoLibraries.a(timers.o)
+ .text.hot.pcTimerGetName
+                0x0000000000000000        0x8 /home/vboxuser/eclipse-workspace_1/eclipse-workspace/free-rtos-demo/libArduinoLibraries.a(timers.o)
+ .text.hot.xTimerIsTimerActive
+                0x0000000000000000       0x12 /home/vboxuser/eclipse-workspace_1/eclipse-workspace/free-rtos-demo/libArduinoLibraries.a(timers.o)
+ .text.hot.vTimerResetState
+                0x0000000000000000       0x12 /home/vboxuser/eclipse-workspace_1/eclipse-workspace/free-rtos-demo/libArduinoLibraries.a(timers.o)
+ .avr.prop      0x0000000000000000       0x16 /home/vboxuser/eclipse-workspace_1/eclipse-workspace/free-rtos-demo/libArduinoLibraries.a(timers.o)
+ .text          0x0000000000000000        0x0 /home/vboxuser/eclipse-workspace_1/eclipse-workspace/free-rtos-demo/libArduinoLibraries.a(variantHooks.o)
+ .data          0x0000000000000000        0x0 /home/vboxuser/eclipse-workspace_1/eclipse-workspace/free-rtos-demo/libArduinoLibraries.a(variantHooks.o)
+ .bss           0x0000000000000000        0x0 /home/vboxuser/eclipse-workspace_1/eclipse-workspace/free-rtos-demo/libArduinoLibraries.a(variantHooks.o)
+ .text.initVariant
+                0x0000000000000000       0x22 /home/vboxuser/eclipse-workspace_1/eclipse-workspace/free-rtos-demo/libArduinoLibraries.a(variantHooks.o)
+ .text          0x0000000000000000        0x0 /home/vboxuser/eclipse-workspace_1/eclipse-workspace/free-rtos-demo/libArduinoLibraries.a(heap_3.o)
+ .data          0x0000000000000000        0x0 /home/vboxuser/eclipse-workspace_1/eclipse-workspace/free-rtos-demo/libArduinoLibraries.a(heap_3.o)
+ .bss           0x0000000000000000        0x0 /home/vboxuser/eclipse-workspace_1/eclipse-workspace/free-rtos-demo/libArduinoLibraries.a(heap_3.o)
+ .text.hot.vPortHeapResetState
+                0x0000000000000000        0x2 /home/vboxuser/eclipse-workspace_1/eclipse-workspace/free-rtos-demo/libArduinoLibraries.a(heap_3.o)
+ .text          0x0000000000000000        0x0 /home/vboxuser/eclipse-workspace_1/eclipse-workspace/free-rtos-demo/libArduinoLibraries.a(list.o)
+ .data          0x0000000000000000        0x0 /home/vboxuser/eclipse-workspace_1/eclipse-workspace/free-rtos-demo/libArduinoLibraries.a(list.o)
+ .bss           0x0000000000000000        0x0 /home/vboxuser/eclipse-workspace_1/eclipse-workspace/free-rtos-demo/libArduinoLibraries.a(list.o)
+ .text.hot.vListInsertEnd
+                0x0000000000000000       0x40 /home/vboxuser/eclipse-workspace_1/eclipse-workspace/free-rtos-demo/libArduinoLibraries.a(list.o)
+ .text          0x0000000000000000        0x0 /home/vboxuser/eclipse-workspace_1/eclipse-workspace/free-rtos-demo/libArduinoLibraries.a(port.o)
+ .data          0x0000000000000000        0x0 /home/vboxuser/eclipse-workspace_1/eclipse-workspace/free-rtos-demo/libArduinoLibraries.a(port.o)
+ .bss           0x0000000000000000        0x0 /home/vboxuser/eclipse-workspace_1/eclipse-workspace/free-rtos-demo/libArduinoLibraries.a(port.o)
+ .text.hot.vPortEndScheduler
+                0x0000000000000000       0x18 /home/vboxuser/eclipse-workspace_1/eclipse-workspace/free-rtos-demo/libArduinoLibraries.a(port.o)
+ .text.hot.vPortDelay
+                0x0000000000000000       0x46 /home/vboxuser/eclipse-workspace_1/eclipse-workspace/free-rtos-demo/libArduinoLibraries.a(port.o)
+ .text.hot.vPortYieldFromISR
+                0x0000000000000000       0xb2 /home/vboxuser/eclipse-workspace_1/eclipse-workspace/free-rtos-demo/libArduinoLibraries.a(port.o)
+ COMMON         0x0000000000000000        0x4 /home/vboxuser/eclipse-workspace_1/eclipse-workspace/free-rtos-demo/libArduinoLibraries.a(port.o)
+ .text          0x0000000000000000        0x0 /home/vboxuser/eclipse-workspace_1/eclipse-workspace/free-rtos-demo/libArduinoLibraries.a(queue.o)
+ .data          0x0000000000000000        0x0 /home/vboxuser/eclipse-workspace_1/eclipse-workspace/free-rtos-demo/libArduinoLibraries.a(queue.o)
+ .bss           0x0000000000000000        0x0 /home/vboxuser/eclipse-workspace_1/eclipse-workspace/free-rtos-demo/libArduinoLibraries.a(queue.o)
+ .text.hot.xQueueCreateCountingSemaphore
+                0x0000000000000000       0x26 /home/vboxuser/eclipse-workspace_1/eclipse-workspace/free-rtos-demo/libArduinoLibraries.a(queue.o)
+ .text.hot.xQueueCreateMutex
+                0x0000000000000000       0x34 /home/vboxuser/eclipse-workspace_1/eclipse-workspace/free-rtos-demo/libArduinoLibraries.a(queue.o)
+ .text.hot.xQueueGiveMutexRecursive
+                0x0000000000000000       0x42 /home/vboxuser/eclipse-workspace_1/eclipse-workspace/free-rtos-demo/libArduinoLibraries.a(queue.o)
+ .text.hot.xQueueGenericSendFromISR
+                0x0000000000000000       0x68 /home/vboxuser/eclipse-workspace_1/eclipse-workspace/free-rtos-demo/libArduinoLibraries.a(queue.o)
+ .text.hot.xQueueGiveFromISR
+                0x0000000000000000       0x60 /home/vboxuser/eclipse-workspace_1/eclipse-workspace/free-rtos-demo/libArduinoLibraries.a(queue.o)
+ .text.hot.xQueueSemaphoreTake
+                0x0000000000000000      0x184 /home/vboxuser/eclipse-workspace_1/eclipse-workspace/free-rtos-demo/libArduinoLibraries.a(queue.o)
+ .text.hot.xQueueTakeMutexRecursive
+                0x0000000000000000       0x48 /home/vboxuser/eclipse-workspace_1/eclipse-workspace/free-rtos-demo/libArduinoLibraries.a(queue.o)
+ .text.hot.xQueuePeek
+                0x0000000000000000      0x122 /home/vboxuser/eclipse-workspace_1/eclipse-workspace/free-rtos-demo/libArduinoLibraries.a(queue.o)
+ .text.hot.xQueueReceiveFromISR
+                0x0000000000000000       0x68 /home/vboxuser/eclipse-workspace_1/eclipse-workspace/free-rtos-demo/libArduinoLibraries.a(queue.o)
+ .text.hot.xQueuePeekFromISR
+                0x0000000000000000       0x2e /home/vboxuser/eclipse-workspace_1/eclipse-workspace/free-rtos-demo/libArduinoLibraries.a(queue.o)
+ .text.hot.uxQueueMessagesWaiting
+                0x0000000000000000       0x10 /home/vboxuser/eclipse-workspace_1/eclipse-workspace/free-rtos-demo/libArduinoLibraries.a(queue.o)
+ .text.hot.uxQueueSpacesAvailable
+                0x0000000000000000       0x14 /home/vboxuser/eclipse-workspace_1/eclipse-workspace/free-rtos-demo/libArduinoLibraries.a(queue.o)
+ .text.hot.uxQueueMessagesWaitingFromISR
+                0x0000000000000000        0x6 /home/vboxuser/eclipse-workspace_1/eclipse-workspace/free-rtos-demo/libArduinoLibraries.a(queue.o)
+ .text.hot.vQueueDelete
+                0x0000000000000000        0x4 /home/vboxuser/eclipse-workspace_1/eclipse-workspace/free-rtos-demo/libArduinoLibraries.a(queue.o)
+ .text.hot.uxQueueGetQueueItemSize
+                0x0000000000000000        0x6 /home/vboxuser/eclipse-workspace_1/eclipse-workspace/free-rtos-demo/libArduinoLibraries.a(queue.o)
+ .text.hot.uxQueueGetQueueLength
+                0x0000000000000000        0x6 /home/vboxuser/eclipse-workspace_1/eclipse-workspace/free-rtos-demo/libArduinoLibraries.a(queue.o)
+ .text.hot.xQueueIsQueueEmptyFromISR
+                0x0000000000000000        0xc /home/vboxuser/eclipse-workspace_1/eclipse-workspace/free-rtos-demo/libArduinoLibraries.a(queue.o)
+ .text.hot.xQueueIsQueueFullFromISR
+                0x0000000000000000        0xe /home/vboxuser/eclipse-workspace_1/eclipse-workspace/free-rtos-demo/libArduinoLibraries.a(queue.o)
+ .group         0x0000000000000000        0x8 /home/vboxuser/eclipse-workspace_1/eclipse-workspace/free-rtos-demo/libArduinoCore.a(HardwareSerial.o)
+ .text          0x0000000000000000        0x0 /home/vboxuser/eclipse-workspace_1/eclipse-workspace/free-rtos-demo/libArduinoCore.a(HardwareSerial.o)
+ .data          0x0000000000000000        0x0 /home/vboxuser/eclipse-workspace_1/eclipse-workspace/free-rtos-demo/libArduinoCore.a(HardwareSerial.o)
+ .bss           0x0000000000000000        0x0 /home/vboxuser/eclipse-workspace_1/eclipse-workspace/free-rtos-demo/libArduinoCore.a(HardwareSerial.o)
+ .text._ZN14HardwareSerialC2EP11ring_bufferPVhS3_S3_S3_S3_hhhhh
+                0x0000000000000000       0x60 /home/vboxuser/eclipse-workspace_1/eclipse-workspace/free-rtos-demo/libArduinoCore.a(HardwareSerial.o)
+ .text._ZN14HardwareSerial3endEv
+                0x0000000000000000       0x56 /home/vboxuser/eclipse-workspace_1/eclipse-workspace/free-rtos-demo/libArduinoCore.a(HardwareSerial.o)
+ .group         0x0000000000000000        0x8 /home/vboxuser/eclipse-workspace_1/eclipse-workspace/free-rtos-demo/libArduinoCore.a(Print.o)
+ .text          0x0000000000000000        0x0 /home/vboxuser/eclipse-workspace_1/eclipse-workspace/free-rtos-demo/libArduinoCore.a(Print.o)
+ .data          0x0000000000000000        0x0 /home/vboxuser/eclipse-workspace_1/eclipse-workspace/free-rtos-demo/libArduinoCore.a(Print.o)
+ .bss           0x0000000000000000        0x0 /home/vboxuser/eclipse-workspace_1/eclipse-workspace/free-rtos-demo/libArduinoCore.a(Print.o)
+ .text._ZN5Print5printERK6String
+                0x0000000000000000       0x56 /home/vboxuser/eclipse-workspace_1/eclipse-workspace/free-rtos-demo/libArduinoCore.a(Print.o)
+ .text._ZN5Print7printlnERK6String
+                0x0000000000000000       0x14 /home/vboxuser/eclipse-workspace_1/eclipse-workspace/free-rtos-demo/libArduinoCore.a(Print.o)
+ .text._ZN5Print7printlnEci
+                0x0000000000000000       0x14 /home/vboxuser/eclipse-workspace_1/eclipse-workspace/free-rtos-demo/libArduinoCore.a(Print.o)
+ .text._ZN5Print5printEii
+                0x0000000000000000        0xe /home/vboxuser/eclipse-workspace_1/eclipse-workspace/free-rtos-demo/libArduinoCore.a(Print.o)
+ .text._ZN5Print7printlnEii
+                0x0000000000000000       0x14 /home/vboxuser/eclipse-workspace_1/eclipse-workspace/free-rtos-demo/libArduinoCore.a(Print.o)
+ .text._ZN5Print7printlnEli
+                0x0000000000000000       0x14 /home/vboxuser/eclipse-workspace_1/eclipse-workspace/free-rtos-demo/libArduinoCore.a(Print.o)
+ .text._ZN5Print5printEhi
+                0x0000000000000000        0xe /home/vboxuser/eclipse-workspace_1/eclipse-workspace/free-rtos-demo/libArduinoCore.a(Print.o)
+ .text._ZN5Print7printlnEhi
+                0x0000000000000000       0x14 /home/vboxuser/eclipse-workspace_1/eclipse-workspace/free-rtos-demo/libArduinoCore.a(Print.o)
+ .text._ZN5Print7printlnEmi
+                0x0000000000000000       0x14 /home/vboxuser/eclipse-workspace_1/eclipse-workspace/free-rtos-demo/libArduinoCore.a(Print.o)
+ .rodata._ZN5Print10printFloatEdh.str1.1
+                0x0000000000000000        0x2 /home/vboxuser/eclipse-workspace_1/eclipse-workspace/free-rtos-demo/libArduinoCore.a(Print.o)
+ .text._ZN5Print10printFloatEdh
+                0x0000000000000000      0x10a /home/vboxuser/eclipse-workspace_1/eclipse-workspace/free-rtos-demo/libArduinoCore.a(Print.o)
+ .text._ZN5Print5printEdi
+                0x0000000000000000        0x4 /home/vboxuser/eclipse-workspace_1/eclipse-workspace/free-rtos-demo/libArduinoCore.a(Print.o)
+ .text._ZN5Print7printlnEdi
+                0x0000000000000000       0x14 /home/vboxuser/eclipse-workspace_1/eclipse-workspace/free-rtos-demo/libArduinoCore.a(Print.o)
+ .rodata._ZTV5Print
+                0x0000000000000000        0xa /home/vboxuser/eclipse-workspace_1/eclipse-workspace/free-rtos-demo/libArduinoCore.a(Print.o)
+ .group         0x0000000000000000        0x8 /home/vboxuser/eclipse-workspace_1/eclipse-workspace/free-rtos-demo/libArduinoCore.a(WString.o)
+ .group         0x0000000000000000        0x8 /home/vboxuser/eclipse-workspace_1/eclipse-workspace/free-rtos-demo/libArduinoCore.a(WString.o)
+ .text          0x0000000000000000        0x0 /home/vboxuser/eclipse-workspace_1/eclipse-workspace/free-rtos-demo/libArduinoCore.a(WString.o)
+ .data          0x0000000000000000        0x0 /home/vboxuser/eclipse-workspace_1/eclipse-workspace/free-rtos-demo/libArduinoCore.a(WString.o)
+ .bss           0x0000000000000000        0x0 /home/vboxuser/eclipse-workspace_1/eclipse-workspace/free-rtos-demo/libArduinoCore.a(WString.o)
+ .text._ZN6StringD2Ev
+                0x0000000000000000        0xa /home/vboxuser/eclipse-workspace_1/eclipse-workspace/free-rtos-demo/libArduinoCore.a(WString.o)
+ .text._ZN6String9getBufferEj
+                0x0000000000000000       0x28 /home/vboxuser/eclipse-workspace_1/eclipse-workspace/free-rtos-demo/libArduinoCore.a(WString.o)
+ .rodata._ZN6StringC2EPKc.str1.1
+                0x0000000000000000        0x1 /home/vboxuser/eclipse-workspace_1/eclipse-workspace/free-rtos-demo/libArduinoCore.a(WString.o)
+ .text._ZN6StringC2EPKc
+                0x0000000000000000       0x52 /home/vboxuser/eclipse-workspace_1/eclipse-workspace/free-rtos-demo/libArduinoCore.a(WString.o)
+ .text._ZN6StringC2ERKS_
+                0x0000000000000000       0x3e /home/vboxuser/eclipse-workspace_1/eclipse-workspace/free-rtos-demo/libArduinoCore.a(WString.o)
+ .text._ZN6StringC2Eh
+                0x0000000000000000       0x34 /home/vboxuser/eclipse-workspace_1/eclipse-workspace/free-rtos-demo/libArduinoCore.a(WString.o)
+ .text._ZN6StringC2Eii
+                0x0000000000000000       0x72 /home/vboxuser/eclipse-workspace_1/eclipse-workspace/free-rtos-demo/libArduinoCore.a(WString.o)
+ .text._ZN6StringC2Eji
+                0x0000000000000000       0x76 /home/vboxuser/eclipse-workspace_1/eclipse-workspace/free-rtos-demo/libArduinoCore.a(WString.o)
+ .text._ZN6StringC2Eli
+                0x0000000000000000       0x74 /home/vboxuser/eclipse-workspace_1/eclipse-workspace/free-rtos-demo/libArduinoCore.a(WString.o)
+ .text._ZN6StringC2Emi
+                0x0000000000000000       0x76 /home/vboxuser/eclipse-workspace_1/eclipse-workspace/free-rtos-demo/libArduinoCore.a(WString.o)
+ .text._ZNK6String6charAtEj
+                0x0000000000000000        0xe /home/vboxuser/eclipse-workspace_1/eclipse-workspace/free-rtos-demo/libArduinoCore.a(WString.o)
+ .text._ZN6String9setCharAtEjc
+                0x0000000000000000       0x20 /home/vboxuser/eclipse-workspace_1/eclipse-workspace/free-rtos-demo/libArduinoCore.a(WString.o)
+ .text._ZNK6String9compareToERKS_
+                0x0000000000000000       0x10 /home/vboxuser/eclipse-workspace_1/eclipse-workspace/free-rtos-demo/libArduinoCore.a(WString.o)
+ .text._ZN6StringaSERKS_
+                0x0000000000000000       0x5c /home/vboxuser/eclipse-workspace_1/eclipse-workspace/free-rtos-demo/libArduinoCore.a(WString.o)
+ .text._ZN6StringpLERKS_
+                0x0000000000000000       0x6e /home/vboxuser/eclipse-workspace_1/eclipse-workspace/free-rtos-demo/libArduinoCore.a(WString.o)
+ .text._ZN6String6concatERKS_
+                0x0000000000000000        0x4 /home/vboxuser/eclipse-workspace_1/eclipse-workspace/free-rtos-demo/libArduinoCore.a(WString.o)
+ .text._ZNK6StringeqERKS_
+                0x0000000000000000       0x2e /home/vboxuser/eclipse-workspace_1/eclipse-workspace/free-rtos-demo/libArduinoCore.a(WString.o)
+ .text._ZNK6StringneERKS_
+                0x0000000000000000       0x32 /home/vboxuser/eclipse-workspace_1/eclipse-workspace/free-rtos-demo/libArduinoCore.a(WString.o)
+ .text._ZNK6StringltERKS_
+                0x0000000000000000       0x1c /home/vboxuser/eclipse-workspace_1/eclipse-workspace/free-rtos-demo/libArduinoCore.a(WString.o)
+ .text._ZNK6StringgtERKS_
+                0x0000000000000000       0x22 /home/vboxuser/eclipse-workspace_1/eclipse-workspace/free-rtos-demo/libArduinoCore.a(WString.o)
+ .text._ZNK6StringleERKS_
+                0x0000000000000000       0x22 /home/vboxuser/eclipse-workspace_1/eclipse-workspace/free-rtos-demo/libArduinoCore.a(WString.o)
+ .text._ZNK6StringgeERKS_
+                0x0000000000000000       0x1e /home/vboxuser/eclipse-workspace_1/eclipse-workspace/free-rtos-demo/libArduinoCore.a(WString.o)
+ .text._ZN6StringixEj
+                0x0000000000000000       0x24 /home/vboxuser/eclipse-workspace_1/eclipse-workspace/free-rtos-demo/libArduinoCore.a(WString.o)
+ .text._ZNK6StringixEj
+                0x0000000000000000        0xe /home/vboxuser/eclipse-workspace_1/eclipse-workspace/free-rtos-demo/libArduinoCore.a(WString.o)
+ .text._ZNK6String8endsWithERKS_
+                0x0000000000000000       0x34 /home/vboxuser/eclipse-workspace_1/eclipse-workspace/free-rtos-demo/libArduinoCore.a(WString.o)
+ .text._ZNK6String6equalsERKS_
+                0x0000000000000000       0x2c /home/vboxuser/eclipse-workspace_1/eclipse-workspace/free-rtos-demo/libArduinoCore.a(WString.o)
+ .text._ZN6String7replaceEcc
+                0x0000000000000000       0x82 /home/vboxuser/eclipse-workspace_1/eclipse-workspace/free-rtos-demo/libArduinoCore.a(WString.o)
+ .text._ZNK6String7indexOfEcj
+                0x0000000000000000       0x34 /home/vboxuser/eclipse-workspace_1/eclipse-workspace/free-rtos-demo/libArduinoCore.a(WString.o)
+ .text._ZNK6String7indexOfEc
+                0x0000000000000000        0x8 /home/vboxuser/eclipse-workspace_1/eclipse-workspace/free-rtos-demo/libArduinoCore.a(WString.o)
+ .text._ZNK6String7indexOfERKS_j
+                0x0000000000000000       0x38 /home/vboxuser/eclipse-workspace_1/eclipse-workspace/free-rtos-demo/libArduinoCore.a(WString.o)
+ .text._ZNK6String7indexOfERKS_
+                0x0000000000000000        0x8 /home/vboxuser/eclipse-workspace_1/eclipse-workspace/free-rtos-demo/libArduinoCore.a(WString.o)
+ .text._ZNK6String11lastIndexOfEcj
+                0x0000000000000000       0x68 /home/vboxuser/eclipse-workspace_1/eclipse-workspace/free-rtos-demo/libArduinoCore.a(WString.o)
+ .text._ZNK6String11lastIndexOfEc
+                0x0000000000000000        0xe /home/vboxuser/eclipse-workspace_1/eclipse-workspace/free-rtos-demo/libArduinoCore.a(WString.o)
+ .text._ZNK6String10startsWithERKS_j
+                0x0000000000000000       0x3e /home/vboxuser/eclipse-workspace_1/eclipse-workspace/free-rtos-demo/libArduinoCore.a(WString.o)
+ .text._ZNK6String10startsWithERKS_
+                0x0000000000000000       0x1e /home/vboxuser/eclipse-workspace_1/eclipse-workspace/free-rtos-demo/libArduinoCore.a(WString.o)
+ .text._ZNK6String9substringEjj
+                0x0000000000000000       0x6e /home/vboxuser/eclipse-workspace_1/eclipse-workspace/free-rtos-demo/libArduinoCore.a(WString.o)
+ .text._ZNK6String11lastIndexOfERKS_j
+                0x0000000000000000       0xc0 /home/vboxuser/eclipse-workspace_1/eclipse-workspace/free-rtos-demo/libArduinoCore.a(WString.o)
+ .text._ZNK6String11lastIndexOfERKS_
+                0x0000000000000000       0x14 /home/vboxuser/eclipse-workspace_1/eclipse-workspace/free-rtos-demo/libArduinoCore.a(WString.o)
+ .text._ZNK6String9substringEj
+                0x0000000000000000       0x18 /home/vboxuser/eclipse-workspace_1/eclipse-workspace/free-rtos-demo/libArduinoCore.a(WString.o)
+ .text._ZN6String7replaceERKS_S1_
+                0x0000000000000000      0x116 /home/vboxuser/eclipse-workspace_1/eclipse-workspace/free-rtos-demo/libArduinoCore.a(WString.o)
+ .text._ZNK6String11toLowerCaseEv
+                0x0000000000000000       0x5e /home/vboxuser/eclipse-workspace_1/eclipse-workspace/free-rtos-demo/libArduinoCore.a(WString.o)
+ .text._ZNK6String16equalsIgnoreCaseERKS_
+                0x0000000000000000       0x8e /home/vboxuser/eclipse-workspace_1/eclipse-workspace/free-rtos-demo/libArduinoCore.a(WString.o)
+ .text._ZNK6String11toUpperCaseEv
+                0x0000000000000000       0x5e /home/vboxuser/eclipse-workspace_1/eclipse-workspace/free-rtos-demo/libArduinoCore.a(WString.o)
+ .text._ZNK6String4trimEv
+                0x0000000000000000       0xd0 /home/vboxuser/eclipse-workspace_1/eclipse-workspace/free-rtos-demo/libArduinoCore.a(WString.o)
+ .text._ZN6String8getBytesEPhj
+                0x0000000000000000       0x46 /home/vboxuser/eclipse-workspace_1/eclipse-workspace/free-rtos-demo/libArduinoCore.a(WString.o)
+ .text._ZN6String11toCharArrayEPcj
+                0x0000000000000000       0x46 /home/vboxuser/eclipse-workspace_1/eclipse-workspace/free-rtos-demo/libArduinoCore.a(WString.o)
+ .text._ZN6String5toIntEv
+                0x0000000000000000        0xa /home/vboxuser/eclipse-workspace_1/eclipse-workspace/free-rtos-demo/libArduinoCore.a(WString.o)
+ .bss._ZZN6StringixEjE19dummy_writable_char
+                0x0000000000000000        0x1 /home/vboxuser/eclipse-workspace_1/eclipse-workspace/free-rtos-demo/libArduinoCore.a(WString.o)
+ .comment       0x0000000000000000       0x12 /home/vboxuser/eclipse-workspace_1/eclipse-workspace/free-rtos-demo/libArduinoCore.a(WString.o)
+ .text          0x0000000000000000        0x0 /home/vboxuser/eclipse-workspace_1/eclipse-workspace/free-rtos-demo/libArduinoCore.a(wiring.o)
+ .data          0x0000000000000000        0x0 /home/vboxuser/eclipse-workspace_1/eclipse-workspace/free-rtos-demo/libArduinoCore.a(wiring.o)
+ .bss           0x0000000000000000        0x0 /home/vboxuser/eclipse-workspace_1/eclipse-workspace/free-rtos-demo/libArduinoCore.a(wiring.o)
+ .text.millis   0x0000000000000000       0x18 /home/vboxuser/eclipse-workspace_1/eclipse-workspace/free-rtos-demo/libArduinoCore.a(wiring.o)
+ .text.micros   0x0000000000000000       0x4a /home/vboxuser/eclipse-workspace_1/eclipse-workspace/free-rtos-demo/libArduinoCore.a(wiring.o)
+ .text.delay    0x0000000000000000       0x4c /home/vboxuser/eclipse-workspace_1/eclipse-workspace/free-rtos-demo/libArduinoCore.a(wiring.o)
+ .text.delayMicroseconds
+                0x0000000000000000       0x14 /home/vboxuser/eclipse-workspace_1/eclipse-workspace/free-rtos-demo/libArduinoCore.a(wiring.o)
+ .text.init     0x0000000000000000       0x76 /home/vboxuser/eclipse-workspace_1/eclipse-workspace/free-rtos-demo/libArduinoCore.a(wiring.o)
+ .text          0x0000000000000000        0x0 /home/vboxuser/eclipse-workspace_1/eclipse-workspace/free-rtos-demo/libArduinoCore.a(wiring_digital.o)
+ .data          0x0000000000000000        0x0 /home/vboxuser/eclipse-workspace_1/eclipse-workspace/free-rtos-demo/libArduinoCore.a(wiring_digital.o)
+ .bss           0x0000000000000000        0x0 /home/vboxuser/eclipse-workspace_1/eclipse-workspace/free-rtos-demo/libArduinoCore.a(wiring_digital.o)
+ .text.digitalWrite
+                0x0000000000000000       0x60 /home/vboxuser/eclipse-workspace_1/eclipse-workspace/free-rtos-demo/libArduinoCore.a(wiring_digital.o)
+ .text          0x0000000000000000        0x0 /home/vboxuser/eclipse-workspace_1/eclipse-workspace/free-rtos-demo/libArduinoCore.a(pins_arduino.o)
+ .data          0x0000000000000000        0x0 /home/vboxuser/eclipse-workspace_1/eclipse-workspace/free-rtos-demo/libArduinoCore.a(pins_arduino.o)
+ .bss           0x0000000000000000        0x0 /home/vboxuser/eclipse-workspace_1/eclipse-workspace/free-rtos-demo/libArduinoCore.a(pins_arduino.o)
+ .progmem.data.port_to_output_PGM
+                0x0000000000000000        0xa /home/vboxuser/eclipse-workspace_1/eclipse-workspace/free-rtos-demo/libArduinoCore.a(pins_arduino.o)
+ .text          0x0000000000000000        0x0 /usr/lib/gcc/avr/7.3.0/avr5/libgcc.a(_udivmodhi4.o)
+ .data          0x0000000000000000        0x0 /usr/lib/gcc/avr/7.3.0/avr5/libgcc.a(_udivmodhi4.o)
+ .bss           0x0000000000000000        0x0 /usr/lib/gcc/avr/7.3.0/avr5/libgcc.a(_udivmodhi4.o)
+ .text.libgcc.mul
+                0x0000000000000000        0x0 /usr/lib/gcc/avr/7.3.0/avr5/libgcc.a(_udivmodhi4.o)
+ .text.libgcc   0x0000000000000000        0x0 /usr/lib/gcc/avr/7.3.0/avr5/libgcc.a(_udivmodhi4.o)
+ .text.libgcc.prologue
+                0x0000000000000000        0x0 /usr/lib/gcc/avr/7.3.0/avr5/libgcc.a(_udivmodhi4.o)
+ .text.libgcc.builtins
+                0x0000000000000000        0x0 /usr/lib/gcc/avr/7.3.0/avr5/libgcc.a(_udivmodhi4.o)
+ .text.libgcc.fmul
+                0x0000000000000000        0x0 /usr/lib/gcc/avr/7.3.0/avr5/libgcc.a(_udivmodhi4.o)
+ .text.libgcc.fixed
+                0x0000000000000000        0x0 /usr/lib/gcc/avr/7.3.0/avr5/libgcc.a(_udivmodhi4.o)
+ .text          0x0000000000000000        0x0 /usr/lib/gcc/avr/7.3.0/avr5/libgcc.a(_udivmodsi4.o)
+ .data          0x0000000000000000        0x0 /usr/lib/gcc/avr/7.3.0/avr5/libgcc.a(_udivmodsi4.o)
+ .bss           0x0000000000000000        0x0 /usr/lib/gcc/avr/7.3.0/avr5/libgcc.a(_udivmodsi4.o)
+ .text.libgcc.mul
+                0x0000000000000000        0x0 /usr/lib/gcc/avr/7.3.0/avr5/libgcc.a(_udivmodsi4.o)
+ .text.libgcc   0x0000000000000000        0x0 /usr/lib/gcc/avr/7.3.0/avr5/libgcc.a(_udivmodsi4.o)
+ .text.libgcc.prologue
+                0x0000000000000000        0x0 /usr/lib/gcc/avr/7.3.0/avr5/libgcc.a(_udivmodsi4.o)
+ .text.libgcc.builtins
+                0x0000000000000000        0x0 /usr/lib/gcc/avr/7.3.0/avr5/libgcc.a(_udivmodsi4.o)
+ .text.libgcc.fmul
+                0x0000000000000000        0x0 /usr/lib/gcc/avr/7.3.0/avr5/libgcc.a(_udivmodsi4.o)
+ .text.libgcc.fixed
+                0x0000000000000000        0x0 /usr/lib/gcc/avr/7.3.0/avr5/libgcc.a(_udivmodsi4.o)
+ .text          0x0000000000000000        0x0 /usr/lib/gcc/avr/7.3.0/avr5/libgcc.a(_exit.o)
+ .data          0x0000000000000000        0x0 /usr/lib/gcc/avr/7.3.0/avr5/libgcc.a(_exit.o)
+ .bss           0x0000000000000000        0x0 /usr/lib/gcc/avr/7.3.0/avr5/libgcc.a(_exit.o)
+ .text.libgcc.mul
+                0x0000000000000000        0x0 /usr/lib/gcc/avr/7.3.0/avr5/libgcc.a(_exit.o)
+ .text.libgcc.div
+                0x0000000000000000        0x0 /usr/lib/gcc/avr/7.3.0/avr5/libgcc.a(_exit.o)
+ .text.libgcc   0x0000000000000000        0x0 /usr/lib/gcc/avr/7.3.0/avr5/libgcc.a(_exit.o)
+ .text.libgcc.prologue
+                0x0000000000000000        0x0 /usr/lib/gcc/avr/7.3.0/avr5/libgcc.a(_exit.o)
+ .text.libgcc.builtins
+                0x0000000000000000        0x0 /usr/lib/gcc/avr/7.3.0/avr5/libgcc.a(_exit.o)
+ .text.libgcc.fmul
+                0x0000000000000000        0x0 /usr/lib/gcc/avr/7.3.0/avr5/libgcc.a(_exit.o)
+ .text.libgcc.fixed
+                0x0000000000000000        0x0 /usr/lib/gcc/avr/7.3.0/avr5/libgcc.a(_exit.o)
+ .text          0x0000000000000000        0x0 /usr/lib/gcc/avr/7.3.0/avr5/libgcc.a(_tablejump2.o)
+ .data          0x0000000000000000        0x0 /usr/lib/gcc/avr/7.3.0/avr5/libgcc.a(_tablejump2.o)
+ .bss           0x0000000000000000        0x0 /usr/lib/gcc/avr/7.3.0/avr5/libgcc.a(_tablejump2.o)
+ .text.libgcc.mul
+                0x0000000000000000        0x0 /usr/lib/gcc/avr/7.3.0/avr5/libgcc.a(_tablejump2.o)
+ .text.libgcc.div
+                0x0000000000000000        0x0 /usr/lib/gcc/avr/7.3.0/avr5/libgcc.a(_tablejump2.o)
+ .text.libgcc.prologue
+                0x0000000000000000        0x0 /usr/lib/gcc/avr/7.3.0/avr5/libgcc.a(_tablejump2.o)
+ .text.libgcc.builtins
+                0x0000000000000000        0x0 /usr/lib/gcc/avr/7.3.0/avr5/libgcc.a(_tablejump2.o)
+ .text.libgcc.fmul
+                0x0000000000000000        0x0 /usr/lib/gcc/avr/7.3.0/avr5/libgcc.a(_tablejump2.o)
+ .text.libgcc.fixed
+                0x0000000000000000        0x0 /usr/lib/gcc/avr/7.3.0/avr5/libgcc.a(_tablejump2.o)
+ .text          0x0000000000000000        0x0 /usr/lib/gcc/avr/7.3.0/avr5/libgcc.a(_copy_data.o)
+ .data          0x0000000000000000        0x0 /usr/lib/gcc/avr/7.3.0/avr5/libgcc.a(_copy_data.o)
+ .bss           0x0000000000000000        0x0 /usr/lib/gcc/avr/7.3.0/avr5/libgcc.a(_copy_data.o)
+ .text.libgcc.mul
+                0x0000000000000000        0x0 /usr/lib/gcc/avr/7.3.0/avr5/libgcc.a(_copy_data.o)
+ .text.libgcc.div
+                0x0000000000000000        0x0 /usr/lib/gcc/avr/7.3.0/avr5/libgcc.a(_copy_data.o)
+ .text.libgcc   0x0000000000000000        0x0 /usr/lib/gcc/avr/7.3.0/avr5/libgcc.a(_copy_data.o)
+ .text.libgcc.prologue
+                0x0000000000000000        0x0 /usr/lib/gcc/avr/7.3.0/avr5/libgcc.a(_copy_data.o)
+ .text.libgcc.builtins
+                0x0000000000000000        0x0 /usr/lib/gcc/avr/7.3.0/avr5/libgcc.a(_copy_data.o)
+ .text.libgcc.fmul
+                0x0000000000000000        0x0 /usr/lib/gcc/avr/7.3.0/avr5/libgcc.a(_copy_data.o)
+ .text.libgcc.fixed
+                0x0000000000000000        0x0 /usr/lib/gcc/avr/7.3.0/avr5/libgcc.a(_copy_data.o)
+ .text          0x0000000000000000        0x0 /usr/lib/gcc/avr/7.3.0/avr5/libgcc.a(_clear_bss.o)
+ .data          0x0000000000000000        0x0 /usr/lib/gcc/avr/7.3.0/avr5/libgcc.a(_clear_bss.o)
+ .bss           0x0000000000000000        0x0 /usr/lib/gcc/avr/7.3.0/avr5/libgcc.a(_clear_bss.o)
+ .text.libgcc.mul
+                0x0000000000000000        0x0 /usr/lib/gcc/avr/7.3.0/avr5/libgcc.a(_clear_bss.o)
+ .text.libgcc.div
+                0x0000000000000000        0x0 /usr/lib/gcc/avr/7.3.0/avr5/libgcc.a(_clear_bss.o)
+ .text.libgcc   0x0000000000000000        0x0 /usr/lib/gcc/avr/7.3.0/avr5/libgcc.a(_clear_bss.o)
+ .text.libgcc.prologue
+                0x0000000000000000        0x0 /usr/lib/gcc/avr/7.3.0/avr5/libgcc.a(_clear_bss.o)
+ .text.libgcc.builtins
+                0x0000000000000000        0x0 /usr/lib/gcc/avr/7.3.0/avr5/libgcc.a(_clear_bss.o)
+ .text.libgcc.fmul
+                0x0000000000000000        0x0 /usr/lib/gcc/avr/7.3.0/avr5/libgcc.a(_clear_bss.o)
+ .text.libgcc.fixed
+                0x0000000000000000        0x0 /usr/lib/gcc/avr/7.3.0/avr5/libgcc.a(_clear_bss.o)
+ .text          0x0000000000000000        0x0 /usr/lib/gcc/avr/7.3.0/avr5/libgcc.a(_ctors.o)
+ .data          0x0000000000000000        0x0 /usr/lib/gcc/avr/7.3.0/avr5/libgcc.a(_ctors.o)
+ .bss           0x0000000000000000        0x0 /usr/lib/gcc/avr/7.3.0/avr5/libgcc.a(_ctors.o)
+ .text.libgcc.mul
+                0x0000000000000000        0x0 /usr/lib/gcc/avr/7.3.0/avr5/libgcc.a(_ctors.o)
+ .text.libgcc.div
+                0x0000000000000000        0x0 /usr/lib/gcc/avr/7.3.0/avr5/libgcc.a(_ctors.o)
+ .text.libgcc   0x0000000000000000        0x0 /usr/lib/gcc/avr/7.3.0/avr5/libgcc.a(_ctors.o)
+ .text.libgcc.prologue
+                0x0000000000000000        0x0 /usr/lib/gcc/avr/7.3.0/avr5/libgcc.a(_ctors.o)
+ .text.libgcc.builtins
+                0x0000000000000000        0x0 /usr/lib/gcc/avr/7.3.0/avr5/libgcc.a(_ctors.o)
+ .text.libgcc.fmul
+                0x0000000000000000        0x0 /usr/lib/gcc/avr/7.3.0/avr5/libgcc.a(_ctors.o)
+ .text.libgcc.fixed
+                0x0000000000000000        0x0 /usr/lib/gcc/avr/7.3.0/avr5/libgcc.a(_ctors.o)
+ .text          0x0000000000000000        0x0 /usr/lib/gcc/avr/7.3.0/../../../avr/lib/avr5/libm.a(addsf3.o)
+ .data          0x0000000000000000        0x0 /usr/lib/gcc/avr/7.3.0/../../../avr/lib/avr5/libm.a(addsf3.o)
+ .bss           0x0000000000000000        0x0 /usr/lib/gcc/avr/7.3.0/../../../avr/lib/avr5/libm.a(addsf3.o)
+ .text.avr-libc.fplib
+                0x0000000000000000        0xe /usr/lib/gcc/avr/7.3.0/../../../avr/lib/avr5/libm.a(addsf3.o)
+ .text          0x0000000000000000        0x0 /usr/lib/gcc/avr/7.3.0/../../../avr/lib/avr5/libm.a(addsf3x.o)
+ .data          0x0000000000000000        0x0 /usr/lib/gcc/avr/7.3.0/../../../avr/lib/avr5/libm.a(addsf3x.o)
+ .bss           0x0000000000000000        0x0 /usr/lib/gcc/avr/7.3.0/../../../avr/lib/avr5/libm.a(addsf3x.o)
+ .text.avr-libc.fplib
+                0x0000000000000000       0xcc /usr/lib/gcc/avr/7.3.0/../../../avr/lib/avr5/libm.a(addsf3x.o)
+ .text          0x0000000000000000        0x0 /usr/lib/gcc/avr/7.3.0/../../../avr/lib/avr5/libm.a(cmpsf2.o)
+ .data          0x0000000000000000        0x0 /usr/lib/gcc/avr/7.3.0/../../../avr/lib/avr5/libm.a(cmpsf2.o)
+ .bss           0x0000000000000000        0x0 /usr/lib/gcc/avr/7.3.0/../../../avr/lib/avr5/libm.a(cmpsf2.o)
+ .text.avr-libc.fplib
+                0x0000000000000000        0xa /usr/lib/gcc/avr/7.3.0/../../../avr/lib/avr5/libm.a(cmpsf2.o)
+ .text          0x0000000000000000        0x0 /usr/lib/gcc/avr/7.3.0/../../../avr/lib/avr5/libm.a(divsf3.o)
+ .data          0x0000000000000000        0x0 /usr/lib/gcc/avr/7.3.0/../../../avr/lib/avr5/libm.a(divsf3.o)
+ .bss           0x0000000000000000        0x0 /usr/lib/gcc/avr/7.3.0/../../../avr/lib/avr5/libm.a(divsf3.o)
+ .text.avr-libc.fplib
+                0x0000000000000000        0x8 /usr/lib/gcc/avr/7.3.0/../../../avr/lib/avr5/libm.a(divsf3.o)
+ .text          0x0000000000000000        0x0 /usr/lib/gcc/avr/7.3.0/../../../avr/lib/avr5/libm.a(divsf3x.o)
+ .data          0x0000000000000000        0x0 /usr/lib/gcc/avr/7.3.0/../../../avr/lib/avr5/libm.a(divsf3x.o)
+ .bss           0x0000000000000000        0x0 /usr/lib/gcc/avr/7.3.0/../../../avr/lib/avr5/libm.a(divsf3x.o)
+ .text.avr-libc.fplib
+                0x0000000000000000       0xdc /usr/lib/gcc/avr/7.3.0/../../../avr/lib/avr5/libm.a(divsf3x.o)
+ .text          0x0000000000000000        0x0 /usr/lib/gcc/avr/7.3.0/../../../avr/lib/avr5/libm.a(fixsfsi.o)
+ .data          0x0000000000000000        0x0 /usr/lib/gcc/avr/7.3.0/../../../avr/lib/avr5/libm.a(fixsfsi.o)
+ .bss           0x0000000000000000        0x0 /usr/lib/gcc/avr/7.3.0/../../../avr/lib/avr5/libm.a(fixsfsi.o)
+ .text.avr-libc.fplib
+                0x0000000000000000        0xe /usr/lib/gcc/avr/7.3.0/../../../avr/lib/avr5/libm.a(fixsfsi.o)
+ .text          0x0000000000000000        0x0 /usr/lib/gcc/avr/7.3.0/../../../avr/lib/avr5/libm.a(fixunssfsi.o)
+ .data          0x0000000000000000        0x0 /usr/lib/gcc/avr/7.3.0/../../../avr/lib/avr5/libm.a(fixunssfsi.o)
+ .bss           0x0000000000000000        0x0 /usr/lib/gcc/avr/7.3.0/../../../avr/lib/avr5/libm.a(fixunssfsi.o)
+ .text.avr-libc.fplib
+                0x0000000000000000       0x5e /usr/lib/gcc/avr/7.3.0/../../../avr/lib/avr5/libm.a(fixunssfsi.o)
+ .text          0x0000000000000000        0x0 /usr/lib/gcc/avr/7.3.0/../../../avr/lib/avr5/libm.a(floatsisf.o)
+ .data          0x0000000000000000        0x0 /usr/lib/gcc/avr/7.3.0/../../../avr/lib/avr5/libm.a(floatsisf.o)
+ .bss           0x0000000000000000        0x0 /usr/lib/gcc/avr/7.3.0/../../../avr/lib/avr5/libm.a(floatsisf.o)
+ .text.avr-libc.fplib
+                0x0000000000000000       0x7a /usr/lib/gcc/avr/7.3.0/../../../avr/lib/avr5/libm.a(floatsisf.o)
+ .text          0x0000000000000000        0x0 /usr/lib/gcc/avr/7.3.0/../../../avr/lib/avr5/libm.a(fp_cmp.o)
+ .data          0x0000000000000000        0x0 /usr/lib/gcc/avr/7.3.0/../../../avr/lib/avr5/libm.a(fp_cmp.o)
+ .bss           0x0000000000000000        0x0 /usr/lib/gcc/avr/7.3.0/../../../avr/lib/avr5/libm.a(fp_cmp.o)
+ .text.avr-libc.fplib
+                0x0000000000000000       0x48 /usr/lib/gcc/avr/7.3.0/../../../avr/lib/avr5/libm.a(fp_cmp.o)
+ .text          0x0000000000000000        0x0 /usr/lib/gcc/avr/7.3.0/../../../avr/lib/avr5/libm.a(fp_inf.o)
+ .data          0x0000000000000000        0x0 /usr/lib/gcc/avr/7.3.0/../../../avr/lib/avr5/libm.a(fp_inf.o)
+ .bss           0x0000000000000000        0x0 /usr/lib/gcc/avr/7.3.0/../../../avr/lib/avr5/libm.a(fp_inf.o)
+ .text.avr-libc.fplib
+                0x0000000000000000        0xc /usr/lib/gcc/avr/7.3.0/../../../avr/lib/avr5/libm.a(fp_inf.o)
+ .text          0x0000000000000000        0x0 /usr/lib/gcc/avr/7.3.0/../../../avr/lib/avr5/libm.a(fp_nan.o)
+ .data          0x0000000000000000        0x0 /usr/lib/gcc/avr/7.3.0/../../../avr/lib/avr5/libm.a(fp_nan.o)
+ .bss           0x0000000000000000        0x0 /usr/lib/gcc/avr/7.3.0/../../../avr/lib/avr5/libm.a(fp_nan.o)
+ .text.avr-libc.fplib
+                0x0000000000000000        0x6 /usr/lib/gcc/avr/7.3.0/../../../avr/lib/avr5/libm.a(fp_nan.o)
+ .text          0x0000000000000000        0x0 /usr/lib/gcc/avr/7.3.0/../../../avr/lib/avr5/libm.a(fp_pscA.o)
+ .data          0x0000000000000000        0x0 /usr/lib/gcc/avr/7.3.0/../../../avr/lib/avr5/libm.a(fp_pscA.o)
+ .bss           0x0000000000000000        0x0 /usr/lib/gcc/avr/7.3.0/../../../avr/lib/avr5/libm.a(fp_pscA.o)
+ .text.avr-libc.fplib
+                0x0000000000000000        0xe /usr/lib/gcc/avr/7.3.0/../../../avr/lib/avr5/libm.a(fp_pscA.o)
+ .text          0x0000000000000000        0x0 /usr/lib/gcc/avr/7.3.0/../../../avr/lib/avr5/libm.a(fp_pscB.o)
+ .data          0x0000000000000000        0x0 /usr/lib/gcc/avr/7.3.0/../../../avr/lib/avr5/libm.a(fp_pscB.o)
+ .bss           0x0000000000000000        0x0 /usr/lib/gcc/avr/7.3.0/../../../avr/lib/avr5/libm.a(fp_pscB.o)
+ .text.avr-libc.fplib
+                0x0000000000000000        0xe /usr/lib/gcc/avr/7.3.0/../../../avr/lib/avr5/libm.a(fp_pscB.o)
+ .text          0x0000000000000000        0x0 /usr/lib/gcc/avr/7.3.0/../../../avr/lib/avr5/libm.a(fp_round.o)
+ .data          0x0000000000000000        0x0 /usr/lib/gcc/avr/7.3.0/../../../avr/lib/avr5/libm.a(fp_round.o)
+ .bss           0x0000000000000000        0x0 /usr/lib/gcc/avr/7.3.0/../../../avr/lib/avr5/libm.a(fp_round.o)
+ .text.avr-libc.fplib
+                0x0000000000000000       0x22 /usr/lib/gcc/avr/7.3.0/../../../avr/lib/avr5/libm.a(fp_round.o)
+ .text          0x0000000000000000        0x0 /usr/lib/gcc/avr/7.3.0/../../../avr/lib/avr5/libm.a(fp_split3.o)
+ .data          0x0000000000000000        0x0 /usr/lib/gcc/avr/7.3.0/../../../avr/lib/avr5/libm.a(fp_split3.o)
+ .bss           0x0000000000000000        0x0 /usr/lib/gcc/avr/7.3.0/../../../avr/lib/avr5/libm.a(fp_split3.o)
+ .text.avr-libc.fplib
+                0x0000000000000000       0x44 /usr/lib/gcc/avr/7.3.0/../../../avr/lib/avr5/libm.a(fp_split3.o)
+ .text          0x0000000000000000        0x0 /usr/lib/gcc/avr/7.3.0/../../../avr/lib/avr5/libm.a(fp_zero.o)
+ .data          0x0000000000000000        0x0 /usr/lib/gcc/avr/7.3.0/../../../avr/lib/avr5/libm.a(fp_zero.o)
+ .bss           0x0000000000000000        0x0 /usr/lib/gcc/avr/7.3.0/../../../avr/lib/avr5/libm.a(fp_zero.o)
+ .text.avr-libc.fplib
+                0x0000000000000000        0xe /usr/lib/gcc/avr/7.3.0/../../../avr/lib/avr5/libm.a(fp_zero.o)
+ .text          0x0000000000000000        0x0 /usr/lib/gcc/avr/7.3.0/../../../avr/lib/avr5/libm.a(mulsf3.o)
+ .data          0x0000000000000000        0x0 /usr/lib/gcc/avr/7.3.0/../../../avr/lib/avr5/libm.a(mulsf3.o)
+ .bss           0x0000000000000000        0x0 /usr/lib/gcc/avr/7.3.0/../../../avr/lib/avr5/libm.a(mulsf3.o)
+ .text.avr-libc.fplib
+                0x0000000000000000        0x8 /usr/lib/gcc/avr/7.3.0/../../../avr/lib/avr5/libm.a(mulsf3.o)
+ .text          0x0000000000000000        0x0 /usr/lib/gcc/avr/7.3.0/../../../avr/lib/avr5/libm.a(mulsf3x.o)
+ .data          0x0000000000000000        0x0 /usr/lib/gcc/avr/7.3.0/../../../avr/lib/avr5/libm.a(mulsf3x.o)
+ .bss           0x0000000000000000        0x0 /usr/lib/gcc/avr/7.3.0/../../../avr/lib/avr5/libm.a(mulsf3x.o)
+ .text.avr-libc.fplib
+                0x0000000000000000       0xd2 /usr/lib/gcc/avr/7.3.0/../../../avr/lib/avr5/libm.a(mulsf3x.o)
+ .text          0x0000000000000000        0x0 /usr/lib/gcc/avr/7.3.0/../../../avr/lib/avr5/libc.a(malloc.o)
+ .bss           0x0000000000000000        0x0 /usr/lib/gcc/avr/7.3.0/../../../avr/lib/avr5/libc.a(malloc.o)
+ .text          0x0000000000000000        0x0 /usr/lib/gcc/avr/7.3.0/../../../avr/lib/avr5/libc.a(realloc.o)
+ .data          0x0000000000000000        0x0 /usr/lib/gcc/avr/7.3.0/../../../avr/lib/avr5/libc.a(realloc.o)
+ .bss           0x0000000000000000        0x0 /usr/lib/gcc/avr/7.3.0/../../../avr/lib/avr5/libc.a(realloc.o)
+ .text.avr-libc
+                0x0000000000000000      0x17a /usr/lib/gcc/avr/7.3.0/../../../avr/lib/avr5/libc.a(realloc.o)
+ .comment       0x0000000000000000       0x12 /usr/lib/gcc/avr/7.3.0/../../../avr/lib/avr5/libc.a(realloc.o)
+ .text          0x0000000000000000        0x0 /usr/lib/gcc/avr/7.3.0/../../../avr/lib/avr5/libc.a(atol.o)
+ .data          0x0000000000000000        0x0 /usr/lib/gcc/avr/7.3.0/../../../avr/lib/avr5/libc.a(atol.o)
+ .bss           0x0000000000000000        0x0 /usr/lib/gcc/avr/7.3.0/../../../avr/lib/avr5/libc.a(atol.o)
+ .text.avr-libc
+                0x0000000000000000       0x4e /usr/lib/gcc/avr/7.3.0/../../../avr/lib/avr5/libc.a(atol.o)
+ .text          0x0000000000000000        0x0 /usr/lib/gcc/avr/7.3.0/../../../avr/lib/avr5/libc.a(isspace.o)
+ .data          0x0000000000000000        0x0 /usr/lib/gcc/avr/7.3.0/../../../avr/lib/avr5/libc.a(isspace.o)
+ .bss           0x0000000000000000        0x0 /usr/lib/gcc/avr/7.3.0/../../../avr/lib/avr5/libc.a(isspace.o)
+ .text.avr-libc
+                0x0000000000000000       0x12 /usr/lib/gcc/avr/7.3.0/../../../avr/lib/avr5/libc.a(isspace.o)
+ .text          0x0000000000000000        0x0 /usr/lib/gcc/avr/7.3.0/../../../avr/lib/avr5/libc.a(tolower.o)
+ .data          0x0000000000000000        0x0 /usr/lib/gcc/avr/7.3.0/../../../avr/lib/avr5/libc.a(tolower.o)
+ .bss           0x0000000000000000        0x0 /usr/lib/gcc/avr/7.3.0/../../../avr/lib/avr5/libc.a(tolower.o)
+ .text.avr-libc
+                0x0000000000000000       0x10 /usr/lib/gcc/avr/7.3.0/../../../avr/lib/avr5/libc.a(tolower.o)
+ .text          0x0000000000000000        0x0 /usr/lib/gcc/avr/7.3.0/../../../avr/lib/avr5/libc.a(toupper.o)
+ .data          0x0000000000000000        0x0 /usr/lib/gcc/avr/7.3.0/../../../avr/lib/avr5/libc.a(toupper.o)
+ .bss           0x0000000000000000        0x0 /usr/lib/gcc/avr/7.3.0/../../../avr/lib/avr5/libc.a(toupper.o)
+ .text.avr-libc
+                0x0000000000000000       0x10 /usr/lib/gcc/avr/7.3.0/../../../avr/lib/avr5/libc.a(toupper.o)
+ .text          0x0000000000000000        0x0 /usr/lib/gcc/avr/7.3.0/../../../avr/lib/avr5/libc.a(memcpy.o)
+ .data          0x0000000000000000        0x0 /usr/lib/gcc/avr/7.3.0/../../../avr/lib/avr5/libc.a(memcpy.o)
+ .bss           0x0000000000000000        0x0 /usr/lib/gcc/avr/7.3.0/../../../avr/lib/avr5/libc.a(memcpy.o)
+ .text          0x0000000000000000        0x0 /usr/lib/gcc/avr/7.3.0/../../../avr/lib/avr5/libc.a(memset.o)
+ .data          0x0000000000000000        0x0 /usr/lib/gcc/avr/7.3.0/../../../avr/lib/avr5/libc.a(memset.o)
+ .bss           0x0000000000000000        0x0 /usr/lib/gcc/avr/7.3.0/../../../avr/lib/avr5/libc.a(memset.o)
+ .text          0x0000000000000000        0x0 /usr/lib/gcc/avr/7.3.0/../../../avr/lib/avr5/libc.a(strcat.o)
+ .data          0x0000000000000000        0x0 /usr/lib/gcc/avr/7.3.0/../../../avr/lib/avr5/libc.a(strcat.o)
+ .bss           0x0000000000000000        0x0 /usr/lib/gcc/avr/7.3.0/../../../avr/lib/avr5/libc.a(strcat.o)
+ .text.avr-libc
+                0x0000000000000000       0x16 /usr/lib/gcc/avr/7.3.0/../../../avr/lib/avr5/libc.a(strcat.o)
+ .text          0x0000000000000000        0x0 /usr/lib/gcc/avr/7.3.0/../../../avr/lib/avr5/libc.a(strchr.o)
+ .data          0x0000000000000000        0x0 /usr/lib/gcc/avr/7.3.0/../../../avr/lib/avr5/libc.a(strchr.o)
+ .bss           0x0000000000000000        0x0 /usr/lib/gcc/avr/7.3.0/../../../avr/lib/avr5/libc.a(strchr.o)
+ .text.avr-libc
+                0x0000000000000000       0x16 /usr/lib/gcc/avr/7.3.0/../../../avr/lib/avr5/libc.a(strchr.o)
+ .text          0x0000000000000000        0x0 /usr/lib/gcc/avr/7.3.0/../../../avr/lib/avr5/libc.a(strcmp.o)
+ .data          0x0000000000000000        0x0 /usr/lib/gcc/avr/7.3.0/../../../avr/lib/avr5/libc.a(strcmp.o)
+ .bss           0x0000000000000000        0x0 /usr/lib/gcc/avr/7.3.0/../../../avr/lib/avr5/libc.a(strcmp.o)
+ .text.avr-libc
+                0x0000000000000000       0x12 /usr/lib/gcc/avr/7.3.0/../../../avr/lib/avr5/libc.a(strcmp.o)
+ .text          0x0000000000000000        0x0 /usr/lib/gcc/avr/7.3.0/../../../avr/lib/avr5/libc.a(strcpy.o)
+ .data          0x0000000000000000        0x0 /usr/lib/gcc/avr/7.3.0/../../../avr/lib/avr5/libc.a(strcpy.o)
+ .bss           0x0000000000000000        0x0 /usr/lib/gcc/avr/7.3.0/../../../avr/lib/avr5/libc.a(strcpy.o)
+ .text.avr-libc
+                0x0000000000000000        0xe /usr/lib/gcc/avr/7.3.0/../../../avr/lib/avr5/libc.a(strcpy.o)
+ .text          0x0000000000000000        0x0 /usr/lib/gcc/avr/7.3.0/../../../avr/lib/avr5/libc.a(strncmp.o)
+ .data          0x0000000000000000        0x0 /usr/lib/gcc/avr/7.3.0/../../../avr/lib/avr5/libc.a(strncmp.o)
+ .bss           0x0000000000000000        0x0 /usr/lib/gcc/avr/7.3.0/../../../avr/lib/avr5/libc.a(strncmp.o)
+ .text.avr-libc
+                0x0000000000000000       0x1c /usr/lib/gcc/avr/7.3.0/../../../avr/lib/avr5/libc.a(strncmp.o)
+ .text          0x0000000000000000        0x0 /usr/lib/gcc/avr/7.3.0/../../../avr/lib/avr5/libc.a(strncpy.o)
+ .data          0x0000000000000000        0x0 /usr/lib/gcc/avr/7.3.0/../../../avr/lib/avr5/libc.a(strncpy.o)
+ .bss           0x0000000000000000        0x0 /usr/lib/gcc/avr/7.3.0/../../../avr/lib/avr5/libc.a(strncpy.o)
+ .text.avr-libc
+                0x0000000000000000       0x1e /usr/lib/gcc/avr/7.3.0/../../../avr/lib/avr5/libc.a(strncpy.o)
+ .text          0x0000000000000000        0x0 /usr/lib/gcc/avr/7.3.0/../../../avr/lib/avr5/libc.a(strrchr.o)
+ .data          0x0000000000000000        0x0 /usr/lib/gcc/avr/7.3.0/../../../avr/lib/avr5/libc.a(strrchr.o)
+ .bss           0x0000000000000000        0x0 /usr/lib/gcc/avr/7.3.0/../../../avr/lib/avr5/libc.a(strrchr.o)
+ .text.avr-libc
+                0x0000000000000000       0x16 /usr/lib/gcc/avr/7.3.0/../../../avr/lib/avr5/libc.a(strrchr.o)
+ .text          0x0000000000000000        0x0 /usr/lib/gcc/avr/7.3.0/../../../avr/lib/avr5/libc.a(strstr.o)
+ .data          0x0000000000000000        0x0 /usr/lib/gcc/avr/7.3.0/../../../avr/lib/avr5/libc.a(strstr.o)
+ .bss           0x0000000000000000        0x0 /usr/lib/gcc/avr/7.3.0/../../../avr/lib/avr5/libc.a(strstr.o)
+ .text.avr-libc
+                0x0000000000000000       0x34 /usr/lib/gcc/avr/7.3.0/../../../avr/lib/avr5/libc.a(strstr.o)
+ .text          0x0000000000000000        0x0 /usr/lib/gcc/avr/7.3.0/../../../avr/lib/avr5/libc.a(itoa.o)
+ .data          0x0000000000000000        0x0 /usr/lib/gcc/avr/7.3.0/../../../avr/lib/avr5/libc.a(itoa.o)
+ .bss           0x0000000000000000        0x0 /usr/lib/gcc/avr/7.3.0/../../../avr/lib/avr5/libc.a(itoa.o)
+ .text.avr-libc
+                0x0000000000000000       0x16 /usr/lib/gcc/avr/7.3.0/../../../avr/lib/avr5/libc.a(itoa.o)
+ .text          0x0000000000000000        0x0 /usr/lib/gcc/avr/7.3.0/../../../avr/lib/avr5/libc.a(itoa_ncheck.o)
+ .data          0x0000000000000000        0x0 /usr/lib/gcc/avr/7.3.0/../../../avr/lib/avr5/libc.a(itoa_ncheck.o)
+ .bss           0x0000000000000000        0x0 /usr/lib/gcc/avr/7.3.0/../../../avr/lib/avr5/libc.a(itoa_ncheck.o)
+ .text.avr-libc
+                0x0000000000000000       0x16 /usr/lib/gcc/avr/7.3.0/../../../avr/lib/avr5/libc.a(itoa_ncheck.o)
+ .text          0x0000000000000000        0x0 /usr/lib/gcc/avr/7.3.0/../../../avr/lib/avr5/libc.a(ltoa.o)
+ .data          0x0000000000000000        0x0 /usr/lib/gcc/avr/7.3.0/../../../avr/lib/avr5/libc.a(ltoa.o)
+ .bss           0x0000000000000000        0x0 /usr/lib/gcc/avr/7.3.0/../../../avr/lib/avr5/libc.a(ltoa.o)
+ .text.avr-libc
+                0x0000000000000000       0x16 /usr/lib/gcc/avr/7.3.0/../../../avr/lib/avr5/libc.a(ltoa.o)
+ .text          0x0000000000000000        0x0 /usr/lib/gcc/avr/7.3.0/../../../avr/lib/avr5/libc.a(ltoa_ncheck.o)
+ .data          0x0000000000000000        0x0 /usr/lib/gcc/avr/7.3.0/../../../avr/lib/avr5/libc.a(ltoa_ncheck.o)
+ .bss           0x0000000000000000        0x0 /usr/lib/gcc/avr/7.3.0/../../../avr/lib/avr5/libc.a(ltoa_ncheck.o)
+ .text.avr-libc
+                0x0000000000000000       0x1e /usr/lib/gcc/avr/7.3.0/../../../avr/lib/avr5/libc.a(ltoa_ncheck.o)
+ .text          0x0000000000000000        0x0 /usr/lib/gcc/avr/7.3.0/../../../avr/lib/avr5/libc.a(mulsi10.o)
+ .data          0x0000000000000000        0x0 /usr/lib/gcc/avr/7.3.0/../../../avr/lib/avr5/libc.a(mulsi10.o)
+ .bss           0x0000000000000000        0x0 /usr/lib/gcc/avr/7.3.0/../../../avr/lib/avr5/libc.a(mulsi10.o)
+ .text.avr-libc
+                0x0000000000000000       0x2a /usr/lib/gcc/avr/7.3.0/../../../avr/lib/avr5/libc.a(mulsi10.o)
+ .text          0x0000000000000000        0x0 /usr/lib/gcc/avr/7.3.0/../../../avr/lib/avr5/libc.a(ultoa.o)
+ .data          0x0000000000000000        0x0 /usr/lib/gcc/avr/7.3.0/../../../avr/lib/avr5/libc.a(ultoa.o)
+ .bss           0x0000000000000000        0x0 /usr/lib/gcc/avr/7.3.0/../../../avr/lib/avr5/libc.a(ultoa.o)
+ .text.avr-libc
+                0x0000000000000000       0x16 /usr/lib/gcc/avr/7.3.0/../../../avr/lib/avr5/libc.a(ultoa.o)
+ .text          0x0000000000000000        0x0 /usr/lib/gcc/avr/7.3.0/../../../avr/lib/avr5/libc.a(ultoa_ncheck.o)
+ .data          0x0000000000000000        0x0 /usr/lib/gcc/avr/7.3.0/../../../avr/lib/avr5/libc.a(ultoa_ncheck.o)
+ .bss           0x0000000000000000        0x0 /usr/lib/gcc/avr/7.3.0/../../../avr/lib/avr5/libc.a(ultoa_ncheck.o)
+ .text.avr-libc
+                0x0000000000000000       0x44 /usr/lib/gcc/avr/7.3.0/../../../avr/lib/avr5/libc.a(ultoa_ncheck.o)
+ .text          0x0000000000000000        0x0 /usr/lib/gcc/avr/7.3.0/../../../avr/lib/avr5/libc.a(utoa_ncheck.o)
+ .data          0x0000000000000000        0x0 /usr/lib/gcc/avr/7.3.0/../../../avr/lib/avr5/libc.a(utoa_ncheck.o)
+ .bss           0x0000000000000000        0x0 /usr/lib/gcc/avr/7.3.0/../../../avr/lib/avr5/libc.a(utoa_ncheck.o)
+ .text.avr-libc
+                0x0000000000000000       0x34 /usr/lib/gcc/avr/7.3.0/../../../avr/lib/avr5/libc.a(utoa_ncheck.o)
+ .text          0x0000000000000000        0x0 /usr/lib/gcc/avr/7.3.0/../../../avr/lib/avr5/libc.a(cty_isfalse.o)
+ .data          0x0000000000000000        0x0 /usr/lib/gcc/avr/7.3.0/../../../avr/lib/avr5/libc.a(cty_isfalse.o)
+ .bss           0x0000000000000000        0x0 /usr/lib/gcc/avr/7.3.0/../../../avr/lib/avr5/libc.a(cty_isfalse.o)
+ .text.avr-libc
+                0x0000000000000000        0x6 /usr/lib/gcc/avr/7.3.0/../../../avr/lib/avr5/libc.a(cty_isfalse.o)
+ .text          0x0000000000000000        0x0 /usr/lib/gcc/avr/7.3.0/../../../avr/lib/avr5/libc.a(strrev.o)
+ .data          0x0000000000000000        0x0 /usr/lib/gcc/avr/7.3.0/../../../avr/lib/avr5/libc.a(strrev.o)
+ .bss           0x0000000000000000        0x0 /usr/lib/gcc/avr/7.3.0/../../../avr/lib/avr5/libc.a(strrev.o)
+ .text.avr-libc
+                0x0000000000000000       0x20 /usr/lib/gcc/avr/7.3.0/../../../avr/lib/avr5/libc.a(strrev.o)
+ .text          0x0000000000000000        0x0 /usr/lib/gcc/avr/7.3.0/avr5/libgcc.a(_prologue.o)
+ .data          0x0000000000000000        0x0 /usr/lib/gcc/avr/7.3.0/avr5/libgcc.a(_prologue.o)
+ .bss           0x0000000000000000        0x0 /usr/lib/gcc/avr/7.3.0/avr5/libgcc.a(_prologue.o)
+ .text.libgcc.mul
+                0x0000000000000000        0x0 /usr/lib/gcc/avr/7.3.0/avr5/libgcc.a(_prologue.o)
+ .text.libgcc.div
+                0x0000000000000000        0x0 /usr/lib/gcc/avr/7.3.0/avr5/libgcc.a(_prologue.o)
+ .text.libgcc   0x0000000000000000        0x0 /usr/lib/gcc/avr/7.3.0/avr5/libgcc.a(_prologue.o)
+ .text.libgcc.prologue
+                0x0000000000000000       0x38 /usr/lib/gcc/avr/7.3.0/avr5/libgcc.a(_prologue.o)
+ .text.libgcc.builtins
+                0x0000000000000000        0x0 /usr/lib/gcc/avr/7.3.0/avr5/libgcc.a(_prologue.o)
+ .text.libgcc.fmul
+                0x0000000000000000        0x0 /usr/lib/gcc/avr/7.3.0/avr5/libgcc.a(_prologue.o)
+ .text.libgcc.fixed
+                0x0000000000000000        0x0 /usr/lib/gcc/avr/7.3.0/avr5/libgcc.a(_prologue.o)
+ .text          0x0000000000000000        0x0 /usr/lib/gcc/avr/7.3.0/avr5/libgcc.a(_epilogue.o)
+ .data          0x0000000000000000        0x0 /usr/lib/gcc/avr/7.3.0/avr5/libgcc.a(_epilogue.o)
+ .bss           0x0000000000000000        0x0 /usr/lib/gcc/avr/7.3.0/avr5/libgcc.a(_epilogue.o)
+ .text.libgcc.mul
+                0x0000000000000000        0x0 /usr/lib/gcc/avr/7.3.0/avr5/libgcc.a(_epilogue.o)
+ .text.libgcc.div
+                0x0000000000000000        0x0 /usr/lib/gcc/avr/7.3.0/avr5/libgcc.a(_epilogue.o)
+ .text.libgcc   0x0000000000000000        0x0 /usr/lib/gcc/avr/7.3.0/avr5/libgcc.a(_epilogue.o)
+ .text.libgcc.prologue
+                0x0000000000000000       0x36 /usr/lib/gcc/avr/7.3.0/avr5/libgcc.a(_epilogue.o)
+ .text.libgcc.builtins
+                0x0000000000000000        0x0 /usr/lib/gcc/avr/7.3.0/avr5/libgcc.a(_epilogue.o)
+ .text.libgcc.fmul
+                0x0000000000000000        0x0 /usr/lib/gcc/avr/7.3.0/avr5/libgcc.a(_epilogue.o)
+ .text.libgcc.fixed
+                0x0000000000000000        0x0 /usr/lib/gcc/avr/7.3.0/avr5/libgcc.a(_epilogue.o)
+
+Memory Configuration
+
+Name             Origin             Length             Attributes
+text             0x0000000000000000 0x0000000000008000 xr
+data             0x0000000000800100 0x0000000000000800 rw !x
+eeprom           0x0000000000810000 0x0000000000000400 rw !x
+fuse             0x0000000000820000 0x0000000000000003 rw !x
+lock             0x0000000000830000 0x0000000000000400 rw !x
+signature        0x0000000000840000 0x0000000000000400 rw !x
+user_signatures  0x0000000000850000 0x0000000000000400 rw !x
+*default*        0x0000000000000000 0xffffffffffffffff
+
+Linker script and memory map
+
+Address of section .data set to 0x800100
+LOAD /usr/lib/gcc/avr/7.3.0/../../../avr/lib/avr5/crtatmega328p.o
+LOAD ./src/test.o
+LOAD /home/vboxuser/eclipse-workspace_1/eclipse-workspace/free-rtos-demo/libArduinoLibraries.a
+LOAD /home/vboxuser/eclipse-workspace_1/eclipse-workspace/free-rtos-demo/libArduinoCore.a
+LOAD /home/vboxuser/eclipse-workspace_1/eclipse-workspace/free-rtos-demo/libArduinoLibraries.a
+LOAD /home/vboxuser/eclipse-workspace_1/eclipse-workspace/free-rtos-demo/libArduinoCore.a
+LOAD /usr/lib/gcc/avr/7.3.0/avr5/libgcc.a
+LOAD /usr/lib/gcc/avr/7.3.0/../../../avr/lib/avr5/libm.a
+START GROUP
+LOAD /usr/lib/gcc/avr/7.3.0/avr5/libgcc.a
+LOAD /usr/lib/gcc/avr/7.3.0/../../../avr/lib/avr5/libm.a
+LOAD /usr/lib/gcc/avr/7.3.0/../../../avr/lib/avr5/libc.a
+LOAD /usr/lib/gcc/avr/7.3.0/../../../avr/lib/avr5/libatmega328p.a
+END GROUP
+                0x0000000000000000                __TEXT_REGION_ORIGIN__ = DEFINED (__TEXT_REGION_ORIGIN__)?__TEXT_REGION_ORIGIN__:0x0
+                [0x0000000000800100]                __DATA_REGION_ORIGIN__ = DEFINED (__DATA_REGION_ORIGIN__)?__DATA_REGION_ORIGIN__:0x800060
+                [0x0000000000008000]                __TEXT_REGION_LENGTH__ = DEFINED (__TEXT_REGION_LENGTH__)?__TEXT_REGION_LENGTH__:0x20000
+                [0x0000000000000800]                __DATA_REGION_LENGTH__ = DEFINED (__DATA_REGION_LENGTH__)?__DATA_REGION_LENGTH__:0xffa0
+                [0x0000000000000400]                __EEPROM_REGION_LENGTH__ = DEFINED (__EEPROM_REGION_LENGTH__)?__EEPROM_REGION_LENGTH__:0x10000
+                [0x0000000000000003]                __FUSE_REGION_LENGTH__ = DEFINED (__FUSE_REGION_LENGTH__)?__FUSE_REGION_LENGTH__:0x400
+                0x0000000000000400                __LOCK_REGION_LENGTH__ = DEFINED (__LOCK_REGION_LENGTH__)?__LOCK_REGION_LENGTH__:0x400
+                0x0000000000000400                __SIGNATURE_REGION_LENGTH__ = DEFINED (__SIGNATURE_REGION_LENGTH__)?__SIGNATURE_REGION_LENGTH__:0x400
+                0x0000000000000400                __USER_SIGNATURE_REGION_LENGTH__ = DEFINED (__USER_SIGNATURE_REGION_LENGTH__)?__USER_SIGNATURE_REGION_LENGTH__:0x400
+
+.hash
+ *(.hash)
+
+.dynsym
+ *(.dynsym)
+
+.dynstr
+ *(.dynstr)
+
+.gnu.version
+ *(.gnu.version)
+
+.gnu.version_d
+ *(.gnu.version_d)
+
+.gnu.version_r
+ *(.gnu.version_r)
+
+.rel.init
+ *(.rel.init)
+
+.rela.init
+ *(.rela.init)
+
+.rel.text
+ *(.rel.text)
+ *(.rel.text.*)
+ *(.rel.gnu.linkonce.t*)
+
+.rela.text
+ *(.rela.text)
+ *(.rela.text.*)
+ *(.rela.gnu.linkonce.t*)
+
+.rel.fini
+ *(.rel.fini)
+
+.rela.fini
+ *(.rela.fini)
+
+.rel.rodata
+ *(.rel.rodata)
+ *(.rel.rodata.*)
+ *(.rel.gnu.linkonce.r*)
+
+.rela.rodata
+ *(.rela.rodata)
+ *(.rela.rodata.*)
+ *(.rela.gnu.linkonce.r*)
+
+.rel.data
+ *(.rel.data)
+ *(.rel.data.*)
+ *(.rel.gnu.linkonce.d*)
+
+.rela.data
+ *(.rela.data)
+ *(.rela.data.*)
+ *(.rela.gnu.linkonce.d*)
+
+.rel.ctors
+ *(.rel.ctors)
+
+.rela.ctors
+ *(.rela.ctors)
+
+.rel.dtors
+ *(.rel.dtors)
+
+.rela.dtors
+ *(.rela.dtors)
+
+.rel.got
+ *(.rel.got)
+
+.rela.got
+ *(.rela.got)
+
+.rel.bss
+ *(.rel.bss)
+
+.rela.bss
+ *(.rela.bss)
+
+.rel.plt
+ *(.rel.plt)
+
+.rela.plt
+ *(.rela.plt)
+
+.text           0x0000000000000000     0x23ac
+ *(.vectors)
+ .vectors       0x0000000000000000       0x68 /usr/lib/gcc/avr/7.3.0/../../../avr/lib/avr5/crtatmega328p.o
+                0x0000000000000000                __vectors
+                0x0000000000000000                __vector_default
+ *(.vectors)
+ *(.progmem.gcc*)
+                0x0000000000000068                . = ALIGN (0x2)
+                0x0000000000000068                __trampolines_start = .
+ *(.trampolines)
+ .trampolines   0x0000000000000068        0x0 linker stubs
+ *(.trampolines*)
+                0x0000000000000068                __trampolines_end = .
+ *libprintf_flt.a:*(.progmem.data)
+ *libc.a:*(.progmem.data)
+ *(.progmem*)
+ .progmem.data.digital_pin_to_timer_PGM
+                0x0000000000000068       0x14 /home/vboxuser/eclipse-workspace_1/eclipse-workspace/free-rtos-demo/libArduinoCore.a(pins_arduino.o)
+                0x0000000000000068                digital_pin_to_timer_PGM
+ .progmem.data.digital_pin_to_bit_mask_PGM
+                0x000000000000007c       0x14 /home/vboxuser/eclipse-workspace_1/eclipse-workspace/free-rtos-demo/libArduinoCore.a(pins_arduino.o)
+                0x000000000000007c                digital_pin_to_bit_mask_PGM
+ .progmem.data.digital_pin_to_port_PGM
+                0x0000000000000090       0x14 /home/vboxuser/eclipse-workspace_1/eclipse-workspace/free-rtos-demo/libArduinoCore.a(pins_arduino.o)
+                0x0000000000000090                digital_pin_to_port_PGM
+ .progmem.data.port_to_input_PGM
+                0x00000000000000a4        0xa /home/vboxuser/eclipse-workspace_1/eclipse-workspace/free-rtos-demo/libArduinoCore.a(pins_arduino.o)
+                0x00000000000000a4                port_to_input_PGM
+ .progmem.data.port_to_mode_PGM
+                0x00000000000000ae        0xa /home/vboxuser/eclipse-workspace_1/eclipse-workspace/free-rtos-demo/libArduinoCore.a(pins_arduino.o)
+                0x00000000000000ae                port_to_mode_PGM
+                0x00000000000000b8                . = ALIGN (0x2)
+ *(.jumptables)
+ *(.jumptables*)
+ *(.lowtext)
+ *(.lowtext*)
+                0x00000000000000b8                __ctors_start = .
+ *(.ctors)
+ .ctors         0x00000000000000b8        0x2 /home/vboxuser/eclipse-workspace_1/eclipse-workspace/free-rtos-demo/libArduinoCore.a(HardwareSerial.o)
+                0x00000000000000ba                __ctors_end = .
+                0x00000000000000ba                __dtors_start = .
+ *(.dtors)
+                0x00000000000000ba                __dtors_end = .
+ SORT(*)(.ctors)
+ SORT(*)(.dtors)
+ *(.init0)
+ .init0         0x00000000000000ba        0x0 /usr/lib/gcc/avr/7.3.0/../../../avr/lib/avr5/crtatmega328p.o
+                0x00000000000000ba                __init
+ *(.init0)
+ *(.init1)
+ *(.init1)
+ *(.init2)
+ .init2         0x00000000000000ba        0xc /usr/lib/gcc/avr/7.3.0/../../../avr/lib/avr5/crtatmega328p.o
+ *(.init2)
+ *(.init3)
+ *(.init3)
+ *(.init4)
+ .init4         0x00000000000000c6       0x16 /usr/lib/gcc/avr/7.3.0/avr5/libgcc.a(_copy_data.o)
+                0x00000000000000c6                __do_copy_data
+ .init4         0x00000000000000dc       0x10 /usr/lib/gcc/avr/7.3.0/avr5/libgcc.a(_clear_bss.o)
+                0x00000000000000dc                __do_clear_bss
+ *(.init4)
+ *(.init5)
+ *(.init5)
+ *(.init6)
+ .init6         0x00000000000000ec       0x16 /usr/lib/gcc/avr/7.3.0/avr5/libgcc.a(_ctors.o)
+                0x00000000000000ec                __do_global_ctors
+ *(.init6)
+ *(.init7)
+ *(.init7)
+ *(.init8)
+ *(.init8)
+ *(.init9)
+ .init9         0x0000000000000102        0x6 /usr/lib/gcc/avr/7.3.0/../../../avr/lib/avr5/crtatmega328p.o
+ *(.init9)
+ *(.text)
+ .text          0x0000000000000108        0x2 /usr/lib/gcc/avr/7.3.0/../../../avr/lib/avr5/crtatmega328p.o
+                0x0000000000000108                __vector_22
+                0x0000000000000108                __vector_1
+                0x0000000000000108                __vector_24
+                0x0000000000000108                __vector_12
+                0x0000000000000108                __bad_interrupt
+                0x0000000000000108                __vector_3
+                0x0000000000000108                __vector_23
+                0x0000000000000108                __vector_25
+                0x0000000000000108                __vector_11
+                0x0000000000000108                __vector_13
+                0x0000000000000108                __vector_17
+                0x0000000000000108                __vector_19
+                0x0000000000000108                __vector_7
+                0x0000000000000108                __vector_5
+                0x0000000000000108                __vector_4
+                0x0000000000000108                __vector_9
+                0x0000000000000108                __vector_2
+                0x0000000000000108                __vector_21
+                0x0000000000000108                __vector_15
+                0x0000000000000108                __vector_8
+                0x0000000000000108                __vector_14
+                0x0000000000000108                __vector_10
+                0x0000000000000108                __vector_20
+                0x000000000000010a                . = ALIGN (0x2)
+ *(.text.*)
+ .text._ZL16prvTimerCallbackP10TimerDef_t
+                0x000000000000010a       0x92 ./src/test.o
+ .text.setup    0x000000000000019c       0x6c ./src/test.o
+                0x000000000000019c                setup
+ .text.loop     0x0000000000000208       0x58 ./src/test.o
+                0x0000000000000208                loop
+ .text.startup.main
+                0x0000000000000260        0x6 ./src/test.o
+                0x0000000000000260                main
+ .text.hot.prvResetNextTaskUnblockTime
+                0x0000000000000266       0x30 /home/vboxuser/eclipse-workspace_1/eclipse-workspace/free-rtos-demo/libArduinoLibraries.a(tasks.o)
+ .text.hot.prvAddCurrentTaskToDelayedList
+                0x0000000000000296      0x11c /home/vboxuser/eclipse-workspace_1/eclipse-workspace/free-rtos-demo/libArduinoLibraries.a(tasks.o)
+ .text.hot.prvCheckTasksWaitingTermination
+                0x00000000000003b2       0x4e /home/vboxuser/eclipse-workspace_1/eclipse-workspace/free-rtos-demo/libArduinoLibraries.a(tasks.o)
+ .text.prvIdleTask
+                0x0000000000000400       0x12 /home/vboxuser/eclipse-workspace_1/eclipse-workspace/free-rtos-demo/libArduinoLibraries.a(tasks.o)
+ .text.hot.xTaskCreate
+                0x0000000000000412      0x236 /home/vboxuser/eclipse-workspace_1/eclipse-workspace/free-rtos-demo/libArduinoLibraries.a(tasks.o)
+                0x0000000000000412                xTaskCreate
+ .text.hot.vTaskStartScheduler
+                0x0000000000000648       0x94 /home/vboxuser/eclipse-workspace_1/eclipse-workspace/free-rtos-demo/libArduinoLibraries.a(tasks.o)
+                0x0000000000000648                vTaskStartScheduler
+ .text.hot.vTaskSuspendAll
+                0x00000000000006dc        0xc /home/vboxuser/eclipse-workspace_1/eclipse-workspace/free-rtos-demo/libArduinoLibraries.a(tasks.o)
+                0x00000000000006dc                vTaskSuspendAll
+ .text.hot.xTaskGetTickCount
+                0x00000000000006e8       0x14 /home/vboxuser/eclipse-workspace_1/eclipse-workspace/free-rtos-demo/libArduinoLibraries.a(tasks.o)
+                0x00000000000006e8                xTaskGetTickCount
+ .text.hot.xTaskIncrementTick
+                0x00000000000006fc      0x1f6 /home/vboxuser/eclipse-workspace_1/eclipse-workspace/free-rtos-demo/libArduinoLibraries.a(tasks.o)
+                0x00000000000006fc                xTaskIncrementTick
+ .text.hot.xTaskResumeAll
+                0x00000000000008f2      0x194 /home/vboxuser/eclipse-workspace_1/eclipse-workspace/free-rtos-demo/libArduinoLibraries.a(tasks.o)
+                0x00000000000008f2                xTaskResumeAll
+ .text.hot.vTaskSwitchContext
+                0x0000000000000a86       0xc0 /home/vboxuser/eclipse-workspace_1/eclipse-workspace/free-rtos-demo/libArduinoLibraries.a(tasks.o)
+                0x0000000000000a86                vTaskSwitchContext
+ .text.hot.vTaskPlaceOnEventList
+                0x0000000000000b46       0x1e /home/vboxuser/eclipse-workspace_1/eclipse-workspace/free-rtos-demo/libArduinoLibraries.a(tasks.o)
+                0x0000000000000b46                vTaskPlaceOnEventList
+ .text.hot.vTaskPlaceOnEventListRestricted
+                0x0000000000000b64       0x8e /home/vboxuser/eclipse-workspace_1/eclipse-workspace/free-rtos-demo/libArduinoLibraries.a(tasks.o)
+                0x0000000000000b64                vTaskPlaceOnEventListRestricted
+ .text.hot.xTaskRemoveFromEventList
+                0x0000000000000bf2      0x14a /home/vboxuser/eclipse-workspace_1/eclipse-workspace/free-rtos-demo/libArduinoLibraries.a(tasks.o)
+                0x0000000000000bf2                xTaskRemoveFromEventList
+ .text.hot.vTaskInternalSetTimeOutState
+                0x0000000000000d3c       0x16 /home/vboxuser/eclipse-workspace_1/eclipse-workspace/free-rtos-demo/libArduinoLibraries.a(tasks.o)
+                0x0000000000000d3c                vTaskInternalSetTimeOutState
+ .text.hot.xTaskCheckForTimeOut
+                0x0000000000000d52       0x60 /home/vboxuser/eclipse-workspace_1/eclipse-workspace/free-rtos-demo/libArduinoLibraries.a(tasks.o)
+                0x0000000000000d52                xTaskCheckForTimeOut
+ .text.hot.vTaskMissedYield
+                0x0000000000000db2        0x8 /home/vboxuser/eclipse-workspace_1/eclipse-workspace/free-rtos-demo/libArduinoLibraries.a(tasks.o)
+                0x0000000000000db2                vTaskMissedYield
+ .text.hot.xTaskGetSchedulerState
+                0x0000000000000dba       0x1c /home/vboxuser/eclipse-workspace_1/eclipse-workspace/free-rtos-demo/libArduinoLibraries.a(tasks.o)
+                0x0000000000000dba                xTaskGetSchedulerState
+ .text.hot.xTaskPriorityDisinherit
+                0x0000000000000dd6       0xac /home/vboxuser/eclipse-workspace_1/eclipse-workspace/free-rtos-demo/libArduinoLibraries.a(tasks.o)
+                0x0000000000000dd6                xTaskPriorityDisinherit
+ .text.hot.prvCheckForValidListAndQueue
+                0x0000000000000e82       0x4c /home/vboxuser/eclipse-workspace_1/eclipse-workspace/free-rtos-demo/libArduinoLibraries.a(timers.o)
+ .text.hot.prvInsertTimerInActiveList
+                0x0000000000000ece       0x52 /home/vboxuser/eclipse-workspace_1/eclipse-workspace/free-rtos-demo/libArduinoLibraries.a(timers.o)
+ .text.hot.prvReloadTimer
+                0x0000000000000f20       0x46 /home/vboxuser/eclipse-workspace_1/eclipse-workspace/free-rtos-demo/libArduinoLibraries.a(timers.o)
+ .text.hot.prvProcessExpiredTimer
+                0x0000000000000f66       0x50 /home/vboxuser/eclipse-workspace_1/eclipse-workspace/free-rtos-demo/libArduinoLibraries.a(timers.o)
+ .text.hot.prvSwitchTimerLists
+                0x0000000000000fb6       0x3a /home/vboxuser/eclipse-workspace_1/eclipse-workspace/free-rtos-demo/libArduinoLibraries.a(timers.o)
+ .text.hot.prvTimerTask
+                0x0000000000000ff0      0x1aa /home/vboxuser/eclipse-workspace_1/eclipse-workspace/free-rtos-demo/libArduinoLibraries.a(timers.o)
+ .text.hot.xTimerCreateTimerTask
+                0x000000000000119a       0x3c /home/vboxuser/eclipse-workspace_1/eclipse-workspace/free-rtos-demo/libArduinoLibraries.a(timers.o)
+                0x000000000000119a                xTimerCreateTimerTask
+ .text.hot.xTimerCreate
+                0x00000000000011d6       0x68 /home/vboxuser/eclipse-workspace_1/eclipse-workspace/free-rtos-demo/libArduinoLibraries.a(timers.o)
+                0x00000000000011d6                xTimerCreate
+ .text.hot.xTimerGenericCommandFromTask
+                0x000000000000123e       0x64 /home/vboxuser/eclipse-workspace_1/eclipse-workspace/free-rtos-demo/libArduinoLibraries.a(timers.o)
+                0x000000000000123e                xTimerGenericCommandFromTask
+ .text.hot.pvTimerGetTimerID
+                0x00000000000012a2       0x12 /home/vboxuser/eclipse-workspace_1/eclipse-workspace/free-rtos-demo/libArduinoLibraries.a(timers.o)
+                0x00000000000012a2                pvTimerGetTimerID
+ .text.hot.vTimerSetTimerID
+                0x00000000000012b4       0x12 /home/vboxuser/eclipse-workspace_1/eclipse-workspace/free-rtos-demo/libArduinoLibraries.a(timers.o)
+                0x00000000000012b4                vTimerSetTimerID
+ .text.vApplicationIdleHook
+                0x00000000000012c6        0x4 /home/vboxuser/eclipse-workspace_1/eclipse-workspace/free-rtos-demo/libArduinoLibraries.a(variantHooks.o)
+                0x00000000000012c6                vApplicationIdleHook
+ .text._Z15prvSetMainLedOnv
+                0x00000000000012ca        0x6 /home/vboxuser/eclipse-workspace_1/eclipse-workspace/free-rtos-demo/libArduinoLibraries.a(variantHooks.o)
+                0x00000000000012ca                _Z15prvSetMainLedOnv
+ .text._Z15prvBlinkMainLedv
+                0x00000000000012d0        0x4 /home/vboxuser/eclipse-workspace_1/eclipse-workspace/free-rtos-demo/libArduinoLibraries.a(variantHooks.o)
+                0x00000000000012d0                _Z15prvBlinkMainLedv
+ .text.vApplicationMallocFailedHook
+                0x00000000000012d4       0x18 /home/vboxuser/eclipse-workspace_1/eclipse-workspace/free-rtos-demo/libArduinoLibraries.a(variantHooks.o)
+                0x00000000000012d4                vApplicationMallocFailedHook
+ .text.vApplicationStackOverflowHook
+                0x00000000000012ec       0x18 /home/vboxuser/eclipse-workspace_1/eclipse-workspace/free-rtos-demo/libArduinoLibraries.a(variantHooks.o)
+                0x00000000000012ec                vApplicationStackOverflowHook
+ .text.hot.pvPortMalloc
+                0x0000000000001304       0x1e /home/vboxuser/eclipse-workspace_1/eclipse-workspace/free-rtos-demo/libArduinoLibraries.a(heap_3.o)
+                0x0000000000001304                pvPortMalloc
+ .text.hot.vPortFree
+                0x0000000000001322       0x1c /home/vboxuser/eclipse-workspace_1/eclipse-workspace/free-rtos-demo/libArduinoLibraries.a(heap_3.o)
+                0x0000000000001322                vPortFree
+ .text.hot.vListInitialise
+                0x000000000000133e       0x1c /home/vboxuser/eclipse-workspace_1/eclipse-workspace/free-rtos-demo/libArduinoLibraries.a(list.o)
+                0x000000000000133e                vListInitialise
+ .text.hot.vListInitialiseItem
+                0x000000000000135a        0x8 /home/vboxuser/eclipse-workspace_1/eclipse-workspace/free-rtos-demo/libArduinoLibraries.a(list.o)
+                0x000000000000135a                vListInitialiseItem
+ .text.hot.vListInsert
+                0x0000000000001362       0x6c /home/vboxuser/eclipse-workspace_1/eclipse-workspace/free-rtos-demo/libArduinoLibraries.a(list.o)
+                0x0000000000001362                vListInsert
+ .text.hot.uxListRemove
+                0x00000000000013ce       0x46 /home/vboxuser/eclipse-workspace_1/eclipse-workspace/free-rtos-demo/libArduinoLibraries.a(list.o)
+                0x00000000000013ce                uxListRemove
+ .text.hot.pxPortInitialiseStack
+                0x0000000000001414       0x22 /home/vboxuser/eclipse-workspace_1/eclipse-workspace/free-rtos-demo/libArduinoLibraries.a(port.o)
+                0x0000000000001414                pxPortInitialiseStack
+ .text.hot.vPortYield
+                0x0000000000001436       0xb0 /home/vboxuser/eclipse-workspace_1/eclipse-workspace/free-rtos-demo/libArduinoLibraries.a(port.o)
+                0x0000000000001436                vPortYield
+ .text.hot.vPortYieldFromTick
+                0x00000000000014e6       0xb6 /home/vboxuser/eclipse-workspace_1/eclipse-workspace/free-rtos-demo/libArduinoLibraries.a(port.o)
+                0x00000000000014e6                vPortYieldFromTick
+ .text.prvSetupTimerInterrupt
+                0x000000000000159c       0x18 /home/vboxuser/eclipse-workspace_1/eclipse-workspace/free-rtos-demo/libArduinoLibraries.a(port.o)
+                0x000000000000159c                prvSetupTimerInterrupt
+ .text.hot.xPortStartScheduler
+                0x00000000000015b4       0x5c /home/vboxuser/eclipse-workspace_1/eclipse-workspace/free-rtos-demo/libArduinoLibraries.a(port.o)
+                0x00000000000015b4                xPortStartScheduler
+ .text.hot.__vector_6
+                0x0000000000001610        0x4 /home/vboxuser/eclipse-workspace_1/eclipse-workspace/free-rtos-demo/libArduinoLibraries.a(port.o)
+                0x0000000000001610                __vector_6
+ .text.hot.prvIsQueueEmpty
+                0x0000000000001614       0x16 /home/vboxuser/eclipse-workspace_1/eclipse-workspace/free-rtos-demo/libArduinoLibraries.a(queue.o)
+ .text.hot.prvCopyDataToQueue
+                0x000000000000162a       0xa4 /home/vboxuser/eclipse-workspace_1/eclipse-workspace/free-rtos-demo/libArduinoLibraries.a(queue.o)
+ .text.hot.prvCopyDataFromQueue
+                0x00000000000016ce       0x32 /home/vboxuser/eclipse-workspace_1/eclipse-workspace/free-rtos-demo/libArduinoLibraries.a(queue.o)
+ .text.hot.prvUnlockQueue
+                0x0000000000001700       0x74 /home/vboxuser/eclipse-workspace_1/eclipse-workspace/free-rtos-demo/libArduinoLibraries.a(queue.o)
+ .text.hot.xQueueGenericReset
+                0x0000000000001774       0x86 /home/vboxuser/eclipse-workspace_1/eclipse-workspace/free-rtos-demo/libArduinoLibraries.a(queue.o)
+                0x0000000000001774                xQueueGenericReset
+ .text.hot.xQueueGenericCreate
+                0x00000000000017fa       0x4c /home/vboxuser/eclipse-workspace_1/eclipse-workspace/free-rtos-demo/libArduinoLibraries.a(queue.o)
+                0x00000000000017fa                xQueueGenericCreate
+ .text.hot.xQueueGenericSend
+                0x0000000000001846      0x116 /home/vboxuser/eclipse-workspace_1/eclipse-workspace/free-rtos-demo/libArduinoLibraries.a(queue.o)
+                0x0000000000001846                xQueueGenericSend
+ .text.hot.xQueueReceive
+                0x000000000000195c      0x10a /home/vboxuser/eclipse-workspace_1/eclipse-workspace/free-rtos-demo/libArduinoLibraries.a(queue.o)
+                0x000000000000195c                xQueueReceive
+ .text.hot.vQueueWaitForMessageRestricted
+                0x0000000000001a66       0x34 /home/vboxuser/eclipse-workspace_1/eclipse-workspace/free-rtos-demo/libArduinoLibraries.a(queue.o)
+                0x0000000000001a66                vQueueWaitForMessageRestricted
+ .text._ZN14HardwareSerial9availableEv
+                0x0000000000001a9a       0x24 /home/vboxuser/eclipse-workspace_1/eclipse-workspace/free-rtos-demo/libArduinoCore.a(HardwareSerial.o)
+                0x0000000000001a9a                _ZN14HardwareSerial9availableEv
+ .text._ZN14HardwareSerial4peekEv
+                0x0000000000001abe       0x2e /home/vboxuser/eclipse-workspace_1/eclipse-workspace/free-rtos-demo/libArduinoCore.a(HardwareSerial.o)
+                0x0000000000001abe                _ZN14HardwareSerial4peekEv
+ .text._ZN14HardwareSerial4readEv
+                0x0000000000001aec       0x40 /home/vboxuser/eclipse-workspace_1/eclipse-workspace/free-rtos-demo/libArduinoCore.a(HardwareSerial.o)
+                0x0000000000001aec                _ZN14HardwareSerial4readEv
+ .text._ZN14HardwareSerial5flushEv
+                0x0000000000001b2c       0x1e /home/vboxuser/eclipse-workspace_1/eclipse-workspace/free-rtos-demo/libArduinoCore.a(HardwareSerial.o)
+                0x0000000000001b2c                _ZN14HardwareSerial5flushEv
+ .text._ZN14HardwareSerial5writeEh
+                0x0000000000001b4a       0x2c /home/vboxuser/eclipse-workspace_1/eclipse-workspace/free-rtos-demo/libArduinoCore.a(HardwareSerial.o)
+                0x0000000000001b4a                _ZN14HardwareSerial5writeEh
+ .text.__vector_18
+                0x0000000000001b76       0x6a /home/vboxuser/eclipse-workspace_1/eclipse-workspace/free-rtos-demo/libArduinoCore.a(HardwareSerial.o)
+                0x0000000000001b76                __vector_18
+ .text._ZN14HardwareSerial5beginEl
+                0x0000000000001be0       0xaa /home/vboxuser/eclipse-workspace_1/eclipse-workspace/free-rtos-demo/libArduinoCore.a(HardwareSerial.o)
+                0x0000000000001be0                _ZN14HardwareSerial5beginEl
+ .text.startup._GLOBAL__sub_I_rx_buffer
+                0x0000000000001c8a       0x52 /home/vboxuser/eclipse-workspace_1/eclipse-workspace/free-rtos-demo/libArduinoCore.a(HardwareSerial.o)
+ .text._ZN5Print5writeEPKc
+                0x0000000000001cdc       0x30 /home/vboxuser/eclipse-workspace_1/eclipse-workspace/free-rtos-demo/libArduinoCore.a(Print.o)
+                0x0000000000001cdc                _ZN5Print5writeEPKc
+ .text._ZN5Print5writeEPKhj
+                0x0000000000001d0c       0x3e /home/vboxuser/eclipse-workspace_1/eclipse-workspace/free-rtos-demo/libArduinoCore.a(Print.o)
+                0x0000000000001d0c                _ZN5Print5writeEPKhj
+ .text._ZN5Print5printEPKc
+                0x0000000000001d4a        0xe /home/vboxuser/eclipse-workspace_1/eclipse-workspace/free-rtos-demo/libArduinoCore.a(Print.o)
+                0x0000000000001d4a                _ZN5Print5printEPKc
+ .text._ZN5Print11printNumberEmh
+                0x0000000000001d58      0x122 /home/vboxuser/eclipse-workspace_1/eclipse-workspace/free-rtos-demo/libArduinoCore.a(Print.o)
+                0x0000000000001d58                _ZN5Print11printNumberEmh
+ .text._ZN5Print5printEli
+                0x0000000000001e7a       0x6a /home/vboxuser/eclipse-workspace_1/eclipse-workspace/free-rtos-demo/libArduinoCore.a(Print.o)
+                0x0000000000001e7a                _ZN5Print5printEli
+ .text._ZN5Print5printEci
+                0x0000000000001ee4        0xc /home/vboxuser/eclipse-workspace_1/eclipse-workspace/free-rtos-demo/libArduinoCore.a(Print.o)
+                0x0000000000001ee4                _ZN5Print5printEci
+ .text._ZN5Print7printlnEv
+                0x0000000000001ef0       0x1c /home/vboxuser/eclipse-workspace_1/eclipse-workspace/free-rtos-demo/libArduinoCore.a(Print.o)
+                0x0000000000001ef0                _ZN5Print7printlnEv
+ .text._ZN5Print7printlnEPKc
+                0x0000000000001f0c       0x10 /home/vboxuser/eclipse-workspace_1/eclipse-workspace/free-rtos-demo/libArduinoCore.a(Print.o)
+                0x0000000000001f0c                _ZN5Print7printlnEPKc
+ .text._ZN5Print5printEmi
+                0x0000000000001f1c       0x18 /home/vboxuser/eclipse-workspace_1/eclipse-workspace/free-rtos-demo/libArduinoCore.a(Print.o)
+                0x0000000000001f1c                _ZN5Print5printEmi
+ .text._ZN5Print5printEji
+                0x0000000000001f34        0xa /home/vboxuser/eclipse-workspace_1/eclipse-workspace/free-rtos-demo/libArduinoCore.a(Print.o)
+                0x0000000000001f34                _ZN5Print5printEji
+ .text._ZN5Print7printlnEji
+                0x0000000000001f3e       0x10 /home/vboxuser/eclipse-workspace_1/eclipse-workspace/free-rtos-demo/libArduinoCore.a(Print.o)
+                0x0000000000001f3e                _ZN5Print7printlnEji
+ .text.__vector_16
+                0x0000000000001f4e       0x94 /home/vboxuser/eclipse-workspace_1/eclipse-workspace/free-rtos-demo/libArduinoCore.a(wiring.o)
+                0x0000000000001f4e                __vector_16
+ .text.turnOffPWM
+                0x0000000000001fe2       0x52 /home/vboxuser/eclipse-workspace_1/eclipse-workspace/free-rtos-demo/libArduinoCore.a(wiring_digital.o)
+ .text.pinMode  0x0000000000002034       0x42 /home/vboxuser/eclipse-workspace_1/eclipse-workspace/free-rtos-demo/libArduinoCore.a(wiring_digital.o)
+                0x0000000000002034                pinMode
+ .text.digitalRead
+                0x0000000000002076       0x50 /home/vboxuser/eclipse-workspace_1/eclipse-workspace/free-rtos-demo/libArduinoCore.a(wiring_digital.o)
+                0x0000000000002076                digitalRead
+ .text.libgcc.div
+                0x00000000000020c6       0x28 /usr/lib/gcc/avr/7.3.0/avr5/libgcc.a(_udivmodhi4.o)
+                0x00000000000020c6                __udivmodhi4
+ .text.libgcc.div
+                0x00000000000020ee       0x44 /usr/lib/gcc/avr/7.3.0/avr5/libgcc.a(_udivmodsi4.o)
+                0x00000000000020ee                __udivmodsi4
+ .text.libgcc   0x0000000000002132        0xc /usr/lib/gcc/avr/7.3.0/avr5/libgcc.a(_tablejump2.o)
+                0x0000000000002132                __tablejump2__
+ .text.avr-libc
+                0x000000000000213e      0x24a /usr/lib/gcc/avr/7.3.0/../../../avr/lib/avr5/libc.a(malloc.o)
+                0x000000000000213e                malloc
+                0x0000000000002276                free
+ .text.avr-libc
+                0x0000000000002388       0x12 /usr/lib/gcc/avr/7.3.0/../../../avr/lib/avr5/libc.a(memcpy.o)
+                0x0000000000002388                memcpy
+ .text.avr-libc
+                0x000000000000239a        0xe /usr/lib/gcc/avr/7.3.0/../../../avr/lib/avr5/libc.a(memset.o)
+                0x000000000000239a                memset
+                0x00000000000023a8                . = ALIGN (0x2)
+ *(.fini9)
+ .fini9         0x00000000000023a8        0x0 /usr/lib/gcc/avr/7.3.0/avr5/libgcc.a(_exit.o)
+                0x00000000000023a8                exit
+                0x00000000000023a8                _exit
+ *(.fini9)
+ *(.fini8)
+ *(.fini8)
+ *(.fini7)
+ *(.fini7)
+ *(.fini6)
+ *(.fini6)
+ *(.fini5)
+ *(.fini5)
+ *(.fini4)
+ *(.fini4)
+ *(.fini3)
+ *(.fini3)
+ *(.fini2)
+ *(.fini2)
+ *(.fini1)
+ *(.fini1)
+ *(.fini0)
+ .fini0         0x00000000000023a8        0x4 /usr/lib/gcc/avr/7.3.0/avr5/libgcc.a(_exit.o)
+ *(.fini0)
+                0x00000000000023ac                _etext = .
+
+.data           0x0000000000800100       0xc4 load address 0x00000000000023ac
+                0x0000000000800100                PROVIDE (__data_start, .)
+ *(.data)
+ .data          0x0000000000800100        0x6 /usr/lib/gcc/avr/7.3.0/../../../avr/lib/avr5/libc.a(malloc.o)
+                0x0000000000800100                __malloc_heap_end
+                0x0000000000800102                __malloc_heap_start
+                0x0000000000800104                __malloc_margin
+ *(.data*)
+ .data.uxTopUsedPriority
+                0x0000000000800106        0x1 /home/vboxuser/eclipse-workspace_1/eclipse-workspace/free-rtos-demo/libArduinoLibraries.a(tasks.o)
+ *(.gnu.linkonce.d*)
+ *(.rodata)
+ *(.rodata*)
+ .rodata._ZL16prvTimerCallbackP10TimerDef_t.str1.1
+                0x0000000000800107       0x26 ./src/test.o
+ .rodata.setup.str1.1
+                0x000000000080012d        0xb ./src/test.o
+ .rodata.loop.str1.1
+                0x0000000000800138       0x6d ./src/test.o
+ .rodata.str1.1
+                0x00000000008001a5        0x5 /home/vboxuser/eclipse-workspace_1/eclipse-workspace/free-rtos-demo/libArduinoLibraries.a(tasks.o)
+ .rodata.xTimerCreateTimerTask.str1.1
+                0x00000000008001aa        0x8 /home/vboxuser/eclipse-workspace_1/eclipse-workspace/free-rtos-demo/libArduinoLibraries.a(timers.o)
+ .rodata._ZTV14HardwareSerial
+                0x00000000008001b2       0x12 /home/vboxuser/eclipse-workspace_1/eclipse-workspace/free-rtos-demo/libArduinoCore.a(HardwareSerial.o)
+                0x00000000008001b2                _ZTV14HardwareSerial
+ *(.gnu.linkonce.r*)
+                0x00000000008001c4                . = ALIGN (0x2)
+                0x00000000008001c4                _edata = .
+                0x00000000008001c4                PROVIDE (__data_end, .)
+
+.bss            0x00000000008001c4      0x12a
+                0x00000000008001c4                PROVIDE (__bss_start, .)
+ *(.bss)
+ *(.bss*)
+ .bss.xTimer2Started
+                0x00000000008001c4        0x1 ./src/test.o
+                0x00000000008001c4                xTimer2Started
+ .bss.xAutoReloadTimer
+                0x00000000008001c5        0x2 ./src/test.o
+                0x00000000008001c5                xAutoReloadTimer
+ .bss.uxSchedulerSuspended
+                0x00000000008001c7        0x1 /home/vboxuser/eclipse-workspace_1/eclipse-workspace/free-rtos-demo/libArduinoLibraries.a(tasks.o)
+ .bss.xIdleTaskHandles
+                0x00000000008001c8        0x2 /home/vboxuser/eclipse-workspace_1/eclipse-workspace/free-rtos-demo/libArduinoLibraries.a(tasks.o)
+ .bss.xNextTaskUnblockTime
+                0x00000000008001ca        0x2 /home/vboxuser/eclipse-workspace_1/eclipse-workspace/free-rtos-demo/libArduinoLibraries.a(tasks.o)
+ .bss.uxTaskNumber
+                0x00000000008001cc        0x1 /home/vboxuser/eclipse-workspace_1/eclipse-workspace/free-rtos-demo/libArduinoLibraries.a(tasks.o)
+ .bss.xNumOfOverflows
+                0x00000000008001cd        0x1 /home/vboxuser/eclipse-workspace_1/eclipse-workspace/free-rtos-demo/libArduinoLibraries.a(tasks.o)
+ .bss.xYieldPendings
+                0x00000000008001ce        0x1 /home/vboxuser/eclipse-workspace_1/eclipse-workspace/free-rtos-demo/libArduinoLibraries.a(tasks.o)
+ .bss.xPendedTicks
+                0x00000000008001cf        0x2 /home/vboxuser/eclipse-workspace_1/eclipse-workspace/free-rtos-demo/libArduinoLibraries.a(tasks.o)
+ .bss.xSchedulerRunning
+                0x00000000008001d1        0x1 /home/vboxuser/eclipse-workspace_1/eclipse-workspace/free-rtos-demo/libArduinoLibraries.a(tasks.o)
+ .bss.uxTopReadyPriority
+                0x00000000008001d2        0x1 /home/vboxuser/eclipse-workspace_1/eclipse-workspace/free-rtos-demo/libArduinoLibraries.a(tasks.o)
+ .bss.xTickCount
+                0x00000000008001d3        0x2 /home/vboxuser/eclipse-workspace_1/eclipse-workspace/free-rtos-demo/libArduinoLibraries.a(tasks.o)
+ .bss.uxCurrentNumberOfTasks
+                0x00000000008001d5        0x1 /home/vboxuser/eclipse-workspace_1/eclipse-workspace/free-rtos-demo/libArduinoLibraries.a(tasks.o)
+ .bss.xSuspendedTaskList
+                0x00000000008001d6        0x9 /home/vboxuser/eclipse-workspace_1/eclipse-workspace/free-rtos-demo/libArduinoLibraries.a(tasks.o)
+ .bss.uxDeletedTasksWaitingCleanUp
+                0x00000000008001df        0x1 /home/vboxuser/eclipse-workspace_1/eclipse-workspace/free-rtos-demo/libArduinoLibraries.a(tasks.o)
+ .bss.xTasksWaitingTermination
+                0x00000000008001e0        0x9 /home/vboxuser/eclipse-workspace_1/eclipse-workspace/free-rtos-demo/libArduinoLibraries.a(tasks.o)
+ .bss.xPendingReadyList
+                0x00000000008001e9        0x9 /home/vboxuser/eclipse-workspace_1/eclipse-workspace/free-rtos-demo/libArduinoLibraries.a(tasks.o)
+ .bss.pxOverflowDelayedTaskList
+                0x00000000008001f2        0x2 /home/vboxuser/eclipse-workspace_1/eclipse-workspace/free-rtos-demo/libArduinoLibraries.a(tasks.o)
+ .bss.pxDelayedTaskList
+                0x00000000008001f4        0x2 /home/vboxuser/eclipse-workspace_1/eclipse-workspace/free-rtos-demo/libArduinoLibraries.a(tasks.o)
+ .bss.xDelayedTaskList2
+                0x00000000008001f6        0x9 /home/vboxuser/eclipse-workspace_1/eclipse-workspace/free-rtos-demo/libArduinoLibraries.a(tasks.o)
+ .bss.xDelayedTaskList1
+                0x00000000008001ff        0x9 /home/vboxuser/eclipse-workspace_1/eclipse-workspace/free-rtos-demo/libArduinoLibraries.a(tasks.o)
+ .bss.pxReadyTasksLists
+                0x0000000000800208       0x24 /home/vboxuser/eclipse-workspace_1/eclipse-workspace/free-rtos-demo/libArduinoLibraries.a(tasks.o)
+ .bss.pxCurrentTCB
+                0x000000000080022c        0x2 /home/vboxuser/eclipse-workspace_1/eclipse-workspace/free-rtos-demo/libArduinoLibraries.a(tasks.o)
+                0x000000000080022c                pxCurrentTCB
+ .bss.xLastTime.2296
+                0x000000000080022e        0x2 /home/vboxuser/eclipse-workspace_1/eclipse-workspace/free-rtos-demo/libArduinoLibraries.a(timers.o)
+ .bss.xTimerTaskHandle
+                0x0000000000800230        0x2 /home/vboxuser/eclipse-workspace_1/eclipse-workspace/free-rtos-demo/libArduinoLibraries.a(timers.o)
+ .bss.xTimerQueue
+                0x0000000000800232        0x2 /home/vboxuser/eclipse-workspace_1/eclipse-workspace/free-rtos-demo/libArduinoLibraries.a(timers.o)
+ .bss.pxOverflowTimerList
+                0x0000000000800234        0x2 /home/vboxuser/eclipse-workspace_1/eclipse-workspace/free-rtos-demo/libArduinoLibraries.a(timers.o)
+ .bss.pxCurrentTimerList
+                0x0000000000800236        0x2 /home/vboxuser/eclipse-workspace_1/eclipse-workspace/free-rtos-demo/libArduinoLibraries.a(timers.o)
+ .bss.xActiveTimerList2
+                0x0000000000800238        0x9 /home/vboxuser/eclipse-workspace_1/eclipse-workspace/free-rtos-demo/libArduinoLibraries.a(timers.o)
+ .bss.xActiveTimerList1
+                0x0000000000800241        0x9 /home/vboxuser/eclipse-workspace_1/eclipse-workspace/free-rtos-demo/libArduinoLibraries.a(timers.o)
+ .bss.Serial    0x000000000080024a       0x13 /home/vboxuser/eclipse-workspace_1/eclipse-workspace/free-rtos-demo/libArduinoCore.a(HardwareSerial.o)
+                0x000000000080024a                Serial
+ .bss.rx_buffer
+                0x000000000080025d       0x84 /home/vboxuser/eclipse-workspace_1/eclipse-workspace/free-rtos-demo/libArduinoCore.a(HardwareSerial.o)
+                0x000000000080025d                rx_buffer
+ .bss.timer0_fract
+                0x00000000008002e1        0x1 /home/vboxuser/eclipse-workspace_1/eclipse-workspace/free-rtos-demo/libArduinoCore.a(wiring.o)
+ .bss.timer0_millis
+                0x00000000008002e2        0x4 /home/vboxuser/eclipse-workspace_1/eclipse-workspace/free-rtos-demo/libArduinoCore.a(wiring.o)
+                0x00000000008002e2                timer0_millis
+ .bss.timer0_overflow_count
+                0x00000000008002e6        0x4 /home/vboxuser/eclipse-workspace_1/eclipse-workspace/free-rtos-demo/libArduinoCore.a(wiring.o)
+                0x00000000008002e6                timer0_overflow_count
+ *(COMMON)
+ COMMON         0x00000000008002ea        0x4 /usr/lib/gcc/avr/7.3.0/../../../avr/lib/avr5/libc.a(malloc.o)
+                0x00000000008002ea                __brkval
+                0x00000000008002ec                __flp
+                0x00000000008002ee                PROVIDE (__bss_end, .)
+                0x00000000000023ac                __data_load_start = LOADADDR (.data)
+                0x0000000000002470                __data_load_end = (__data_load_start + SIZEOF (.data))
+
+.noinit         0x00000000008002ee        0x0
+                [!provide]                        PROVIDE (__noinit_start, .)
+ *(.noinit*)
+                [!provide]                        PROVIDE (__noinit_end, .)
+                0x00000000008002ee                _end = .
+                0x00000000008002ee                PROVIDE (__heap_start, .)
+
+.eeprom         0x0000000000810000        0x0
+ *(.eeprom*)
+                0x0000000000810000                __eeprom_end = .
+
+.fuse
+ *(.fuse)
+ *(.lfuse)
+ *(.hfuse)
+ *(.efuse)
+
+.lock
+ *(.lock*)
+
+.signature
+ *(.signature*)
+
+.user_signatures
+ *(.user_signatures*)
+
+.stab
+ *(.stab)
+
+.stabstr
+ *(.stabstr)
+
+.stab.excl
+ *(.stab.excl)
+
+.stab.exclstr
+ *(.stab.exclstr)
+
+.stab.index
+ *(.stab.index)
+
+.stab.indexstr
+ *(.stab.indexstr)
+
+.comment        0x0000000000000000       0x11
+ *(.comment)
+ .comment       0x0000000000000000       0x11 ./src/test.o
+                                         0x12 (size before relaxing)
+ .comment       0x0000000000000011       0x12 /home/vboxuser/eclipse-workspace_1/eclipse-workspace/free-rtos-demo/libArduinoLibraries.a(tasks.o)
+ .comment       0x0000000000000011       0x12 /home/vboxuser/eclipse-workspace_1/eclipse-workspace/free-rtos-demo/libArduinoLibraries.a(timers.o)
+ .comment       0x0000000000000011       0x12 /home/vboxuser/eclipse-workspace_1/eclipse-workspace/free-rtos-demo/libArduinoLibraries.a(variantHooks.o)
+ .comment       0x0000000000000011       0x12 /home/vboxuser/eclipse-workspace_1/eclipse-workspace/free-rtos-demo/libArduinoLibraries.a(heap_3.o)
+ .comment       0x0000000000000011       0x12 /home/vboxuser/eclipse-workspace_1/eclipse-workspace/free-rtos-demo/libArduinoLibraries.a(list.o)
+ .comment       0x0000000000000011       0x12 /home/vboxuser/eclipse-workspace_1/eclipse-workspace/free-rtos-demo/libArduinoLibraries.a(port.o)
+ .comment       0x0000000000000011       0x12 /home/vboxuser/eclipse-workspace_1/eclipse-workspace/free-rtos-demo/libArduinoLibraries.a(queue.o)
+ .comment       0x0000000000000011       0x12 /home/vboxuser/eclipse-workspace_1/eclipse-workspace/free-rtos-demo/libArduinoCore.a(HardwareSerial.o)
+ .comment       0x0000000000000011       0x12 /home/vboxuser/eclipse-workspace_1/eclipse-workspace/free-rtos-demo/libArduinoCore.a(Print.o)
+ .comment       0x0000000000000011       0x12 /home/vboxuser/eclipse-workspace_1/eclipse-workspace/free-rtos-demo/libArduinoCore.a(wiring.o)
+ .comment       0x0000000000000011       0x12 /home/vboxuser/eclipse-workspace_1/eclipse-workspace/free-rtos-demo/libArduinoCore.a(wiring_digital.o)
+ .comment       0x0000000000000011       0x12 /home/vboxuser/eclipse-workspace_1/eclipse-workspace/free-rtos-demo/libArduinoCore.a(pins_arduino.o)
+ .comment       0x0000000000000011       0x12 /usr/lib/gcc/avr/7.3.0/../../../avr/lib/avr5/libc.a(malloc.o)
+
+.note.gnu.avr.deviceinfo
+                0x0000000000000000       0x40
+ .note.gnu.avr.deviceinfo
+                0x0000000000000000       0x40 /usr/lib/gcc/avr/7.3.0/../../../avr/lib/avr5/crtatmega328p.o
+
+.note.gnu.build-id
+ *(.note.gnu.build-id)
+
+.debug
+ *(.debug)
+
+.line
+ *(.line)
+
+.debug_srcinfo
+ *(.debug_srcinfo)
+
+.debug_sfnames
+ *(.debug_sfnames)
+
+.debug_aranges
+ *(.debug_aranges)
+
+.debug_pubnames
+ *(.debug_pubnames)
+
+.debug_info     0x0000000000000000      0x5f4
+ *(.debug_info .gnu.linkonce.wi.*)
+ .debug_info    0x0000000000000000      0x5f4 /usr/lib/gcc/avr/7.3.0/../../../avr/lib/avr5/crtatmega328p.o
+
+.debug_abbrev   0x0000000000000000      0x5a2
+ *(.debug_abbrev)
+ .debug_abbrev  0x0000000000000000      0x5a2 /usr/lib/gcc/avr/7.3.0/../../../avr/lib/avr5/crtatmega328p.o
+
+.debug_line     0x0000000000000000       0x1a
+ *(.debug_line .debug_line.* .debug_line_end)
+ .debug_line    0x0000000000000000       0x1a /usr/lib/gcc/avr/7.3.0/../../../avr/lib/avr5/crtatmega328p.o
+
+.debug_frame
+ *(.debug_frame)
+
+.debug_str      0x0000000000000000      0x208
+ *(.debug_str)
+ .debug_str     0x0000000000000000      0x208 /usr/lib/gcc/avr/7.3.0/../../../avr/lib/avr5/crtatmega328p.o
+
+.debug_loc
+ *(.debug_loc)
+
+.debug_macinfo
+ *(.debug_macinfo)
+
+.debug_weaknames
+ *(.debug_weaknames)
+
+.debug_funcnames
+ *(.debug_funcnames)
+
+.debug_typenames
+ *(.debug_typenames)
+
+.debug_varnames
+ *(.debug_varnames)
+
+.debug_pubtypes
+ *(.debug_pubtypes)
+
+.debug_ranges
+ *(.debug_ranges)
+
+.debug_macro
+ *(.debug_macro)
+OUTPUT(free-rtos-demo.elf elf32-avr)
+LOAD linker stubs
+
+Cross Reference Table
+
+Symbol                                            File
+Serial                                            /home/vboxuser/eclipse-workspace_1/eclipse-workspace/free-rtos-demo/libArduinoCore.a(HardwareSerial.o)
+                                                  ./src/test.o
+_Z15prvBlinkMainLedv                              /home/vboxuser/eclipse-workspace_1/eclipse-workspace/free-rtos-demo/libArduinoLibraries.a(variantHooks.o)
+_Z15prvSetMainLedOnv                              /home/vboxuser/eclipse-workspace_1/eclipse-workspace/free-rtos-demo/libArduinoLibraries.a(variantHooks.o)
+_ZN14HardwareSerial3endEv                         /home/vboxuser/eclipse-workspace_1/eclipse-workspace/free-rtos-demo/libArduinoCore.a(HardwareSerial.o)
+_ZN14HardwareSerial4peekEv                        /home/vboxuser/eclipse-workspace_1/eclipse-workspace/free-rtos-demo/libArduinoCore.a(HardwareSerial.o)
+_ZN14HardwareSerial4readEv                        /home/vboxuser/eclipse-workspace_1/eclipse-workspace/free-rtos-demo/libArduinoCore.a(HardwareSerial.o)
+_ZN14HardwareSerial5beginEl                       /home/vboxuser/eclipse-workspace_1/eclipse-workspace/free-rtos-demo/libArduinoCore.a(HardwareSerial.o)
+                                                  ./src/test.o
+_ZN14HardwareSerial5flushEv                       /home/vboxuser/eclipse-workspace_1/eclipse-workspace/free-rtos-demo/libArduinoCore.a(HardwareSerial.o)
+_ZN14HardwareSerial5writeEh                       /home/vboxuser/eclipse-workspace_1/eclipse-workspace/free-rtos-demo/libArduinoCore.a(HardwareSerial.o)
+_ZN14HardwareSerial9availableEv                   /home/vboxuser/eclipse-workspace_1/eclipse-workspace/free-rtos-demo/libArduinoCore.a(HardwareSerial.o)
+_ZN14HardwareSerialC1EP11ring_bufferPVhS3_S3_S3_S3_hhhhh /home/vboxuser/eclipse-workspace_1/eclipse-workspace/free-rtos-demo/libArduinoCore.a(HardwareSerial.o)
+_ZN14HardwareSerialC2EP11ring_bufferPVhS3_S3_S3_S3_hhhhh /home/vboxuser/eclipse-workspace_1/eclipse-workspace/free-rtos-demo/libArduinoCore.a(HardwareSerial.o)
+_ZN5Print10printFloatEdh                          /home/vboxuser/eclipse-workspace_1/eclipse-workspace/free-rtos-demo/libArduinoCore.a(Print.o)
+_ZN5Print11printNumberEmh                         /home/vboxuser/eclipse-workspace_1/eclipse-workspace/free-rtos-demo/libArduinoCore.a(Print.o)
+_ZN5Print5printEPKc                               /home/vboxuser/eclipse-workspace_1/eclipse-workspace/free-rtos-demo/libArduinoCore.a(Print.o)
+                                                  ./src/test.o
+_ZN5Print5printERK6String                         /home/vboxuser/eclipse-workspace_1/eclipse-workspace/free-rtos-demo/libArduinoCore.a(Print.o)
+_ZN5Print5printEci                                /home/vboxuser/eclipse-workspace_1/eclipse-workspace/free-rtos-demo/libArduinoCore.a(Print.o)
+_ZN5Print5printEdi                                /home/vboxuser/eclipse-workspace_1/eclipse-workspace/free-rtos-demo/libArduinoCore.a(Print.o)
+_ZN5Print5printEhi                                /home/vboxuser/eclipse-workspace_1/eclipse-workspace/free-rtos-demo/libArduinoCore.a(Print.o)
+_ZN5Print5printEii                                /home/vboxuser/eclipse-workspace_1/eclipse-workspace/free-rtos-demo/libArduinoCore.a(Print.o)
+_ZN5Print5printEji                                /home/vboxuser/eclipse-workspace_1/eclipse-workspace/free-rtos-demo/libArduinoCore.a(Print.o)
+_ZN5Print5printEli                                /home/vboxuser/eclipse-workspace_1/eclipse-workspace/free-rtos-demo/libArduinoCore.a(Print.o)
+_ZN5Print5printEmi                                /home/vboxuser/eclipse-workspace_1/eclipse-workspace/free-rtos-demo/libArduinoCore.a(Print.o)
+_ZN5Print5writeEPKc                               /home/vboxuser/eclipse-workspace_1/eclipse-workspace/free-rtos-demo/libArduinoCore.a(Print.o)
+                                                  /home/vboxuser/eclipse-workspace_1/eclipse-workspace/free-rtos-demo/libArduinoCore.a(HardwareSerial.o)
+_ZN5Print5writeEPKhj                              /home/vboxuser/eclipse-workspace_1/eclipse-workspace/free-rtos-demo/libArduinoCore.a(Print.o)
+                                                  /home/vboxuser/eclipse-workspace_1/eclipse-workspace/free-rtos-demo/libArduinoCore.a(HardwareSerial.o)
+_ZN5Print7printlnEPKc                             /home/vboxuser/eclipse-workspace_1/eclipse-workspace/free-rtos-demo/libArduinoCore.a(Print.o)
+                                                  ./src/test.o
+_ZN5Print7printlnERK6String                       /home/vboxuser/eclipse-workspace_1/eclipse-workspace/free-rtos-demo/libArduinoCore.a(Print.o)
+_ZN5Print7printlnEci                              /home/vboxuser/eclipse-workspace_1/eclipse-workspace/free-rtos-demo/libArduinoCore.a(Print.o)
+_ZN5Print7printlnEdi                              /home/vboxuser/eclipse-workspace_1/eclipse-workspace/free-rtos-demo/libArduinoCore.a(Print.o)
+_ZN5Print7printlnEhi                              /home/vboxuser/eclipse-workspace_1/eclipse-workspace/free-rtos-demo/libArduinoCore.a(Print.o)
+_ZN5Print7printlnEii                              /home/vboxuser/eclipse-workspace_1/eclipse-workspace/free-rtos-demo/libArduinoCore.a(Print.o)
+_ZN5Print7printlnEji                              /home/vboxuser/eclipse-workspace_1/eclipse-workspace/free-rtos-demo/libArduinoCore.a(Print.o)
+                                                  ./src/test.o
+_ZN5Print7printlnEli                              /home/vboxuser/eclipse-workspace_1/eclipse-workspace/free-rtos-demo/libArduinoCore.a(Print.o)
+_ZN5Print7printlnEmi                              /home/vboxuser/eclipse-workspace_1/eclipse-workspace/free-rtos-demo/libArduinoCore.a(Print.o)
+_ZN5Print7printlnEv                               /home/vboxuser/eclipse-workspace_1/eclipse-workspace/free-rtos-demo/libArduinoCore.a(Print.o)
+_ZN6String11toCharArrayEPcj                       /home/vboxuser/eclipse-workspace_1/eclipse-workspace/free-rtos-demo/libArduinoCore.a(WString.o)
+_ZN6String5toIntEv                                /home/vboxuser/eclipse-workspace_1/eclipse-workspace/free-rtos-demo/libArduinoCore.a(WString.o)
+_ZN6String6concatERKS_                            /home/vboxuser/eclipse-workspace_1/eclipse-workspace/free-rtos-demo/libArduinoCore.a(WString.o)
+_ZN6String7replaceERKS_S1_                        /home/vboxuser/eclipse-workspace_1/eclipse-workspace/free-rtos-demo/libArduinoCore.a(WString.o)
+_ZN6String7replaceEcc                             /home/vboxuser/eclipse-workspace_1/eclipse-workspace/free-rtos-demo/libArduinoCore.a(WString.o)
+_ZN6String8getBytesEPhj                           /home/vboxuser/eclipse-workspace_1/eclipse-workspace/free-rtos-demo/libArduinoCore.a(WString.o)
+_ZN6String9getBufferEj                            /home/vboxuser/eclipse-workspace_1/eclipse-workspace/free-rtos-demo/libArduinoCore.a(WString.o)
+_ZN6String9setCharAtEjc                           /home/vboxuser/eclipse-workspace_1/eclipse-workspace/free-rtos-demo/libArduinoCore.a(WString.o)
+_ZN6StringC1EPKc                                  /home/vboxuser/eclipse-workspace_1/eclipse-workspace/free-rtos-demo/libArduinoCore.a(WString.o)
+_ZN6StringC1ERKS_                                 /home/vboxuser/eclipse-workspace_1/eclipse-workspace/free-rtos-demo/libArduinoCore.a(WString.o)
+_ZN6StringC1Ec                                    /home/vboxuser/eclipse-workspace_1/eclipse-workspace/free-rtos-demo/libArduinoCore.a(WString.o)
+_ZN6StringC1Eh                                    /home/vboxuser/eclipse-workspace_1/eclipse-workspace/free-rtos-demo/libArduinoCore.a(WString.o)
+_ZN6StringC1Eii                                   /home/vboxuser/eclipse-workspace_1/eclipse-workspace/free-rtos-demo/libArduinoCore.a(WString.o)
+_ZN6StringC1Eji                                   /home/vboxuser/eclipse-workspace_1/eclipse-workspace/free-rtos-demo/libArduinoCore.a(WString.o)
+_ZN6StringC1Eli                                   /home/vboxuser/eclipse-workspace_1/eclipse-workspace/free-rtos-demo/libArduinoCore.a(WString.o)
+_ZN6StringC1Emi                                   /home/vboxuser/eclipse-workspace_1/eclipse-workspace/free-rtos-demo/libArduinoCore.a(WString.o)
+_ZN6StringC2EPKc                                  /home/vboxuser/eclipse-workspace_1/eclipse-workspace/free-rtos-demo/libArduinoCore.a(WString.o)
+_ZN6StringC2ERKS_                                 /home/vboxuser/eclipse-workspace_1/eclipse-workspace/free-rtos-demo/libArduinoCore.a(WString.o)
+_ZN6StringC2Ec                                    /home/vboxuser/eclipse-workspace_1/eclipse-workspace/free-rtos-demo/libArduinoCore.a(WString.o)
+_ZN6StringC2Eh                                    /home/vboxuser/eclipse-workspace_1/eclipse-workspace/free-rtos-demo/libArduinoCore.a(WString.o)
+_ZN6StringC2Eii                                   /home/vboxuser/eclipse-workspace_1/eclipse-workspace/free-rtos-demo/libArduinoCore.a(WString.o)
+_ZN6StringC2Eji                                   /home/vboxuser/eclipse-workspace_1/eclipse-workspace/free-rtos-demo/libArduinoCore.a(WString.o)
+_ZN6StringC2Eli                                   /home/vboxuser/eclipse-workspace_1/eclipse-workspace/free-rtos-demo/libArduinoCore.a(WString.o)
+_ZN6StringC2Emi                                   /home/vboxuser/eclipse-workspace_1/eclipse-workspace/free-rtos-demo/libArduinoCore.a(WString.o)
+_ZN6StringD1Ev                                    /home/vboxuser/eclipse-workspace_1/eclipse-workspace/free-rtos-demo/libArduinoCore.a(WString.o)
+_ZN6StringD2Ev                                    /home/vboxuser/eclipse-workspace_1/eclipse-workspace/free-rtos-demo/libArduinoCore.a(WString.o)
+_ZN6StringaSERKS_                                 /home/vboxuser/eclipse-workspace_1/eclipse-workspace/free-rtos-demo/libArduinoCore.a(WString.o)
+_ZN6StringixEj                                    /home/vboxuser/eclipse-workspace_1/eclipse-workspace/free-rtos-demo/libArduinoCore.a(WString.o)
+_ZN6StringpLERKS_                                 /home/vboxuser/eclipse-workspace_1/eclipse-workspace/free-rtos-demo/libArduinoCore.a(WString.o)
+_ZNK6String10startsWithERKS_                      /home/vboxuser/eclipse-workspace_1/eclipse-workspace/free-rtos-demo/libArduinoCore.a(WString.o)
+_ZNK6String10startsWithERKS_j                     /home/vboxuser/eclipse-workspace_1/eclipse-workspace/free-rtos-demo/libArduinoCore.a(WString.o)
+_ZNK6String11lastIndexOfERKS_                     /home/vboxuser/eclipse-workspace_1/eclipse-workspace/free-rtos-demo/libArduinoCore.a(WString.o)
+_ZNK6String11lastIndexOfERKS_j                    /home/vboxuser/eclipse-workspace_1/eclipse-workspace/free-rtos-demo/libArduinoCore.a(WString.o)
+_ZNK6String11lastIndexOfEc                        /home/vboxuser/eclipse-workspace_1/eclipse-workspace/free-rtos-demo/libArduinoCore.a(WString.o)
+_ZNK6String11lastIndexOfEcj                       /home/vboxuser/eclipse-workspace_1/eclipse-workspace/free-rtos-demo/libArduinoCore.a(WString.o)
+_ZNK6String11toLowerCaseEv                        /home/vboxuser/eclipse-workspace_1/eclipse-workspace/free-rtos-demo/libArduinoCore.a(WString.o)
+_ZNK6String11toUpperCaseEv                        /home/vboxuser/eclipse-workspace_1/eclipse-workspace/free-rtos-demo/libArduinoCore.a(WString.o)
+_ZNK6String16equalsIgnoreCaseERKS_                /home/vboxuser/eclipse-workspace_1/eclipse-workspace/free-rtos-demo/libArduinoCore.a(WString.o)
+_ZNK6String4trimEv                                /home/vboxuser/eclipse-workspace_1/eclipse-workspace/free-rtos-demo/libArduinoCore.a(WString.o)
+_ZNK6String6charAtEj                              /home/vboxuser/eclipse-workspace_1/eclipse-workspace/free-rtos-demo/libArduinoCore.a(WString.o)
+_ZNK6String6equalsERKS_                           /home/vboxuser/eclipse-workspace_1/eclipse-workspace/free-rtos-demo/libArduinoCore.a(WString.o)
+_ZNK6String7indexOfERKS_                          /home/vboxuser/eclipse-workspace_1/eclipse-workspace/free-rtos-demo/libArduinoCore.a(WString.o)
+_ZNK6String7indexOfERKS_j                         /home/vboxuser/eclipse-workspace_1/eclipse-workspace/free-rtos-demo/libArduinoCore.a(WString.o)
+_ZNK6String7indexOfEc                             /home/vboxuser/eclipse-workspace_1/eclipse-workspace/free-rtos-demo/libArduinoCore.a(WString.o)
+_ZNK6String7indexOfEcj                            /home/vboxuser/eclipse-workspace_1/eclipse-workspace/free-rtos-demo/libArduinoCore.a(WString.o)
+_ZNK6String8endsWithERKS_                         /home/vboxuser/eclipse-workspace_1/eclipse-workspace/free-rtos-demo/libArduinoCore.a(WString.o)
+_ZNK6String9compareToERKS_                        /home/vboxuser/eclipse-workspace_1/eclipse-workspace/free-rtos-demo/libArduinoCore.a(WString.o)
+_ZNK6String9substringEj                           /home/vboxuser/eclipse-workspace_1/eclipse-workspace/free-rtos-demo/libArduinoCore.a(WString.o)
+_ZNK6String9substringEjj                          /home/vboxuser/eclipse-workspace_1/eclipse-workspace/free-rtos-demo/libArduinoCore.a(WString.o)
+_ZNK6StringeqERKS_                                /home/vboxuser/eclipse-workspace_1/eclipse-workspace/free-rtos-demo/libArduinoCore.a(WString.o)
+_ZNK6StringgeERKS_                                /home/vboxuser/eclipse-workspace_1/eclipse-workspace/free-rtos-demo/libArduinoCore.a(WString.o)
+_ZNK6StringgtERKS_                                /home/vboxuser/eclipse-workspace_1/eclipse-workspace/free-rtos-demo/libArduinoCore.a(WString.o)
+_ZNK6StringixEj                                   /home/vboxuser/eclipse-workspace_1/eclipse-workspace/free-rtos-demo/libArduinoCore.a(WString.o)
+                                                  /home/vboxuser/eclipse-workspace_1/eclipse-workspace/free-rtos-demo/libArduinoCore.a(Print.o)
+_ZNK6StringleERKS_                                /home/vboxuser/eclipse-workspace_1/eclipse-workspace/free-rtos-demo/libArduinoCore.a(WString.o)
+_ZNK6StringltERKS_                                /home/vboxuser/eclipse-workspace_1/eclipse-workspace/free-rtos-demo/libArduinoCore.a(WString.o)
+_ZNK6StringneERKS_                                /home/vboxuser/eclipse-workspace_1/eclipse-workspace/free-rtos-demo/libArduinoCore.a(WString.o)
+_ZTV14HardwareSerial                              /home/vboxuser/eclipse-workspace_1/eclipse-workspace/free-rtos-demo/libArduinoCore.a(HardwareSerial.o)
+_ZTV5Print                                        /home/vboxuser/eclipse-workspace_1/eclipse-workspace/free-rtos-demo/libArduinoCore.a(Print.o)
+__DATA_REGION_LENGTH__                            /usr/lib/gcc/avr/7.3.0/../../../avr/lib/avr5/crtatmega328p.o
+__DATA_REGION_ORIGIN__                            /usr/lib/gcc/avr/7.3.0/../../../avr/lib/avr5/crtatmega328p.o
+__EEPROM_REGION_LENGTH__                          /usr/lib/gcc/avr/7.3.0/../../../avr/lib/avr5/crtatmega328p.o
+__FUSE_REGION_LENGTH__                            /usr/lib/gcc/avr/7.3.0/../../../avr/lib/avr5/crtatmega328p.o
+__TEXT_REGION_LENGTH__                            /usr/lib/gcc/avr/7.3.0/../../../avr/lib/avr5/crtatmega328p.o
+__addsf3                                          /usr/lib/gcc/avr/7.3.0/../../../avr/lib/avr5/libm.a(addsf3.o)
+                                                  /home/vboxuser/eclipse-workspace_1/eclipse-workspace/free-rtos-demo/libArduinoCore.a(Print.o)
+__addsf3x                                         /usr/lib/gcc/avr/7.3.0/../../../avr/lib/avr5/libm.a(addsf3x.o)
+                                                  /usr/lib/gcc/avr/7.3.0/../../../avr/lib/avr5/libm.a(addsf3.o)
+__bad_interrupt                                   /usr/lib/gcc/avr/7.3.0/../../../avr/lib/avr5/crtatmega328p.o
+__brkval                                          /usr/lib/gcc/avr/7.3.0/../../../avr/lib/avr5/libc.a(malloc.o)
+                                                  /usr/lib/gcc/avr/7.3.0/../../../avr/lib/avr5/libc.a(realloc.o)
+__bss_end                                         /usr/lib/gcc/avr/7.3.0/avr5/libgcc.a(_clear_bss.o)
+__bss_start                                       /usr/lib/gcc/avr/7.3.0/avr5/libgcc.a(_clear_bss.o)
+__cmpsf2                                          /usr/lib/gcc/avr/7.3.0/../../../avr/lib/avr5/libm.a(cmpsf2.o)
+__ctors_end                                       /usr/lib/gcc/avr/7.3.0/avr5/libgcc.a(_ctors.o)
+__ctors_start                                     /usr/lib/gcc/avr/7.3.0/avr5/libgcc.a(_ctors.o)
+__ctype_isfalse                                   /usr/lib/gcc/avr/7.3.0/../../../avr/lib/avr5/libc.a(cty_isfalse.o)
+                                                  /usr/lib/gcc/avr/7.3.0/../../../avr/lib/avr5/libc.a(isspace.o)
+__ctype_istrue                                    /usr/lib/gcc/avr/7.3.0/../../../avr/lib/avr5/libc.a(cty_isfalse.o)
+__cxa_pure_virtual                                /home/vboxuser/eclipse-workspace_1/eclipse-workspace/free-rtos-demo/libArduinoCore.a(Print.o)
+__data_end                                        /usr/lib/gcc/avr/7.3.0/avr5/libgcc.a(_copy_data.o)
+__data_load_start                                 /usr/lib/gcc/avr/7.3.0/avr5/libgcc.a(_copy_data.o)
+__data_start                                      /usr/lib/gcc/avr/7.3.0/avr5/libgcc.a(_copy_data.o)
+__divsf3                                          /usr/lib/gcc/avr/7.3.0/../../../avr/lib/avr5/libm.a(divsf3.o)
+                                                  /home/vboxuser/eclipse-workspace_1/eclipse-workspace/free-rtos-demo/libArduinoCore.a(Print.o)
+__divsf3_pse                                      /usr/lib/gcc/avr/7.3.0/../../../avr/lib/avr5/libm.a(divsf3x.o)
+__divsf3x                                         /usr/lib/gcc/avr/7.3.0/../../../avr/lib/avr5/libm.a(divsf3x.o)
+                                                  /usr/lib/gcc/avr/7.3.0/../../../avr/lib/avr5/libm.a(divsf3.o)
+__do_clear_bss                                    /usr/lib/gcc/avr/7.3.0/avr5/libgcc.a(_clear_bss.o)
+                                                  /usr/lib/gcc/avr/7.3.0/../../../avr/lib/avr5/libc.a(malloc.o)
+                                                  /home/vboxuser/eclipse-workspace_1/eclipse-workspace/free-rtos-demo/libArduinoCore.a(wiring.o)
+                                                  /home/vboxuser/eclipse-workspace_1/eclipse-workspace/free-rtos-demo/libArduinoCore.a(WString.o)
+                                                  /home/vboxuser/eclipse-workspace_1/eclipse-workspace/free-rtos-demo/libArduinoCore.a(HardwareSerial.o)
+                                                  /home/vboxuser/eclipse-workspace_1/eclipse-workspace/free-rtos-demo/libArduinoLibraries.a(port.o)
+                                                  /home/vboxuser/eclipse-workspace_1/eclipse-workspace/free-rtos-demo/libArduinoLibraries.a(timers.o)
+                                                  /home/vboxuser/eclipse-workspace_1/eclipse-workspace/free-rtos-demo/libArduinoLibraries.a(tasks.o)
+                                                  ./src/test.o
+__do_copy_data                                    /usr/lib/gcc/avr/7.3.0/avr5/libgcc.a(_copy_data.o)
+                                                  /usr/lib/gcc/avr/7.3.0/../../../avr/lib/avr5/libc.a(malloc.o)
+                                                  /home/vboxuser/eclipse-workspace_1/eclipse-workspace/free-rtos-demo/libArduinoCore.a(WString.o)
+                                                  /home/vboxuser/eclipse-workspace_1/eclipse-workspace/free-rtos-demo/libArduinoCore.a(Print.o)
+                                                  /home/vboxuser/eclipse-workspace_1/eclipse-workspace/free-rtos-demo/libArduinoCore.a(HardwareSerial.o)
+                                                  /home/vboxuser/eclipse-workspace_1/eclipse-workspace/free-rtos-demo/libArduinoLibraries.a(timers.o)
+                                                  /home/vboxuser/eclipse-workspace_1/eclipse-workspace/free-rtos-demo/libArduinoLibraries.a(tasks.o)
+                                                  ./src/test.o
+__do_global_ctors                                 /usr/lib/gcc/avr/7.3.0/avr5/libgcc.a(_ctors.o)
+                                                  /home/vboxuser/eclipse-workspace_1/eclipse-workspace/free-rtos-demo/libArduinoCore.a(HardwareSerial.o)
+__epilogue_restores__                             /usr/lib/gcc/avr/7.3.0/avr5/libgcc.a(_epilogue.o)
+                                                  /usr/lib/gcc/avr/7.3.0/../../../avr/lib/avr5/libc.a(realloc.o)
+__eqsf2                                           /usr/lib/gcc/avr/7.3.0/../../../avr/lib/avr5/libm.a(cmpsf2.o)
+__fixsfsi                                         /usr/lib/gcc/avr/7.3.0/../../../avr/lib/avr5/libm.a(fixsfsi.o)
+                                                  /home/vboxuser/eclipse-workspace_1/eclipse-workspace/free-rtos-demo/libArduinoCore.a(Print.o)
+__fixunssfsi                                      /usr/lib/gcc/avr/7.3.0/../../../avr/lib/avr5/libm.a(fixunssfsi.o)
+                                                  /usr/lib/gcc/avr/7.3.0/../../../avr/lib/avr5/libm.a(fixsfsi.o)
+                                                  /home/vboxuser/eclipse-workspace_1/eclipse-workspace/free-rtos-demo/libArduinoCore.a(Print.o)
+__floatsisf                                       /usr/lib/gcc/avr/7.3.0/../../../avr/lib/avr5/libm.a(floatsisf.o)
+                                                  /home/vboxuser/eclipse-workspace_1/eclipse-workspace/free-rtos-demo/libArduinoCore.a(Print.o)
+__floatunsisf                                     /usr/lib/gcc/avr/7.3.0/../../../avr/lib/avr5/libm.a(floatsisf.o)
+                                                  /home/vboxuser/eclipse-workspace_1/eclipse-workspace/free-rtos-demo/libArduinoCore.a(Print.o)
+__flp                                             /usr/lib/gcc/avr/7.3.0/../../../avr/lib/avr5/libc.a(malloc.o)
+                                                  /usr/lib/gcc/avr/7.3.0/../../../avr/lib/avr5/libc.a(realloc.o)
+__fp_cmp                                          /usr/lib/gcc/avr/7.3.0/../../../avr/lib/avr5/libm.a(fp_cmp.o)
+                                                  /usr/lib/gcc/avr/7.3.0/../../../avr/lib/avr5/libm.a(cmpsf2.o)
+__fp_inf                                          /usr/lib/gcc/avr/7.3.0/../../../avr/lib/avr5/libm.a(fp_inf.o)
+                                                  /usr/lib/gcc/avr/7.3.0/../../../avr/lib/avr5/libm.a(mulsf3x.o)
+                                                  /usr/lib/gcc/avr/7.3.0/../../../avr/lib/avr5/libm.a(divsf3x.o)
+                                                  /usr/lib/gcc/avr/7.3.0/../../../avr/lib/avr5/libm.a(addsf3x.o)
+__fp_nan                                          /usr/lib/gcc/avr/7.3.0/../../../avr/lib/avr5/libm.a(fp_nan.o)
+                                                  /usr/lib/gcc/avr/7.3.0/../../../avr/lib/avr5/libm.a(mulsf3x.o)
+                                                  /usr/lib/gcc/avr/7.3.0/../../../avr/lib/avr5/libm.a(divsf3x.o)
+                                                  /usr/lib/gcc/avr/7.3.0/../../../avr/lib/avr5/libm.a(addsf3x.o)
+__fp_pscA                                         /usr/lib/gcc/avr/7.3.0/../../../avr/lib/avr5/libm.a(fp_pscA.o)
+                                                  /usr/lib/gcc/avr/7.3.0/../../../avr/lib/avr5/libm.a(mulsf3x.o)
+                                                  /usr/lib/gcc/avr/7.3.0/../../../avr/lib/avr5/libm.a(divsf3x.o)
+                                                  /usr/lib/gcc/avr/7.3.0/../../../avr/lib/avr5/libm.a(addsf3x.o)
+__fp_pscB                                         /usr/lib/gcc/avr/7.3.0/../../../avr/lib/avr5/libm.a(fp_pscB.o)
+                                                  /usr/lib/gcc/avr/7.3.0/../../../avr/lib/avr5/libm.a(mulsf3x.o)
+                                                  /usr/lib/gcc/avr/7.3.0/../../../avr/lib/avr5/libm.a(divsf3x.o)
+                                                  /usr/lib/gcc/avr/7.3.0/../../../avr/lib/avr5/libm.a(addsf3x.o)
+__fp_round                                        /usr/lib/gcc/avr/7.3.0/../../../avr/lib/avr5/libm.a(fp_round.o)
+                                                  /usr/lib/gcc/avr/7.3.0/../../../avr/lib/avr5/libm.a(mulsf3.o)
+                                                  /usr/lib/gcc/avr/7.3.0/../../../avr/lib/avr5/libm.a(divsf3.o)
+                                                  /usr/lib/gcc/avr/7.3.0/../../../avr/lib/avr5/libm.a(addsf3.o)
+__fp_split3                                       /usr/lib/gcc/avr/7.3.0/../../../avr/lib/avr5/libm.a(fp_split3.o)
+                                                  /usr/lib/gcc/avr/7.3.0/../../../avr/lib/avr5/libm.a(mulsf3x.o)
+                                                  /usr/lib/gcc/avr/7.3.0/../../../avr/lib/avr5/libm.a(divsf3x.o)
+                                                  /usr/lib/gcc/avr/7.3.0/../../../avr/lib/avr5/libm.a(addsf3x.o)
+__fp_splitA                                       /usr/lib/gcc/avr/7.3.0/../../../avr/lib/avr5/libm.a(fp_split3.o)
+                                                  /usr/lib/gcc/avr/7.3.0/../../../avr/lib/avr5/libm.a(fixunssfsi.o)
+__fp_szero                                        /usr/lib/gcc/avr/7.3.0/../../../avr/lib/avr5/libm.a(fp_zero.o)
+                                                  /usr/lib/gcc/avr/7.3.0/../../../avr/lib/avr5/libm.a(mulsf3x.o)
+                                                  /usr/lib/gcc/avr/7.3.0/../../../avr/lib/avr5/libm.a(fixsfsi.o)
+                                                  /usr/lib/gcc/avr/7.3.0/../../../avr/lib/avr5/libm.a(divsf3x.o)
+__fp_zero                                         /usr/lib/gcc/avr/7.3.0/../../../avr/lib/avr5/libm.a(fp_zero.o)
+                                                  /usr/lib/gcc/avr/7.3.0/../../../avr/lib/avr5/libm.a(fixunssfsi.o)
+                                                  /usr/lib/gcc/avr/7.3.0/../../../avr/lib/avr5/libm.a(addsf3x.o)
+__heap_end                                        /usr/lib/gcc/avr/7.3.0/../../../avr/lib/avr5/crtatmega328p.o
+                                                  /usr/lib/gcc/avr/7.3.0/../../../avr/lib/avr5/libc.a(malloc.o)
+__heap_start                                      /usr/lib/gcc/avr/7.3.0/../../../avr/lib/avr5/libc.a(malloc.o)
+__init                                            /usr/lib/gcc/avr/7.3.0/../../../avr/lib/avr5/crtatmega328p.o
+__itoa                                            /usr/lib/gcc/avr/7.3.0/../../../avr/lib/avr5/libc.a(itoa.o)
+                                                  /home/vboxuser/eclipse-workspace_1/eclipse-workspace/free-rtos-demo/libArduinoCore.a(WString.o)
+__itoa_ncheck                                     /usr/lib/gcc/avr/7.3.0/../../../avr/lib/avr5/libc.a(itoa_ncheck.o)
+                                                  /usr/lib/gcc/avr/7.3.0/../../../avr/lib/avr5/libc.a(itoa.o)
+__lesf2                                           /usr/lib/gcc/avr/7.3.0/../../../avr/lib/avr5/libm.a(cmpsf2.o)
+__ltoa                                            /usr/lib/gcc/avr/7.3.0/../../../avr/lib/avr5/libc.a(ltoa.o)
+                                                  /home/vboxuser/eclipse-workspace_1/eclipse-workspace/free-rtos-demo/libArduinoCore.a(WString.o)
+__ltoa_ncheck                                     /usr/lib/gcc/avr/7.3.0/../../../avr/lib/avr5/libc.a(ltoa_ncheck.o)
+                                                  /usr/lib/gcc/avr/7.3.0/../../../avr/lib/avr5/libc.a(ltoa.o)
+__ltsf2                                           /usr/lib/gcc/avr/7.3.0/../../../avr/lib/avr5/libm.a(cmpsf2.o)
+                                                  /home/vboxuser/eclipse-workspace_1/eclipse-workspace/free-rtos-demo/libArduinoCore.a(Print.o)
+__malloc_heap_end                                 /usr/lib/gcc/avr/7.3.0/../../../avr/lib/avr5/libc.a(malloc.o)
+                                                  /usr/lib/gcc/avr/7.3.0/../../../avr/lib/avr5/libc.a(realloc.o)
+                                                  /home/vboxuser/eclipse-workspace_1/eclipse-workspace/free-rtos-demo/libArduinoLibraries.a(variantHooks.o)
+__malloc_heap_start                               /usr/lib/gcc/avr/7.3.0/../../../avr/lib/avr5/libc.a(malloc.o)
+__malloc_margin                                   /usr/lib/gcc/avr/7.3.0/../../../avr/lib/avr5/libc.a(malloc.o)
+                                                  /usr/lib/gcc/avr/7.3.0/../../../avr/lib/avr5/libc.a(realloc.o)
+                                                  /home/vboxuser/eclipse-workspace_1/eclipse-workspace/free-rtos-demo/libArduinoLibraries.a(variantHooks.o)
+__mulsf3                                          /usr/lib/gcc/avr/7.3.0/../../../avr/lib/avr5/libm.a(mulsf3.o)
+                                                  /home/vboxuser/eclipse-workspace_1/eclipse-workspace/free-rtos-demo/libArduinoCore.a(Print.o)
+__mulsf3_pse                                      /usr/lib/gcc/avr/7.3.0/../../../avr/lib/avr5/libm.a(mulsf3x.o)
+__mulsf3x                                         /usr/lib/gcc/avr/7.3.0/../../../avr/lib/avr5/libm.a(mulsf3x.o)
+                                                  /usr/lib/gcc/avr/7.3.0/../../../avr/lib/avr5/libm.a(mulsf3.o)
+__mulsi_const_10                                  /usr/lib/gcc/avr/7.3.0/../../../avr/lib/avr5/libc.a(mulsi10.o)
+                                                  /usr/lib/gcc/avr/7.3.0/../../../avr/lib/avr5/libc.a(atol.o)
+__nesf2                                           /usr/lib/gcc/avr/7.3.0/../../../avr/lib/avr5/libm.a(cmpsf2.o)
+__prologue_saves__                                /usr/lib/gcc/avr/7.3.0/avr5/libgcc.a(_prologue.o)
+                                                  /usr/lib/gcc/avr/7.3.0/../../../avr/lib/avr5/libc.a(realloc.o)
+__stack                                           /usr/lib/gcc/avr/7.3.0/../../../avr/lib/avr5/crtatmega328p.o
+__subsf3                                          /usr/lib/gcc/avr/7.3.0/../../../avr/lib/avr5/libm.a(addsf3.o)
+                                                  /home/vboxuser/eclipse-workspace_1/eclipse-workspace/free-rtos-demo/libArduinoCore.a(Print.o)
+__tablejump2__                                    /usr/lib/gcc/avr/7.3.0/avr5/libgcc.a(_tablejump2.o)
+                                                  /usr/lib/gcc/avr/7.3.0/avr5/libgcc.a(_ctors.o)
+                                                  /home/vboxuser/eclipse-workspace_1/eclipse-workspace/free-rtos-demo/libArduinoLibraries.a(timers.o)
+__udivmodhi4                                      /usr/lib/gcc/avr/7.3.0/avr5/libgcc.a(_udivmodhi4.o)
+                                                  ./src/test.o
+__udivmodsi4                                      /usr/lib/gcc/avr/7.3.0/avr5/libgcc.a(_udivmodsi4.o)
+                                                  /home/vboxuser/eclipse-workspace_1/eclipse-workspace/free-rtos-demo/libArduinoCore.a(Print.o)
+                                                  /home/vboxuser/eclipse-workspace_1/eclipse-workspace/free-rtos-demo/libArduinoCore.a(HardwareSerial.o)
+__ultoa                                           /usr/lib/gcc/avr/7.3.0/../../../avr/lib/avr5/libc.a(ultoa.o)
+                                                  /home/vboxuser/eclipse-workspace_1/eclipse-workspace/free-rtos-demo/libArduinoCore.a(WString.o)
+__ultoa_common                                    /usr/lib/gcc/avr/7.3.0/../../../avr/lib/avr5/libc.a(ultoa_ncheck.o)
+                                                  /usr/lib/gcc/avr/7.3.0/../../../avr/lib/avr5/libc.a(ltoa_ncheck.o)
+__ultoa_ncheck                                    /usr/lib/gcc/avr/7.3.0/../../../avr/lib/avr5/libc.a(ultoa_ncheck.o)
+                                                  /usr/lib/gcc/avr/7.3.0/../../../avr/lib/avr5/libc.a(ultoa.o)
+                                                  /home/vboxuser/eclipse-workspace_1/eclipse-workspace/free-rtos-demo/libArduinoCore.a(WString.o)
+__utoa_common                                     /usr/lib/gcc/avr/7.3.0/../../../avr/lib/avr5/libc.a(utoa_ncheck.o)
+                                                  /usr/lib/gcc/avr/7.3.0/../../../avr/lib/avr5/libc.a(itoa_ncheck.o)
+__utoa_ncheck                                     /usr/lib/gcc/avr/7.3.0/../../../avr/lib/avr5/libc.a(utoa_ncheck.o)
+__vector_1                                        /usr/lib/gcc/avr/7.3.0/../../../avr/lib/avr5/crtatmega328p.o
+__vector_10                                       /usr/lib/gcc/avr/7.3.0/../../../avr/lib/avr5/crtatmega328p.o
+__vector_11                                       /usr/lib/gcc/avr/7.3.0/../../../avr/lib/avr5/crtatmega328p.o
+__vector_12                                       /usr/lib/gcc/avr/7.3.0/../../../avr/lib/avr5/crtatmega328p.o
+__vector_13                                       /usr/lib/gcc/avr/7.3.0/../../../avr/lib/avr5/crtatmega328p.o
+__vector_14                                       /usr/lib/gcc/avr/7.3.0/../../../avr/lib/avr5/crtatmega328p.o
+__vector_15                                       /usr/lib/gcc/avr/7.3.0/../../../avr/lib/avr5/crtatmega328p.o
+__vector_16                                       /home/vboxuser/eclipse-workspace_1/eclipse-workspace/free-rtos-demo/libArduinoCore.a(wiring.o)
+                                                  /usr/lib/gcc/avr/7.3.0/../../../avr/lib/avr5/crtatmega328p.o
+__vector_17                                       /usr/lib/gcc/avr/7.3.0/../../../avr/lib/avr5/crtatmega328p.o
+__vector_18                                       /home/vboxuser/eclipse-workspace_1/eclipse-workspace/free-rtos-demo/libArduinoCore.a(HardwareSerial.o)
+                                                  /usr/lib/gcc/avr/7.3.0/../../../avr/lib/avr5/crtatmega328p.o
+__vector_19                                       /usr/lib/gcc/avr/7.3.0/../../../avr/lib/avr5/crtatmega328p.o
+__vector_2                                        /usr/lib/gcc/avr/7.3.0/../../../avr/lib/avr5/crtatmega328p.o
+__vector_20                                       /usr/lib/gcc/avr/7.3.0/../../../avr/lib/avr5/crtatmega328p.o
+__vector_21                                       /usr/lib/gcc/avr/7.3.0/../../../avr/lib/avr5/crtatmega328p.o
+__vector_22                                       /usr/lib/gcc/avr/7.3.0/../../../avr/lib/avr5/crtatmega328p.o
+__vector_23                                       /usr/lib/gcc/avr/7.3.0/../../../avr/lib/avr5/crtatmega328p.o
+__vector_24                                       /usr/lib/gcc/avr/7.3.0/../../../avr/lib/avr5/crtatmega328p.o
+__vector_25                                       /usr/lib/gcc/avr/7.3.0/../../../avr/lib/avr5/crtatmega328p.o
+__vector_3                                        /usr/lib/gcc/avr/7.3.0/../../../avr/lib/avr5/crtatmega328p.o
+__vector_4                                        /usr/lib/gcc/avr/7.3.0/../../../avr/lib/avr5/crtatmega328p.o
+__vector_5                                        /usr/lib/gcc/avr/7.3.0/../../../avr/lib/avr5/crtatmega328p.o
+__vector_6                                        /home/vboxuser/eclipse-workspace_1/eclipse-workspace/free-rtos-demo/libArduinoLibraries.a(port.o)
+                                                  /usr/lib/gcc/avr/7.3.0/../../../avr/lib/avr5/crtatmega328p.o
+__vector_7                                        /usr/lib/gcc/avr/7.3.0/../../../avr/lib/avr5/crtatmega328p.o
+__vector_8                                        /usr/lib/gcc/avr/7.3.0/../../../avr/lib/avr5/crtatmega328p.o
+__vector_9                                        /usr/lib/gcc/avr/7.3.0/../../../avr/lib/avr5/crtatmega328p.o
+__vector_default                                  /usr/lib/gcc/avr/7.3.0/../../../avr/lib/avr5/crtatmega328p.o
+__vectors                                         /usr/lib/gcc/avr/7.3.0/../../../avr/lib/avr5/crtatmega328p.o
+_exit                                             /usr/lib/gcc/avr/7.3.0/avr5/libgcc.a(_exit.o)
+atol                                              /usr/lib/gcc/avr/7.3.0/../../../avr/lib/avr5/libc.a(atol.o)
+                                                  /home/vboxuser/eclipse-workspace_1/eclipse-workspace/free-rtos-demo/libArduinoCore.a(WString.o)
+delay                                             /home/vboxuser/eclipse-workspace_1/eclipse-workspace/free-rtos-demo/libArduinoCore.a(wiring.o)
+                                                  /home/vboxuser/eclipse-workspace_1/eclipse-workspace/free-rtos-demo/libArduinoLibraries.a(port.o)
+delayMicroseconds                                 /home/vboxuser/eclipse-workspace_1/eclipse-workspace/free-rtos-demo/libArduinoCore.a(wiring.o)
+digitalRead                                       /home/vboxuser/eclipse-workspace_1/eclipse-workspace/free-rtos-demo/libArduinoCore.a(wiring_digital.o)
+                                                  ./src/test.o
+digitalWrite                                      /home/vboxuser/eclipse-workspace_1/eclipse-workspace/free-rtos-demo/libArduinoCore.a(wiring_digital.o)
+digital_pin_to_bit_mask_PGM                       /home/vboxuser/eclipse-workspace_1/eclipse-workspace/free-rtos-demo/libArduinoCore.a(pins_arduino.o)
+                                                  /home/vboxuser/eclipse-workspace_1/eclipse-workspace/free-rtos-demo/libArduinoCore.a(wiring_digital.o)
+digital_pin_to_port_PGM                           /home/vboxuser/eclipse-workspace_1/eclipse-workspace/free-rtos-demo/libArduinoCore.a(pins_arduino.o)
+                                                  /home/vboxuser/eclipse-workspace_1/eclipse-workspace/free-rtos-demo/libArduinoCore.a(wiring_digital.o)
+digital_pin_to_timer_PGM                          /home/vboxuser/eclipse-workspace_1/eclipse-workspace/free-rtos-demo/libArduinoCore.a(pins_arduino.o)
+                                                  /home/vboxuser/eclipse-workspace_1/eclipse-workspace/free-rtos-demo/libArduinoCore.a(wiring_digital.o)
+exit                                              /usr/lib/gcc/avr/7.3.0/avr5/libgcc.a(_exit.o)
+                                                  /usr/lib/gcc/avr/7.3.0/../../../avr/lib/avr5/crtatmega328p.o
+free                                              /usr/lib/gcc/avr/7.3.0/../../../avr/lib/avr5/libc.a(malloc.o)
+                                                  /usr/lib/gcc/avr/7.3.0/../../../avr/lib/avr5/libc.a(realloc.o)
+                                                  /home/vboxuser/eclipse-workspace_1/eclipse-workspace/free-rtos-demo/libArduinoCore.a(WString.o)
+                                                  /home/vboxuser/eclipse-workspace_1/eclipse-workspace/free-rtos-demo/libArduinoLibraries.a(heap_3.o)
+init                                              /home/vboxuser/eclipse-workspace_1/eclipse-workspace/free-rtos-demo/libArduinoCore.a(wiring.o)
+initVariant                                       /home/vboxuser/eclipse-workspace_1/eclipse-workspace/free-rtos-demo/libArduinoLibraries.a(variantHooks.o)
+isspace                                           /usr/lib/gcc/avr/7.3.0/../../../avr/lib/avr5/libc.a(isspace.o)
+                                                  /home/vboxuser/eclipse-workspace_1/eclipse-workspace/free-rtos-demo/libArduinoCore.a(WString.o)
+itoa                                              /usr/lib/gcc/avr/7.3.0/../../../avr/lib/avr5/libc.a(itoa.o)
+loop                                              ./src/test.o
+                                                  /home/vboxuser/eclipse-workspace_1/eclipse-workspace/free-rtos-demo/libArduinoLibraries.a(variantHooks.o)
+ltoa                                              /usr/lib/gcc/avr/7.3.0/../../../avr/lib/avr5/libc.a(ltoa.o)
+main                                              ./src/test.o
+                                                  /usr/lib/gcc/avr/7.3.0/../../../avr/lib/avr5/crtatmega328p.o
+malloc                                            /usr/lib/gcc/avr/7.3.0/../../../avr/lib/avr5/libc.a(malloc.o)
+                                                  /usr/lib/gcc/avr/7.3.0/../../../avr/lib/avr5/libc.a(realloc.o)
+                                                  /home/vboxuser/eclipse-workspace_1/eclipse-workspace/free-rtos-demo/libArduinoCore.a(WString.o)
+                                                  /home/vboxuser/eclipse-workspace_1/eclipse-workspace/free-rtos-demo/libArduinoLibraries.a(heap_3.o)
+memcpy                                            /usr/lib/gcc/avr/7.3.0/../../../avr/lib/avr5/libc.a(memcpy.o)
+                                                  /usr/lib/gcc/avr/7.3.0/../../../avr/lib/avr5/libc.a(realloc.o)
+                                                  /home/vboxuser/eclipse-workspace_1/eclipse-workspace/free-rtos-demo/libArduinoLibraries.a(queue.o)
+memset                                            /usr/lib/gcc/avr/7.3.0/../../../avr/lib/avr5/libc.a(memset.o)
+                                                  /home/vboxuser/eclipse-workspace_1/eclipse-workspace/free-rtos-demo/libArduinoLibraries.a(tasks.o)
+micros                                            /home/vboxuser/eclipse-workspace_1/eclipse-workspace/free-rtos-demo/libArduinoCore.a(wiring.o)
+millis                                            /home/vboxuser/eclipse-workspace_1/eclipse-workspace/free-rtos-demo/libArduinoCore.a(wiring.o)
+pcTaskGetName                                     /home/vboxuser/eclipse-workspace_1/eclipse-workspace/free-rtos-demo/libArduinoLibraries.a(tasks.o)
+pcTimerGetName                                    /home/vboxuser/eclipse-workspace_1/eclipse-workspace/free-rtos-demo/libArduinoLibraries.a(timers.o)
+pinMode                                           /home/vboxuser/eclipse-workspace_1/eclipse-workspace/free-rtos-demo/libArduinoCore.a(wiring_digital.o)
+                                                  ./src/test.o
+portTickRateHz                                    /home/vboxuser/eclipse-workspace_1/eclipse-workspace/free-rtos-demo/libArduinoLibraries.a(port.o)
+port_to_input_PGM                                 /home/vboxuser/eclipse-workspace_1/eclipse-workspace/free-rtos-demo/libArduinoCore.a(pins_arduino.o)
+                                                  /home/vboxuser/eclipse-workspace_1/eclipse-workspace/free-rtos-demo/libArduinoCore.a(wiring_digital.o)
+port_to_mode_PGM                                  /home/vboxuser/eclipse-workspace_1/eclipse-workspace/free-rtos-demo/libArduinoCore.a(pins_arduino.o)
+                                                  /home/vboxuser/eclipse-workspace_1/eclipse-workspace/free-rtos-demo/libArduinoCore.a(wiring_digital.o)
+port_to_output_PGM                                /home/vboxuser/eclipse-workspace_1/eclipse-workspace/free-rtos-demo/libArduinoCore.a(pins_arduino.o)
+                                                  /home/vboxuser/eclipse-workspace_1/eclipse-workspace/free-rtos-demo/libArduinoCore.a(wiring_digital.o)
+prvSetupTimerInterrupt                            /home/vboxuser/eclipse-workspace_1/eclipse-workspace/free-rtos-demo/libArduinoLibraries.a(port.o)
+pvPortMalloc                                      /home/vboxuser/eclipse-workspace_1/eclipse-workspace/free-rtos-demo/libArduinoLibraries.a(heap_3.o)
+                                                  /home/vboxuser/eclipse-workspace_1/eclipse-workspace/free-rtos-demo/libArduinoLibraries.a(queue.o)
+                                                  /home/vboxuser/eclipse-workspace_1/eclipse-workspace/free-rtos-demo/libArduinoLibraries.a(timers.o)
+                                                  /home/vboxuser/eclipse-workspace_1/eclipse-workspace/free-rtos-demo/libArduinoLibraries.a(tasks.o)
+pvTaskIncrementMutexHeldCount                     /home/vboxuser/eclipse-workspace_1/eclipse-workspace/free-rtos-demo/libArduinoLibraries.a(tasks.o)
+                                                  /home/vboxuser/eclipse-workspace_1/eclipse-workspace/free-rtos-demo/libArduinoLibraries.a(queue.o)
+pvTimerGetTimerID                                 /home/vboxuser/eclipse-workspace_1/eclipse-workspace/free-rtos-demo/libArduinoLibraries.a(timers.o)
+                                                  ./src/test.o
+pxCurrentTCB                                      /home/vboxuser/eclipse-workspace_1/eclipse-workspace/free-rtos-demo/libArduinoLibraries.a(tasks.o)
+                                                  /home/vboxuser/eclipse-workspace_1/eclipse-workspace/free-rtos-demo/libArduinoLibraries.a(port.o)
+pxPortInitialiseStack                             /home/vboxuser/eclipse-workspace_1/eclipse-workspace/free-rtos-demo/libArduinoLibraries.a(port.o)
+                                                  /home/vboxuser/eclipse-workspace_1/eclipse-workspace/free-rtos-demo/libArduinoLibraries.a(tasks.o)
+realloc                                           /usr/lib/gcc/avr/7.3.0/../../../avr/lib/avr5/libc.a(realloc.o)
+                                                  /home/vboxuser/eclipse-workspace_1/eclipse-workspace/free-rtos-demo/libArduinoCore.a(WString.o)
+rx_buffer                                         /home/vboxuser/eclipse-workspace_1/eclipse-workspace/free-rtos-demo/libArduinoCore.a(HardwareSerial.o)
+setup                                             ./src/test.o
+                                                  /home/vboxuser/eclipse-workspace_1/eclipse-workspace/free-rtos-demo/libArduinoLibraries.a(variantHooks.o)
+strcat                                            /usr/lib/gcc/avr/7.3.0/../../../avr/lib/avr5/libc.a(strcat.o)
+                                                  /home/vboxuser/eclipse-workspace_1/eclipse-workspace/free-rtos-demo/libArduinoCore.a(WString.o)
+strchr                                            /usr/lib/gcc/avr/7.3.0/../../../avr/lib/avr5/libc.a(strchr.o)
+                                                  /home/vboxuser/eclipse-workspace_1/eclipse-workspace/free-rtos-demo/libArduinoCore.a(WString.o)
+strcmp                                            /usr/lib/gcc/avr/7.3.0/../../../avr/lib/avr5/libc.a(strcmp.o)
+                                                  /home/vboxuser/eclipse-workspace_1/eclipse-workspace/free-rtos-demo/libArduinoCore.a(WString.o)
+strcpy                                            /usr/lib/gcc/avr/7.3.0/../../../avr/lib/avr5/libc.a(strcpy.o)
+                                                  /home/vboxuser/eclipse-workspace_1/eclipse-workspace/free-rtos-demo/libArduinoCore.a(WString.o)
+strncmp                                           /usr/lib/gcc/avr/7.3.0/../../../avr/lib/avr5/libc.a(strncmp.o)
+                                                  /home/vboxuser/eclipse-workspace_1/eclipse-workspace/free-rtos-demo/libArduinoCore.a(WString.o)
+strncpy                                           /usr/lib/gcc/avr/7.3.0/../../../avr/lib/avr5/libc.a(strncpy.o)
+                                                  /home/vboxuser/eclipse-workspace_1/eclipse-workspace/free-rtos-demo/libArduinoCore.a(WString.o)
+strrchr                                           /usr/lib/gcc/avr/7.3.0/../../../avr/lib/avr5/libc.a(strrchr.o)
+                                                  /home/vboxuser/eclipse-workspace_1/eclipse-workspace/free-rtos-demo/libArduinoCore.a(WString.o)
+strrev                                            /usr/lib/gcc/avr/7.3.0/../../../avr/lib/avr5/libc.a(strrev.o)
+                                                  /usr/lib/gcc/avr/7.3.0/../../../avr/lib/avr5/libc.a(utoa_ncheck.o)
+                                                  /usr/lib/gcc/avr/7.3.0/../../../avr/lib/avr5/libc.a(ultoa_ncheck.o)
+strstr                                            /usr/lib/gcc/avr/7.3.0/../../../avr/lib/avr5/libc.a(strstr.o)
+                                                  /home/vboxuser/eclipse-workspace_1/eclipse-workspace/free-rtos-demo/libArduinoCore.a(WString.o)
+ticksRemainingInSec                               /home/vboxuser/eclipse-workspace_1/eclipse-workspace/free-rtos-demo/libArduinoLibraries.a(port.o)
+timer0_millis                                     /home/vboxuser/eclipse-workspace_1/eclipse-workspace/free-rtos-demo/libArduinoCore.a(wiring.o)
+timer0_overflow_count                             /home/vboxuser/eclipse-workspace_1/eclipse-workspace/free-rtos-demo/libArduinoCore.a(wiring.o)
+tolower                                           /usr/lib/gcc/avr/7.3.0/../../../avr/lib/avr5/libc.a(tolower.o)
+                                                  /home/vboxuser/eclipse-workspace_1/eclipse-workspace/free-rtos-demo/libArduinoCore.a(WString.o)
+toupper                                           /usr/lib/gcc/avr/7.3.0/../../../avr/lib/avr5/libc.a(toupper.o)
+                                                  /home/vboxuser/eclipse-workspace_1/eclipse-workspace/free-rtos-demo/libArduinoCore.a(WString.o)
+ulTaskGenericNotifyTake                           /home/vboxuser/eclipse-workspace_1/eclipse-workspace/free-rtos-demo/libArduinoLibraries.a(tasks.o)
+ulTaskGenericNotifyValueClear                     /home/vboxuser/eclipse-workspace_1/eclipse-workspace/free-rtos-demo/libArduinoLibraries.a(tasks.o)
+ultoa                                             /usr/lib/gcc/avr/7.3.0/../../../avr/lib/avr5/libc.a(ultoa.o)
+uxListRemove                                      /home/vboxuser/eclipse-workspace_1/eclipse-workspace/free-rtos-demo/libArduinoLibraries.a(list.o)
+                                                  /home/vboxuser/eclipse-workspace_1/eclipse-workspace/free-rtos-demo/libArduinoLibraries.a(timers.o)
+                                                  /home/vboxuser/eclipse-workspace_1/eclipse-workspace/free-rtos-demo/libArduinoLibraries.a(tasks.o)
+uxQueueGetQueueItemSize                           /home/vboxuser/eclipse-workspace_1/eclipse-workspace/free-rtos-demo/libArduinoLibraries.a(queue.o)
+uxQueueGetQueueLength                             /home/vboxuser/eclipse-workspace_1/eclipse-workspace/free-rtos-demo/libArduinoLibraries.a(queue.o)
+uxQueueMessagesWaiting                            /home/vboxuser/eclipse-workspace_1/eclipse-workspace/free-rtos-demo/libArduinoLibraries.a(queue.o)
+uxQueueMessagesWaitingFromISR                     /home/vboxuser/eclipse-workspace_1/eclipse-workspace/free-rtos-demo/libArduinoLibraries.a(queue.o)
+uxQueueSpacesAvailable                            /home/vboxuser/eclipse-workspace_1/eclipse-workspace/free-rtos-demo/libArduinoLibraries.a(queue.o)
+uxTaskBasePriorityGet                             /home/vboxuser/eclipse-workspace_1/eclipse-workspace/free-rtos-demo/libArduinoLibraries.a(tasks.o)
+uxTaskBasePriorityGetFromISR                      /home/vboxuser/eclipse-workspace_1/eclipse-workspace/free-rtos-demo/libArduinoLibraries.a(tasks.o)
+uxTaskGetNumberOfTasks                            /home/vboxuser/eclipse-workspace_1/eclipse-workspace/free-rtos-demo/libArduinoLibraries.a(tasks.o)
+                                                  /home/vboxuser/eclipse-workspace_1/eclipse-workspace/free-rtos-demo/libArduinoLibraries.a(queue.o)
+uxTaskGetStackHighWaterMark                       /home/vboxuser/eclipse-workspace_1/eclipse-workspace/free-rtos-demo/libArduinoLibraries.a(tasks.o)
+uxTaskPriorityGet                                 /home/vboxuser/eclipse-workspace_1/eclipse-workspace/free-rtos-demo/libArduinoLibraries.a(tasks.o)
+uxTaskPriorityGetFromISR                          /home/vboxuser/eclipse-workspace_1/eclipse-workspace/free-rtos-demo/libArduinoLibraries.a(tasks.o)
+uxTaskResetEventItemValue                         /home/vboxuser/eclipse-workspace_1/eclipse-workspace/free-rtos-demo/libArduinoLibraries.a(tasks.o)
+uxTimerGetReloadMode                              /home/vboxuser/eclipse-workspace_1/eclipse-workspace/free-rtos-demo/libArduinoLibraries.a(timers.o)
+vApplicationIdleHook                              /home/vboxuser/eclipse-workspace_1/eclipse-workspace/free-rtos-demo/libArduinoLibraries.a(variantHooks.o)
+                                                  /home/vboxuser/eclipse-workspace_1/eclipse-workspace/free-rtos-demo/libArduinoLibraries.a(tasks.o)
+vApplicationMallocFailedHook                      /home/vboxuser/eclipse-workspace_1/eclipse-workspace/free-rtos-demo/libArduinoLibraries.a(variantHooks.o)
+                                                  /home/vboxuser/eclipse-workspace_1/eclipse-workspace/free-rtos-demo/libArduinoLibraries.a(heap_3.o)
+vApplicationStackOverflowHook                     /home/vboxuser/eclipse-workspace_1/eclipse-workspace/free-rtos-demo/libArduinoLibraries.a(variantHooks.o)
+                                                  /home/vboxuser/eclipse-workspace_1/eclipse-workspace/free-rtos-demo/libArduinoLibraries.a(tasks.o)
+vListInitialise                                   /home/vboxuser/eclipse-workspace_1/eclipse-workspace/free-rtos-demo/libArduinoLibraries.a(list.o)
+                                                  /home/vboxuser/eclipse-workspace_1/eclipse-workspace/free-rtos-demo/libArduinoLibraries.a(queue.o)
+                                                  /home/vboxuser/eclipse-workspace_1/eclipse-workspace/free-rtos-demo/libArduinoLibraries.a(timers.o)
+                                                  /home/vboxuser/eclipse-workspace_1/eclipse-workspace/free-rtos-demo/libArduinoLibraries.a(tasks.o)
+vListInitialiseItem                               /home/vboxuser/eclipse-workspace_1/eclipse-workspace/free-rtos-demo/libArduinoLibraries.a(list.o)
+                                                  /home/vboxuser/eclipse-workspace_1/eclipse-workspace/free-rtos-demo/libArduinoLibraries.a(timers.o)
+                                                  /home/vboxuser/eclipse-workspace_1/eclipse-workspace/free-rtos-demo/libArduinoLibraries.a(tasks.o)
+vListInsert                                       /home/vboxuser/eclipse-workspace_1/eclipse-workspace/free-rtos-demo/libArduinoLibraries.a(list.o)
+                                                  /home/vboxuser/eclipse-workspace_1/eclipse-workspace/free-rtos-demo/libArduinoLibraries.a(timers.o)
+                                                  /home/vboxuser/eclipse-workspace_1/eclipse-workspace/free-rtos-demo/libArduinoLibraries.a(tasks.o)
+vListInsertEnd                                    /home/vboxuser/eclipse-workspace_1/eclipse-workspace/free-rtos-demo/libArduinoLibraries.a(list.o)
+                                                  /home/vboxuser/eclipse-workspace_1/eclipse-workspace/free-rtos-demo/libArduinoLibraries.a(tasks.o)
+vPortDelay                                        /home/vboxuser/eclipse-workspace_1/eclipse-workspace/free-rtos-demo/libArduinoLibraries.a(port.o)
+vPortEndScheduler                                 /home/vboxuser/eclipse-workspace_1/eclipse-workspace/free-rtos-demo/libArduinoLibraries.a(port.o)
+                                                  /home/vboxuser/eclipse-workspace_1/eclipse-workspace/free-rtos-demo/libArduinoLibraries.a(tasks.o)
+vPortFree                                         /home/vboxuser/eclipse-workspace_1/eclipse-workspace/free-rtos-demo/libArduinoLibraries.a(heap_3.o)
+                                                  /home/vboxuser/eclipse-workspace_1/eclipse-workspace/free-rtos-demo/libArduinoLibraries.a(queue.o)
+                                                  /home/vboxuser/eclipse-workspace_1/eclipse-workspace/free-rtos-demo/libArduinoLibraries.a(timers.o)
+                                                  /home/vboxuser/eclipse-workspace_1/eclipse-workspace/free-rtos-demo/libArduinoLibraries.a(tasks.o)
+vPortHeapResetState                               /home/vboxuser/eclipse-workspace_1/eclipse-workspace/free-rtos-demo/libArduinoLibraries.a(heap_3.o)
+vPortYield                                        /home/vboxuser/eclipse-workspace_1/eclipse-workspace/free-rtos-demo/libArduinoLibraries.a(port.o)
+                                                  /home/vboxuser/eclipse-workspace_1/eclipse-workspace/free-rtos-demo/libArduinoLibraries.a(queue.o)
+                                                  /home/vboxuser/eclipse-workspace_1/eclipse-workspace/free-rtos-demo/libArduinoLibraries.a(timers.o)
+                                                  /home/vboxuser/eclipse-workspace_1/eclipse-workspace/free-rtos-demo/libArduinoLibraries.a(tasks.o)
+vPortYieldFromISR                                 /home/vboxuser/eclipse-workspace_1/eclipse-workspace/free-rtos-demo/libArduinoLibraries.a(port.o)
+vPortYieldFromTick                                /home/vboxuser/eclipse-workspace_1/eclipse-workspace/free-rtos-demo/libArduinoLibraries.a(port.o)
+vQueueDelete                                      /home/vboxuser/eclipse-workspace_1/eclipse-workspace/free-rtos-demo/libArduinoLibraries.a(queue.o)
+vQueueWaitForMessageRestricted                    /home/vboxuser/eclipse-workspace_1/eclipse-workspace/free-rtos-demo/libArduinoLibraries.a(queue.o)
+                                                  /home/vboxuser/eclipse-workspace_1/eclipse-workspace/free-rtos-demo/libArduinoLibraries.a(timers.o)
+vTaskDelay                                        /home/vboxuser/eclipse-workspace_1/eclipse-workspace/free-rtos-demo/libArduinoLibraries.a(tasks.o)
+                                                  /home/vboxuser/eclipse-workspace_1/eclipse-workspace/free-rtos-demo/libArduinoLibraries.a(port.o)
+vTaskDelete                                       /home/vboxuser/eclipse-workspace_1/eclipse-workspace/free-rtos-demo/libArduinoLibraries.a(tasks.o)
+vTaskEndScheduler                                 /home/vboxuser/eclipse-workspace_1/eclipse-workspace/free-rtos-demo/libArduinoLibraries.a(tasks.o)
+vTaskGenericNotifyGiveFromISR                     /home/vboxuser/eclipse-workspace_1/eclipse-workspace/free-rtos-demo/libArduinoLibraries.a(tasks.o)
+vTaskInternalSetTimeOutState                      /home/vboxuser/eclipse-workspace_1/eclipse-workspace/free-rtos-demo/libArduinoLibraries.a(tasks.o)
+                                                  /home/vboxuser/eclipse-workspace_1/eclipse-workspace/free-rtos-demo/libArduinoLibraries.a(queue.o)
+vTaskMissedYield                                  /home/vboxuser/eclipse-workspace_1/eclipse-workspace/free-rtos-demo/libArduinoLibraries.a(tasks.o)
+                                                  /home/vboxuser/eclipse-workspace_1/eclipse-workspace/free-rtos-demo/libArduinoLibraries.a(queue.o)
+vTaskPlaceOnEventList                             /home/vboxuser/eclipse-workspace_1/eclipse-workspace/free-rtos-demo/libArduinoLibraries.a(tasks.o)
+                                                  /home/vboxuser/eclipse-workspace_1/eclipse-workspace/free-rtos-demo/libArduinoLibraries.a(queue.o)
+vTaskPlaceOnEventListRestricted                   /home/vboxuser/eclipse-workspace_1/eclipse-workspace/free-rtos-demo/libArduinoLibraries.a(tasks.o)
+                                                  /home/vboxuser/eclipse-workspace_1/eclipse-workspace/free-rtos-demo/libArduinoLibraries.a(queue.o)
+vTaskPlaceOnUnorderedEventList                    /home/vboxuser/eclipse-workspace_1/eclipse-workspace/free-rtos-demo/libArduinoLibraries.a(tasks.o)
+vTaskPriorityDisinheritAfterTimeout               /home/vboxuser/eclipse-workspace_1/eclipse-workspace/free-rtos-demo/libArduinoLibraries.a(tasks.o)
+                                                  /home/vboxuser/eclipse-workspace_1/eclipse-workspace/free-rtos-demo/libArduinoLibraries.a(queue.o)
+vTaskPrioritySet                                  /home/vboxuser/eclipse-workspace_1/eclipse-workspace/free-rtos-demo/libArduinoLibraries.a(tasks.o)
+vTaskRemoveFromUnorderedEventList                 /home/vboxuser/eclipse-workspace_1/eclipse-workspace/free-rtos-demo/libArduinoLibraries.a(tasks.o)
+vTaskResetState                                   /home/vboxuser/eclipse-workspace_1/eclipse-workspace/free-rtos-demo/libArduinoLibraries.a(tasks.o)
+vTaskResume                                       /home/vboxuser/eclipse-workspace_1/eclipse-workspace/free-rtos-demo/libArduinoLibraries.a(tasks.o)
+vTaskSetTimeOutState                              /home/vboxuser/eclipse-workspace_1/eclipse-workspace/free-rtos-demo/libArduinoLibraries.a(tasks.o)
+vTaskStartScheduler                               /home/vboxuser/eclipse-workspace_1/eclipse-workspace/free-rtos-demo/libArduinoLibraries.a(tasks.o)
+                                                  /home/vboxuser/eclipse-workspace_1/eclipse-workspace/free-rtos-demo/libArduinoLibraries.a(variantHooks.o)
+                                                  ./src/test.o
+vTaskSuspend                                      /home/vboxuser/eclipse-workspace_1/eclipse-workspace/free-rtos-demo/libArduinoLibraries.a(tasks.o)
+vTaskSuspendAll                                   /home/vboxuser/eclipse-workspace_1/eclipse-workspace/free-rtos-demo/libArduinoLibraries.a(tasks.o)
+                                                  /home/vboxuser/eclipse-workspace_1/eclipse-workspace/free-rtos-demo/libArduinoLibraries.a(queue.o)
+                                                  /home/vboxuser/eclipse-workspace_1/eclipse-workspace/free-rtos-demo/libArduinoLibraries.a(heap_3.o)
+                                                  /home/vboxuser/eclipse-workspace_1/eclipse-workspace/free-rtos-demo/libArduinoLibraries.a(timers.o)
+vTaskSwitchContext                                /home/vboxuser/eclipse-workspace_1/eclipse-workspace/free-rtos-demo/libArduinoLibraries.a(tasks.o)
+                                                  /home/vboxuser/eclipse-workspace_1/eclipse-workspace/free-rtos-demo/libArduinoLibraries.a(port.o)
+vTimerResetState                                  /home/vboxuser/eclipse-workspace_1/eclipse-workspace/free-rtos-demo/libArduinoLibraries.a(timers.o)
+vTimerSetReloadMode                               /home/vboxuser/eclipse-workspace_1/eclipse-workspace/free-rtos-demo/libArduinoLibraries.a(timers.o)
+vTimerSetTimerID                                  /home/vboxuser/eclipse-workspace_1/eclipse-workspace/free-rtos-demo/libArduinoLibraries.a(timers.o)
+                                                  ./src/test.o
+xAutoReloadTimer                                  ./src/test.o
+xPortStartScheduler                               /home/vboxuser/eclipse-workspace_1/eclipse-workspace/free-rtos-demo/libArduinoLibraries.a(port.o)
+                                                  /home/vboxuser/eclipse-workspace_1/eclipse-workspace/free-rtos-demo/libArduinoLibraries.a(tasks.o)
+xQueueCreateCountingSemaphore                     /home/vboxuser/eclipse-workspace_1/eclipse-workspace/free-rtos-demo/libArduinoLibraries.a(queue.o)
+xQueueCreateMutex                                 /home/vboxuser/eclipse-workspace_1/eclipse-workspace/free-rtos-demo/libArduinoLibraries.a(queue.o)
+xQueueGenericCreate                               /home/vboxuser/eclipse-workspace_1/eclipse-workspace/free-rtos-demo/libArduinoLibraries.a(queue.o)
+                                                  /home/vboxuser/eclipse-workspace_1/eclipse-workspace/free-rtos-demo/libArduinoLibraries.a(timers.o)
+xQueueGenericReset                                /home/vboxuser/eclipse-workspace_1/eclipse-workspace/free-rtos-demo/libArduinoLibraries.a(queue.o)
+xQueueGenericSend                                 /home/vboxuser/eclipse-workspace_1/eclipse-workspace/free-rtos-demo/libArduinoLibraries.a(queue.o)
+                                                  /home/vboxuser/eclipse-workspace_1/eclipse-workspace/free-rtos-demo/libArduinoLibraries.a(timers.o)
+xQueueGenericSendFromISR                          /home/vboxuser/eclipse-workspace_1/eclipse-workspace/free-rtos-demo/libArduinoLibraries.a(queue.o)
+                                                  /home/vboxuser/eclipse-workspace_1/eclipse-workspace/free-rtos-demo/libArduinoLibraries.a(timers.o)
+xQueueGiveFromISR                                 /home/vboxuser/eclipse-workspace_1/eclipse-workspace/free-rtos-demo/libArduinoLibraries.a(queue.o)
+xQueueGiveMutexRecursive                          /home/vboxuser/eclipse-workspace_1/eclipse-workspace/free-rtos-demo/libArduinoLibraries.a(queue.o)
+xQueueIsQueueEmptyFromISR                         /home/vboxuser/eclipse-workspace_1/eclipse-workspace/free-rtos-demo/libArduinoLibraries.a(queue.o)
+xQueueIsQueueFullFromISR                          /home/vboxuser/eclipse-workspace_1/eclipse-workspace/free-rtos-demo/libArduinoLibraries.a(queue.o)
+xQueuePeek                                        /home/vboxuser/eclipse-workspace_1/eclipse-workspace/free-rtos-demo/libArduinoLibraries.a(queue.o)
+xQueuePeekFromISR                                 /home/vboxuser/eclipse-workspace_1/eclipse-workspace/free-rtos-demo/libArduinoLibraries.a(queue.o)
+xQueueReceive                                     /home/vboxuser/eclipse-workspace_1/eclipse-workspace/free-rtos-demo/libArduinoLibraries.a(queue.o)
+                                                  /home/vboxuser/eclipse-workspace_1/eclipse-workspace/free-rtos-demo/libArduinoLibraries.a(timers.o)
+xQueueReceiveFromISR                              /home/vboxuser/eclipse-workspace_1/eclipse-workspace/free-rtos-demo/libArduinoLibraries.a(queue.o)
+xQueueSemaphoreTake                               /home/vboxuser/eclipse-workspace_1/eclipse-workspace/free-rtos-demo/libArduinoLibraries.a(queue.o)
+xQueueTakeMutexRecursive                          /home/vboxuser/eclipse-workspace_1/eclipse-workspace/free-rtos-demo/libArduinoLibraries.a(queue.o)
+xTaskCatchUpTicks                                 /home/vboxuser/eclipse-workspace_1/eclipse-workspace/free-rtos-demo/libArduinoLibraries.a(tasks.o)
+xTaskCheckForTimeOut                              /home/vboxuser/eclipse-workspace_1/eclipse-workspace/free-rtos-demo/libArduinoLibraries.a(tasks.o)
+                                                  /home/vboxuser/eclipse-workspace_1/eclipse-workspace/free-rtos-demo/libArduinoLibraries.a(queue.o)
+xTaskCreate                                       /home/vboxuser/eclipse-workspace_1/eclipse-workspace/free-rtos-demo/libArduinoLibraries.a(tasks.o)
+                                                  /home/vboxuser/eclipse-workspace_1/eclipse-workspace/free-rtos-demo/libArduinoLibraries.a(timers.o)
+xTaskDelayUntil                                   /home/vboxuser/eclipse-workspace_1/eclipse-workspace/free-rtos-demo/libArduinoLibraries.a(tasks.o)
+xTaskGenericNotify                                /home/vboxuser/eclipse-workspace_1/eclipse-workspace/free-rtos-demo/libArduinoLibraries.a(tasks.o)
+xTaskGenericNotifyFromISR                         /home/vboxuser/eclipse-workspace_1/eclipse-workspace/free-rtos-demo/libArduinoLibraries.a(tasks.o)
+xTaskGenericNotifyStateClear                      /home/vboxuser/eclipse-workspace_1/eclipse-workspace/free-rtos-demo/libArduinoLibraries.a(tasks.o)
+xTaskGenericNotifyWait                            /home/vboxuser/eclipse-workspace_1/eclipse-workspace/free-rtos-demo/libArduinoLibraries.a(tasks.o)
+xTaskGetCurrentTaskHandle                         /home/vboxuser/eclipse-workspace_1/eclipse-workspace/free-rtos-demo/libArduinoLibraries.a(tasks.o)
+                                                  /home/vboxuser/eclipse-workspace_1/eclipse-workspace/free-rtos-demo/libArduinoLibraries.a(queue.o)
+xTaskGetCurrentTaskHandleForCore                  /home/vboxuser/eclipse-workspace_1/eclipse-workspace/free-rtos-demo/libArduinoLibraries.a(tasks.o)
+xTaskGetSchedulerState                            /home/vboxuser/eclipse-workspace_1/eclipse-workspace/free-rtos-demo/libArduinoLibraries.a(tasks.o)
+                                                  /home/vboxuser/eclipse-workspace_1/eclipse-workspace/free-rtos-demo/libArduinoLibraries.a(timers.o)
+xTaskGetTickCount                                 /home/vboxuser/eclipse-workspace_1/eclipse-workspace/free-rtos-demo/libArduinoLibraries.a(tasks.o)
+                                                  /home/vboxuser/eclipse-workspace_1/eclipse-workspace/free-rtos-demo/libArduinoLibraries.a(timers.o)
+                                                  ./src/test.o
+xTaskGetTickCountFromISR                          /home/vboxuser/eclipse-workspace_1/eclipse-workspace/free-rtos-demo/libArduinoLibraries.a(tasks.o)
+xTaskIncrementTick                                /home/vboxuser/eclipse-workspace_1/eclipse-workspace/free-rtos-demo/libArduinoLibraries.a(tasks.o)
+                                                  /home/vboxuser/eclipse-workspace_1/eclipse-workspace/free-rtos-demo/libArduinoLibraries.a(port.o)
+xTaskPriorityDisinherit                           /home/vboxuser/eclipse-workspace_1/eclipse-workspace/free-rtos-demo/libArduinoLibraries.a(tasks.o)
+                                                  /home/vboxuser/eclipse-workspace_1/eclipse-workspace/free-rtos-demo/libArduinoLibraries.a(queue.o)
+xTaskPriorityInherit                              /home/vboxuser/eclipse-workspace_1/eclipse-workspace/free-rtos-demo/libArduinoLibraries.a(tasks.o)
+                                                  /home/vboxuser/eclipse-workspace_1/eclipse-workspace/free-rtos-demo/libArduinoLibraries.a(queue.o)
+xTaskRemoveFromEventList                          /home/vboxuser/eclipse-workspace_1/eclipse-workspace/free-rtos-demo/libArduinoLibraries.a(tasks.o)
+                                                  /home/vboxuser/eclipse-workspace_1/eclipse-workspace/free-rtos-demo/libArduinoLibraries.a(queue.o)
+xTaskResumeAll                                    /home/vboxuser/eclipse-workspace_1/eclipse-workspace/free-rtos-demo/libArduinoLibraries.a(tasks.o)
+                                                  /home/vboxuser/eclipse-workspace_1/eclipse-workspace/free-rtos-demo/libArduinoLibraries.a(queue.o)
+                                                  /home/vboxuser/eclipse-workspace_1/eclipse-workspace/free-rtos-demo/libArduinoLibraries.a(heap_3.o)
+                                                  /home/vboxuser/eclipse-workspace_1/eclipse-workspace/free-rtos-demo/libArduinoLibraries.a(timers.o)
+xTaskResumeFromISR                                /home/vboxuser/eclipse-workspace_1/eclipse-workspace/free-rtos-demo/libArduinoLibraries.a(tasks.o)
+xTimer2Started                                    ./src/test.o
+xTimerCreate                                      /home/vboxuser/eclipse-workspace_1/eclipse-workspace/free-rtos-demo/libArduinoLibraries.a(timers.o)
+                                                  ./src/test.o
+xTimerCreateTimerTask                             /home/vboxuser/eclipse-workspace_1/eclipse-workspace/free-rtos-demo/libArduinoLibraries.a(timers.o)
+                                                  /home/vboxuser/eclipse-workspace_1/eclipse-workspace/free-rtos-demo/libArduinoLibraries.a(tasks.o)
+xTimerGenericCommandFromISR                       /home/vboxuser/eclipse-workspace_1/eclipse-workspace/free-rtos-demo/libArduinoLibraries.a(timers.o)
+xTimerGenericCommandFromTask                      /home/vboxuser/eclipse-workspace_1/eclipse-workspace/free-rtos-demo/libArduinoLibraries.a(timers.o)
+                                                  ./src/test.o
+xTimerGetExpiryTime                               /home/vboxuser/eclipse-workspace_1/eclipse-workspace/free-rtos-demo/libArduinoLibraries.a(timers.o)
+xTimerGetPeriod                                   /home/vboxuser/eclipse-workspace_1/eclipse-workspace/free-rtos-demo/libArduinoLibraries.a(timers.o)
+xTimerGetReloadMode                               /home/vboxuser/eclipse-workspace_1/eclipse-workspace/free-rtos-demo/libArduinoLibraries.a(timers.o)
+xTimerGetTimerDaemonTaskHandle                    /home/vboxuser/eclipse-workspace_1/eclipse-workspace/free-rtos-demo/libArduinoLibraries.a(timers.o)
+                                                  /home/vboxuser/eclipse-workspace_1/eclipse-workspace/free-rtos-demo/libArduinoLibraries.a(tasks.o)
+xTimerIsTimerActive                               /home/vboxuser/eclipse-workspace_1/eclipse-workspace/free-rtos-demo/libArduinoLibraries.a(timers.o)
