@@ -1,0 +1,1757 @@
+Archive member included to satisfy reference by file (symbol)
+
+/home/nico/eclipse-workspace/Template/libArduinoLibraries.a(NewSoftSerial.o)
+                              ./main.o (_ZN13NewSoftSerialD1Ev)
+/home/nico/eclipse-workspace/Template/libArduinoLibraries.a(EEPROM.o)
+                              ./main.o (_ZN11EEPROMClass4readEi)
+/home/nico/eclipse-workspace/Template/libArduinoCore.a(HardwareSerial.o)
+                              ./main.o (_ZN14HardwareSerial5beginEl)
+/home/nico/eclipse-workspace/Template/libArduinoCore.a(Print.o)
+                              /home/nico/eclipse-workspace/Template/libArduinoLibraries.a(NewSoftSerial.o) (_ZN5Print5writeEPKc)
+/home/nico/eclipse-workspace/Template/libArduinoCore.a(WString.o)
+                              /home/nico/eclipse-workspace/Template/libArduinoCore.a(Print.o) (_ZNK6StringixEj)
+/home/nico/eclipse-workspace/Template/libArduinoCore.a(pins_arduino.o)
+                              /home/nico/eclipse-workspace/Template/libArduinoLibraries.a(NewSoftSerial.o) (digital_pin_to_bit_mask_PGM)
+/home/nico/eclipse-workspace/Template/libArduinoCore.a(wiring.o)
+                              ./main.o (delay)
+/home/nico/eclipse-workspace/Template/libArduinoCore.a(wiring_digital.o)
+                              ./main.o (pinMode)
+/usr/lib/gcc/avr/7.3.0/avr5/libgcc.a(_divmodhi4.o)
+                              /home/nico/eclipse-workspace/Template/libArduinoLibraries.a(NewSoftSerial.o) (__divmodhi4)
+/usr/lib/gcc/avr/7.3.0/avr5/libgcc.a(_udivmodsi4.o)
+                              /home/nico/eclipse-workspace/Template/libArduinoCore.a(HardwareSerial.o) (__udivmodsi4)
+/usr/lib/gcc/avr/7.3.0/avr5/libgcc.a(_exit.o)
+                              /usr/lib/gcc/avr/7.3.0/../../../avr/lib/avr5/crtatmega328p.o (exit)
+/usr/lib/gcc/avr/7.3.0/avr5/libgcc.a(_copy_data.o)
+                              ./main.o (__do_copy_data)
+/usr/lib/gcc/avr/7.3.0/avr5/libgcc.a(_clear_bss.o)
+                              ./main.o (__do_clear_bss)
+/usr/lib/gcc/avr/7.3.0/avr5/libgcc.a(_ctors.o)
+                              ./main.o (__do_global_ctors)
+/usr/lib/gcc/avr/7.3.0/avr5/libgcc.a(_dtors.o)
+                              ./main.o (__do_global_dtors)
+/usr/lib/gcc/avr/7.3.0/avr5/libgcc.a(_udivmodhi4.o)
+                              /usr/lib/gcc/avr/7.3.0/avr5/libgcc.a(_divmodhi4.o) (__udivmodhi4)
+/usr/lib/gcc/avr/7.3.0/avr5/libgcc.a(_tablejump2.o)
+                              /usr/lib/gcc/avr/7.3.0/avr5/libgcc.a(_ctors.o) (__tablejump2__)
+/usr/lib/gcc/avr/7.3.0/../../../avr/lib/avr5/libm.a(addsf3.o)
+                              /home/nico/eclipse-workspace/Template/libArduinoCore.a(Print.o) (__subsf3)
+/usr/lib/gcc/avr/7.3.0/../../../avr/lib/avr5/libm.a(addsf3x.o)
+                              /usr/lib/gcc/avr/7.3.0/../../../avr/lib/avr5/libm.a(addsf3.o) (__addsf3x)
+/usr/lib/gcc/avr/7.3.0/../../../avr/lib/avr5/libm.a(cmpsf2.o)
+                              /home/nico/eclipse-workspace/Template/libArduinoCore.a(Print.o) (__ltsf2)
+/usr/lib/gcc/avr/7.3.0/../../../avr/lib/avr5/libm.a(divsf3.o)
+                              /home/nico/eclipse-workspace/Template/libArduinoCore.a(Print.o) (__divsf3)
+/usr/lib/gcc/avr/7.3.0/../../../avr/lib/avr5/libm.a(divsf3x.o)
+                              /usr/lib/gcc/avr/7.3.0/../../../avr/lib/avr5/libm.a(divsf3.o) (__divsf3x)
+/usr/lib/gcc/avr/7.3.0/../../../avr/lib/avr5/libm.a(fixsfsi.o)
+                              /home/nico/eclipse-workspace/Template/libArduinoCore.a(Print.o) (__fixsfsi)
+/usr/lib/gcc/avr/7.3.0/../../../avr/lib/avr5/libm.a(fixunssfsi.o)
+                              /home/nico/eclipse-workspace/Template/libArduinoCore.a(Print.o) (__fixunssfsi)
+/usr/lib/gcc/avr/7.3.0/../../../avr/lib/avr5/libm.a(floatsisf.o)
+                              /home/nico/eclipse-workspace/Template/libArduinoCore.a(Print.o) (__floatunsisf)
+/usr/lib/gcc/avr/7.3.0/../../../avr/lib/avr5/libm.a(fp_cmp.o)
+                              /usr/lib/gcc/avr/7.3.0/../../../avr/lib/avr5/libm.a(cmpsf2.o) (__fp_cmp)
+/usr/lib/gcc/avr/7.3.0/../../../avr/lib/avr5/libm.a(fp_inf.o)
+                              /usr/lib/gcc/avr/7.3.0/../../../avr/lib/avr5/libm.a(addsf3x.o) (__fp_inf)
+/usr/lib/gcc/avr/7.3.0/../../../avr/lib/avr5/libm.a(fp_nan.o)
+                              /usr/lib/gcc/avr/7.3.0/../../../avr/lib/avr5/libm.a(addsf3x.o) (__fp_nan)
+/usr/lib/gcc/avr/7.3.0/../../../avr/lib/avr5/libm.a(fp_pscA.o)
+                              /usr/lib/gcc/avr/7.3.0/../../../avr/lib/avr5/libm.a(addsf3x.o) (__fp_pscA)
+/usr/lib/gcc/avr/7.3.0/../../../avr/lib/avr5/libm.a(fp_pscB.o)
+                              /usr/lib/gcc/avr/7.3.0/../../../avr/lib/avr5/libm.a(addsf3x.o) (__fp_pscB)
+/usr/lib/gcc/avr/7.3.0/../../../avr/lib/avr5/libm.a(fp_round.o)
+                              /usr/lib/gcc/avr/7.3.0/../../../avr/lib/avr5/libm.a(addsf3.o) (__fp_round)
+/usr/lib/gcc/avr/7.3.0/../../../avr/lib/avr5/libm.a(fp_split3.o)
+                              /usr/lib/gcc/avr/7.3.0/../../../avr/lib/avr5/libm.a(addsf3x.o) (__fp_split3)
+/usr/lib/gcc/avr/7.3.0/../../../avr/lib/avr5/libm.a(fp_zero.o)
+                              /usr/lib/gcc/avr/7.3.0/../../../avr/lib/avr5/libm.a(addsf3x.o) (__fp_zero)
+/usr/lib/gcc/avr/7.3.0/../../../avr/lib/avr5/libm.a(mulsf3.o)
+                              /home/nico/eclipse-workspace/Template/libArduinoCore.a(Print.o) (__mulsf3)
+/usr/lib/gcc/avr/7.3.0/../../../avr/lib/avr5/libm.a(mulsf3x.o)
+                              /usr/lib/gcc/avr/7.3.0/../../../avr/lib/avr5/libm.a(mulsf3.o) (__mulsf3x)
+/usr/lib/gcc/avr/7.3.0/../../../avr/lib/avr5/libc.a(malloc.o)
+                              ./main.o (malloc)
+/usr/lib/gcc/avr/7.3.0/../../../avr/lib/avr5/libc.a(realloc.o)
+                              /home/nico/eclipse-workspace/Template/libArduinoCore.a(WString.o) (realloc)
+/usr/lib/gcc/avr/7.3.0/../../../avr/lib/avr5/libc.a(atol.o)
+                              /home/nico/eclipse-workspace/Template/libArduinoCore.a(WString.o) (atol)
+/usr/lib/gcc/avr/7.3.0/../../../avr/lib/avr5/libc.a(isspace.o)
+                              /home/nico/eclipse-workspace/Template/libArduinoCore.a(WString.o) (isspace)
+/usr/lib/gcc/avr/7.3.0/../../../avr/lib/avr5/libc.a(tolower.o)
+                              /home/nico/eclipse-workspace/Template/libArduinoCore.a(WString.o) (tolower)
+/usr/lib/gcc/avr/7.3.0/../../../avr/lib/avr5/libc.a(toupper.o)
+                              /home/nico/eclipse-workspace/Template/libArduinoCore.a(WString.o) (toupper)
+/usr/lib/gcc/avr/7.3.0/../../../avr/lib/avr5/libc.a(memcpy.o)
+                              /usr/lib/gcc/avr/7.3.0/../../../avr/lib/avr5/libc.a(realloc.o) (memcpy)
+/usr/lib/gcc/avr/7.3.0/../../../avr/lib/avr5/libc.a(strcat.o)
+                              /home/nico/eclipse-workspace/Template/libArduinoCore.a(WString.o) (strcat)
+/usr/lib/gcc/avr/7.3.0/../../../avr/lib/avr5/libc.a(strchr.o)
+                              /home/nico/eclipse-workspace/Template/libArduinoCore.a(WString.o) (strchr)
+/usr/lib/gcc/avr/7.3.0/../../../avr/lib/avr5/libc.a(strcmp.o)
+                              /home/nico/eclipse-workspace/Template/libArduinoCore.a(WString.o) (strcmp)
+/usr/lib/gcc/avr/7.3.0/../../../avr/lib/avr5/libc.a(strcpy.o)
+                              /home/nico/eclipse-workspace/Template/libArduinoCore.a(WString.o) (strcpy)
+/usr/lib/gcc/avr/7.3.0/../../../avr/lib/avr5/libc.a(strncmp.o)
+                              /home/nico/eclipse-workspace/Template/libArduinoCore.a(WString.o) (strncmp)
+/usr/lib/gcc/avr/7.3.0/../../../avr/lib/avr5/libc.a(strncpy.o)
+                              /home/nico/eclipse-workspace/Template/libArduinoCore.a(WString.o) (strncpy)
+/usr/lib/gcc/avr/7.3.0/../../../avr/lib/avr5/libc.a(strrchr.o)
+                              /home/nico/eclipse-workspace/Template/libArduinoCore.a(WString.o) (strrchr)
+/usr/lib/gcc/avr/7.3.0/../../../avr/lib/avr5/libc.a(strstr.o)
+                              /home/nico/eclipse-workspace/Template/libArduinoCore.a(WString.o) (strstr)
+/usr/lib/gcc/avr/7.3.0/../../../avr/lib/avr5/libc.a(itoa.o)
+                              /home/nico/eclipse-workspace/Template/libArduinoCore.a(WString.o) (__itoa)
+/usr/lib/gcc/avr/7.3.0/../../../avr/lib/avr5/libc.a(itoa_ncheck.o)
+                              /usr/lib/gcc/avr/7.3.0/../../../avr/lib/avr5/libc.a(itoa.o) (__itoa_ncheck)
+/usr/lib/gcc/avr/7.3.0/../../../avr/lib/avr5/libc.a(ltoa.o)
+                              /home/nico/eclipse-workspace/Template/libArduinoCore.a(WString.o) (__ltoa)
+/usr/lib/gcc/avr/7.3.0/../../../avr/lib/avr5/libc.a(ltoa_ncheck.o)
+                              /usr/lib/gcc/avr/7.3.0/../../../avr/lib/avr5/libc.a(ltoa.o) (__ltoa_ncheck)
+/usr/lib/gcc/avr/7.3.0/../../../avr/lib/avr5/libc.a(mulsi10.o)
+                              /usr/lib/gcc/avr/7.3.0/../../../avr/lib/avr5/libc.a(atol.o) (__mulsi_const_10)
+/usr/lib/gcc/avr/7.3.0/../../../avr/lib/avr5/libc.a(ultoa.o)
+                              /home/nico/eclipse-workspace/Template/libArduinoCore.a(WString.o) (__ultoa)
+/usr/lib/gcc/avr/7.3.0/../../../avr/lib/avr5/libc.a(ultoa_ncheck.o)
+                              /home/nico/eclipse-workspace/Template/libArduinoCore.a(WString.o) (__ultoa_ncheck)
+/usr/lib/gcc/avr/7.3.0/../../../avr/lib/avr5/libc.a(utoa_ncheck.o)
+                              /usr/lib/gcc/avr/7.3.0/../../../avr/lib/avr5/libc.a(itoa_ncheck.o) (__utoa_common)
+/usr/lib/gcc/avr/7.3.0/../../../avr/lib/avr5/libc.a(cty_isfalse.o)
+                              /usr/lib/gcc/avr/7.3.0/../../../avr/lib/avr5/libc.a(isspace.o) (__ctype_isfalse)
+/usr/lib/gcc/avr/7.3.0/../../../avr/lib/avr5/libc.a(strrev.o)
+                              /usr/lib/gcc/avr/7.3.0/../../../avr/lib/avr5/libc.a(ultoa_ncheck.o) (strrev)
+/usr/lib/gcc/avr/7.3.0/../../../avr/lib/avr5/libatmega328p.a(eerd_byte.o)
+                              /home/nico/eclipse-workspace/Template/libArduinoLibraries.a(EEPROM.o) (eeprom_read_byte)
+/usr/lib/gcc/avr/7.3.0/../../../avr/lib/avr5/libatmega328p.a(eewr_byte.o)
+                              /home/nico/eclipse-workspace/Template/libArduinoLibraries.a(EEPROM.o) (eeprom_write_byte)
+/usr/lib/gcc/avr/7.3.0/avr5/libgcc.a(_prologue.o)
+                              /usr/lib/gcc/avr/7.3.0/../../../avr/lib/avr5/libc.a(realloc.o) (__prologue_saves__)
+/usr/lib/gcc/avr/7.3.0/avr5/libgcc.a(_epilogue.o)
+                              /usr/lib/gcc/avr/7.3.0/../../../avr/lib/avr5/libc.a(realloc.o) (__epilogue_restores__)
+
+Allocating common symbols
+Common symbol       size              file
+
+__brkval            0x2               /usr/lib/gcc/avr/7.3.0/../../../avr/lib/avr5/libc.a(malloc.o)
+__flp               0x2               /usr/lib/gcc/avr/7.3.0/../../../avr/lib/avr5/libc.a(malloc.o)
+
+Discarded input sections
+
+ .data          0x0000000000000000        0x0 /usr/lib/gcc/avr/7.3.0/../../../avr/lib/avr5/crtatmega328p.o
+ .bss           0x0000000000000000        0x0 /usr/lib/gcc/avr/7.3.0/../../../avr/lib/avr5/crtatmega328p.o
+ .text          0x0000000000000000        0x0 ./main.o
+ .data          0x0000000000000000        0x0 ./main.o
+ .bss           0x0000000000000000        0x0 ./main.o
+ .text.__cxa_pure_virtual
+                0x0000000000000000        0x4 ./main.o
+ .text._Znwj    0x0000000000000000        0x4 ./main.o
+ .text._ZdlPv   0x0000000000000000        0x4 ./main.o
+ .text._Znaj    0x0000000000000000        0x4 ./main.o
+ .text._ZdaPv   0x0000000000000000        0xa ./main.o
+ .text._Z19__cxa_guard_acquirePx
+                0x0000000000000000       0x12 ./main.o
+ .text._Z19__cxa_guard_releasePx
+                0x0000000000000000        0x8 ./main.o
+ .text._Z17__cxa_guard_abortPx
+                0x0000000000000000        0x2 ./main.o
+ .group         0x0000000000000000        0x8 /home/nico/eclipse-workspace/Template/libArduinoLibraries.a(NewSoftSerial.o)
+ .group         0x0000000000000000        0x8 /home/nico/eclipse-workspace/Template/libArduinoLibraries.a(NewSoftSerial.o)
+ .text          0x0000000000000000        0x0 /home/nico/eclipse-workspace/Template/libArduinoLibraries.a(NewSoftSerial.o)
+ .data          0x0000000000000000        0x0 /home/nico/eclipse-workspace/Template/libArduinoLibraries.a(NewSoftSerial.o)
+ .bss           0x0000000000000000        0x0 /home/nico/eclipse-workspace/Template/libArduinoLibraries.a(NewSoftSerial.o)
+ .text._ZN13NewSoftSerial11rx_pin_readEv
+                0x0000000000000000        0xe /home/nico/eclipse-workspace/Template/libArduinoLibraries.a(NewSoftSerial.o)
+ .text._ZN13NewSoftSerial5beginEl
+                0x0000000000000000       0x98 /home/nico/eclipse-workspace/Template/libArduinoLibraries.a(NewSoftSerial.o)
+ .text._ZN13NewSoftSerial3endEv
+                0x0000000000000000        0x2 /home/nico/eclipse-workspace/Template/libArduinoLibraries.a(NewSoftSerial.o)
+ .text._ZN13NewSoftSerial4readEv
+                0x0000000000000000       0x3c /home/nico/eclipse-workspace/Template/libArduinoLibraries.a(NewSoftSerial.o)
+ .text._ZN13NewSoftSerial9availableEv
+                0x0000000000000000       0x28 /home/nico/eclipse-workspace/Template/libArduinoLibraries.a(NewSoftSerial.o)
+ .text._ZN13NewSoftSerial13enable_timer0Eb
+                0x0000000000000000       0x18 /home/nico/eclipse-workspace/Template/libArduinoLibraries.a(NewSoftSerial.o)
+ .text._ZN13NewSoftSerial5flushEv
+                0x0000000000000000       0x1e /home/nico/eclipse-workspace/Template/libArduinoLibraries.a(NewSoftSerial.o)
+ .progmem.data._ZL5table
+                0x0000000000000000       0x90 /home/nico/eclipse-workspace/Template/libArduinoLibraries.a(NewSoftSerial.o)
+ .text          0x0000000000000000        0x0 /home/nico/eclipse-workspace/Template/libArduinoLibraries.a(EEPROM.o)
+ .data          0x0000000000000000        0x0 /home/nico/eclipse-workspace/Template/libArduinoLibraries.a(EEPROM.o)
+ .bss           0x0000000000000000        0x0 /home/nico/eclipse-workspace/Template/libArduinoLibraries.a(EEPROM.o)
+ .group         0x0000000000000000        0x8 /home/nico/eclipse-workspace/Template/libArduinoCore.a(HardwareSerial.o)
+ .text          0x0000000000000000        0x0 /home/nico/eclipse-workspace/Template/libArduinoCore.a(HardwareSerial.o)
+ .data          0x0000000000000000        0x0 /home/nico/eclipse-workspace/Template/libArduinoCore.a(HardwareSerial.o)
+ .bss           0x0000000000000000        0x0 /home/nico/eclipse-workspace/Template/libArduinoCore.a(HardwareSerial.o)
+ .text._ZN14HardwareSerialC2EP11ring_bufferPVhS3_S3_S3_S3_hhhhh
+                0x0000000000000000       0x60 /home/nico/eclipse-workspace/Template/libArduinoCore.a(HardwareSerial.o)
+ .text._ZN14HardwareSerial3endEv
+                0x0000000000000000       0x56 /home/nico/eclipse-workspace/Template/libArduinoCore.a(HardwareSerial.o)
+ .group         0x0000000000000000        0x8 /home/nico/eclipse-workspace/Template/libArduinoCore.a(Print.o)
+ .text          0x0000000000000000        0x0 /home/nico/eclipse-workspace/Template/libArduinoCore.a(Print.o)
+ .data          0x0000000000000000        0x0 /home/nico/eclipse-workspace/Template/libArduinoCore.a(Print.o)
+ .bss           0x0000000000000000        0x0 /home/nico/eclipse-workspace/Template/libArduinoCore.a(Print.o)
+ .text._ZN5Print5printERK6String
+                0x0000000000000000       0x56 /home/nico/eclipse-workspace/Template/libArduinoCore.a(Print.o)
+ .text._ZN5Print7printlnERK6String
+                0x0000000000000000       0x14 /home/nico/eclipse-workspace/Template/libArduinoCore.a(Print.o)
+ .text._ZN5Print7printlnEPKc
+                0x0000000000000000       0x14 /home/nico/eclipse-workspace/Template/libArduinoCore.a(Print.o)
+ .text._ZN5Print7printlnEci
+                0x0000000000000000       0x14 /home/nico/eclipse-workspace/Template/libArduinoCore.a(Print.o)
+ .text._ZN5Print7printlnEii
+                0x0000000000000000       0x14 /home/nico/eclipse-workspace/Template/libArduinoCore.a(Print.o)
+ .text._ZN5Print7printlnEli
+                0x0000000000000000       0x14 /home/nico/eclipse-workspace/Template/libArduinoCore.a(Print.o)
+ .text._ZN5Print7printlnEhi
+                0x0000000000000000       0x14 /home/nico/eclipse-workspace/Template/libArduinoCore.a(Print.o)
+ .text._ZN5Print5printEji
+                0x0000000000000000        0xc /home/nico/eclipse-workspace/Template/libArduinoCore.a(Print.o)
+ .text._ZN5Print7printlnEji
+                0x0000000000000000       0x14 /home/nico/eclipse-workspace/Template/libArduinoCore.a(Print.o)
+ .text._ZN5Print7printlnEmi
+                0x0000000000000000       0x14 /home/nico/eclipse-workspace/Template/libArduinoCore.a(Print.o)
+ .rodata._ZN5Print10printFloatEdh.str1.1
+                0x0000000000000000        0x2 /home/nico/eclipse-workspace/Template/libArduinoCore.a(Print.o)
+ .text._ZN5Print10printFloatEdh
+                0x0000000000000000      0x10a /home/nico/eclipse-workspace/Template/libArduinoCore.a(Print.o)
+ .text._ZN5Print5printEdi
+                0x0000000000000000        0x4 /home/nico/eclipse-workspace/Template/libArduinoCore.a(Print.o)
+ .text._ZN5Print7printlnEdi
+                0x0000000000000000       0x14 /home/nico/eclipse-workspace/Template/libArduinoCore.a(Print.o)
+ .rodata._ZTV5Print
+                0x0000000000000000        0xa /home/nico/eclipse-workspace/Template/libArduinoCore.a(Print.o)
+ .group         0x0000000000000000        0x8 /home/nico/eclipse-workspace/Template/libArduinoCore.a(WString.o)
+ .group         0x0000000000000000        0x8 /home/nico/eclipse-workspace/Template/libArduinoCore.a(WString.o)
+ .text          0x0000000000000000        0x0 /home/nico/eclipse-workspace/Template/libArduinoCore.a(WString.o)
+ .data          0x0000000000000000        0x0 /home/nico/eclipse-workspace/Template/libArduinoCore.a(WString.o)
+ .bss           0x0000000000000000        0x0 /home/nico/eclipse-workspace/Template/libArduinoCore.a(WString.o)
+ .text._ZN6StringD2Ev
+                0x0000000000000000        0xa /home/nico/eclipse-workspace/Template/libArduinoCore.a(WString.o)
+ .text._ZN6String9getBufferEj
+                0x0000000000000000       0x28 /home/nico/eclipse-workspace/Template/libArduinoCore.a(WString.o)
+ .rodata._ZN6StringC2EPKc.str1.1
+                0x0000000000000000        0x1 /home/nico/eclipse-workspace/Template/libArduinoCore.a(WString.o)
+ .text._ZN6StringC2EPKc
+                0x0000000000000000       0x52 /home/nico/eclipse-workspace/Template/libArduinoCore.a(WString.o)
+ .text._ZN6StringC2ERKS_
+                0x0000000000000000       0x3e /home/nico/eclipse-workspace/Template/libArduinoCore.a(WString.o)
+ .text._ZN6StringC2Eh
+                0x0000000000000000       0x34 /home/nico/eclipse-workspace/Template/libArduinoCore.a(WString.o)
+ .text._ZN6StringC2Eii
+                0x0000000000000000       0x72 /home/nico/eclipse-workspace/Template/libArduinoCore.a(WString.o)
+ .text._ZN6StringC2Eji
+                0x0000000000000000       0x76 /home/nico/eclipse-workspace/Template/libArduinoCore.a(WString.o)
+ .text._ZN6StringC2Eli
+                0x0000000000000000       0x74 /home/nico/eclipse-workspace/Template/libArduinoCore.a(WString.o)
+ .text._ZN6StringC2Emi
+                0x0000000000000000       0x76 /home/nico/eclipse-workspace/Template/libArduinoCore.a(WString.o)
+ .text._ZNK6String6charAtEj
+                0x0000000000000000        0xe /home/nico/eclipse-workspace/Template/libArduinoCore.a(WString.o)
+ .text._ZN6String9setCharAtEjc
+                0x0000000000000000       0x20 /home/nico/eclipse-workspace/Template/libArduinoCore.a(WString.o)
+ .text._ZNK6String9compareToERKS_
+                0x0000000000000000       0x10 /home/nico/eclipse-workspace/Template/libArduinoCore.a(WString.o)
+ .text._ZN6StringaSERKS_
+                0x0000000000000000       0x5c /home/nico/eclipse-workspace/Template/libArduinoCore.a(WString.o)
+ .text._ZN6StringpLERKS_
+                0x0000000000000000       0x6e /home/nico/eclipse-workspace/Template/libArduinoCore.a(WString.o)
+ .text._ZN6String6concatERKS_
+                0x0000000000000000        0x4 /home/nico/eclipse-workspace/Template/libArduinoCore.a(WString.o)
+ .text._ZNK6StringeqERKS_
+                0x0000000000000000       0x2e /home/nico/eclipse-workspace/Template/libArduinoCore.a(WString.o)
+ .text._ZNK6StringneERKS_
+                0x0000000000000000       0x32 /home/nico/eclipse-workspace/Template/libArduinoCore.a(WString.o)
+ .text._ZNK6StringltERKS_
+                0x0000000000000000       0x1c /home/nico/eclipse-workspace/Template/libArduinoCore.a(WString.o)
+ .text._ZNK6StringgtERKS_
+                0x0000000000000000       0x22 /home/nico/eclipse-workspace/Template/libArduinoCore.a(WString.o)
+ .text._ZNK6StringleERKS_
+                0x0000000000000000       0x22 /home/nico/eclipse-workspace/Template/libArduinoCore.a(WString.o)
+ .text._ZNK6StringgeERKS_
+                0x0000000000000000       0x1e /home/nico/eclipse-workspace/Template/libArduinoCore.a(WString.o)
+ .text._ZN6StringixEj
+                0x0000000000000000       0x24 /home/nico/eclipse-workspace/Template/libArduinoCore.a(WString.o)
+ .text._ZNK6StringixEj
+                0x0000000000000000        0xe /home/nico/eclipse-workspace/Template/libArduinoCore.a(WString.o)
+ .text._ZNK6String8endsWithERKS_
+                0x0000000000000000       0x34 /home/nico/eclipse-workspace/Template/libArduinoCore.a(WString.o)
+ .text._ZNK6String6equalsERKS_
+                0x0000000000000000       0x2c /home/nico/eclipse-workspace/Template/libArduinoCore.a(WString.o)
+ .text._ZN6String7replaceEcc
+                0x0000000000000000       0x82 /home/nico/eclipse-workspace/Template/libArduinoCore.a(WString.o)
+ .text._ZNK6String7indexOfEcj
+                0x0000000000000000       0x34 /home/nico/eclipse-workspace/Template/libArduinoCore.a(WString.o)
+ .text._ZNK6String7indexOfEc
+                0x0000000000000000        0x8 /home/nico/eclipse-workspace/Template/libArduinoCore.a(WString.o)
+ .text._ZNK6String7indexOfERKS_j
+                0x0000000000000000       0x38 /home/nico/eclipse-workspace/Template/libArduinoCore.a(WString.o)
+ .text._ZNK6String7indexOfERKS_
+                0x0000000000000000        0x8 /home/nico/eclipse-workspace/Template/libArduinoCore.a(WString.o)
+ .text._ZNK6String11lastIndexOfEcj
+                0x0000000000000000       0x68 /home/nico/eclipse-workspace/Template/libArduinoCore.a(WString.o)
+ .text._ZNK6String11lastIndexOfEc
+                0x0000000000000000        0xe /home/nico/eclipse-workspace/Template/libArduinoCore.a(WString.o)
+ .text._ZNK6String10startsWithERKS_j
+                0x0000000000000000       0x3e /home/nico/eclipse-workspace/Template/libArduinoCore.a(WString.o)
+ .text._ZNK6String10startsWithERKS_
+                0x0000000000000000       0x1e /home/nico/eclipse-workspace/Template/libArduinoCore.a(WString.o)
+ .text._ZNK6String9substringEjj
+                0x0000000000000000       0x6e /home/nico/eclipse-workspace/Template/libArduinoCore.a(WString.o)
+ .text._ZNK6String11lastIndexOfERKS_j
+                0x0000000000000000       0xc0 /home/nico/eclipse-workspace/Template/libArduinoCore.a(WString.o)
+ .text._ZNK6String11lastIndexOfERKS_
+                0x0000000000000000       0x14 /home/nico/eclipse-workspace/Template/libArduinoCore.a(WString.o)
+ .text._ZNK6String9substringEj
+                0x0000000000000000       0x18 /home/nico/eclipse-workspace/Template/libArduinoCore.a(WString.o)
+ .text._ZN6String7replaceERKS_S1_
+                0x0000000000000000      0x116 /home/nico/eclipse-workspace/Template/libArduinoCore.a(WString.o)
+ .text._ZNK6String11toLowerCaseEv
+                0x0000000000000000       0x5e /home/nico/eclipse-workspace/Template/libArduinoCore.a(WString.o)
+ .text._ZNK6String16equalsIgnoreCaseERKS_
+                0x0000000000000000       0x8e /home/nico/eclipse-workspace/Template/libArduinoCore.a(WString.o)
+ .text._ZNK6String11toUpperCaseEv
+                0x0000000000000000       0x5e /home/nico/eclipse-workspace/Template/libArduinoCore.a(WString.o)
+ .text._ZNK6String4trimEv
+                0x0000000000000000       0xd0 /home/nico/eclipse-workspace/Template/libArduinoCore.a(WString.o)
+ .text._ZN6String8getBytesEPhj
+                0x0000000000000000       0x46 /home/nico/eclipse-workspace/Template/libArduinoCore.a(WString.o)
+ .text._ZN6String11toCharArrayEPcj
+                0x0000000000000000       0x46 /home/nico/eclipse-workspace/Template/libArduinoCore.a(WString.o)
+ .text._ZN6String5toIntEv
+                0x0000000000000000        0xa /home/nico/eclipse-workspace/Template/libArduinoCore.a(WString.o)
+ .bss._ZZN6StringixEjE19dummy_writable_char
+                0x0000000000000000        0x1 /home/nico/eclipse-workspace/Template/libArduinoCore.a(WString.o)
+ .comment       0x0000000000000000       0x12 /home/nico/eclipse-workspace/Template/libArduinoCore.a(WString.o)
+ .text          0x0000000000000000        0x0 /home/nico/eclipse-workspace/Template/libArduinoCore.a(pins_arduino.o)
+ .data          0x0000000000000000        0x0 /home/nico/eclipse-workspace/Template/libArduinoCore.a(pins_arduino.o)
+ .bss           0x0000000000000000        0x0 /home/nico/eclipse-workspace/Template/libArduinoCore.a(pins_arduino.o)
+ .text          0x0000000000000000        0x0 /home/nico/eclipse-workspace/Template/libArduinoCore.a(wiring.o)
+ .data          0x0000000000000000        0x0 /home/nico/eclipse-workspace/Template/libArduinoCore.a(wiring.o)
+ .bss           0x0000000000000000        0x0 /home/nico/eclipse-workspace/Template/libArduinoCore.a(wiring.o)
+ .text.millis   0x0000000000000000       0x18 /home/nico/eclipse-workspace/Template/libArduinoCore.a(wiring.o)
+ .text.delayMicroseconds
+                0x0000000000000000       0x14 /home/nico/eclipse-workspace/Template/libArduinoCore.a(wiring.o)
+ .text          0x0000000000000000        0x0 /home/nico/eclipse-workspace/Template/libArduinoCore.a(wiring_digital.o)
+ .data          0x0000000000000000        0x0 /home/nico/eclipse-workspace/Template/libArduinoCore.a(wiring_digital.o)
+ .bss           0x0000000000000000        0x0 /home/nico/eclipse-workspace/Template/libArduinoCore.a(wiring_digital.o)
+ .text.digitalRead
+                0x0000000000000000       0x52 /home/nico/eclipse-workspace/Template/libArduinoCore.a(wiring_digital.o)
+ .text          0x0000000000000000        0x0 /usr/lib/gcc/avr/7.3.0/avr5/libgcc.a(_divmodhi4.o)
+ .data          0x0000000000000000        0x0 /usr/lib/gcc/avr/7.3.0/avr5/libgcc.a(_divmodhi4.o)
+ .bss           0x0000000000000000        0x0 /usr/lib/gcc/avr/7.3.0/avr5/libgcc.a(_divmodhi4.o)
+ .text.libgcc.mul
+                0x0000000000000000        0x0 /usr/lib/gcc/avr/7.3.0/avr5/libgcc.a(_divmodhi4.o)
+ .text.libgcc.div
+                0x0000000000000000       0x28 /usr/lib/gcc/avr/7.3.0/avr5/libgcc.a(_divmodhi4.o)
+ .text.libgcc   0x0000000000000000        0x0 /usr/lib/gcc/avr/7.3.0/avr5/libgcc.a(_divmodhi4.o)
+ .text.libgcc.prologue
+                0x0000000000000000        0x0 /usr/lib/gcc/avr/7.3.0/avr5/libgcc.a(_divmodhi4.o)
+ .text.libgcc.builtins
+                0x0000000000000000        0x0 /usr/lib/gcc/avr/7.3.0/avr5/libgcc.a(_divmodhi4.o)
+ .text.libgcc.fmul
+                0x0000000000000000        0x0 /usr/lib/gcc/avr/7.3.0/avr5/libgcc.a(_divmodhi4.o)
+ .text.libgcc.fixed
+                0x0000000000000000        0x0 /usr/lib/gcc/avr/7.3.0/avr5/libgcc.a(_divmodhi4.o)
+ .text          0x0000000000000000        0x0 /usr/lib/gcc/avr/7.3.0/avr5/libgcc.a(_udivmodsi4.o)
+ .data          0x0000000000000000        0x0 /usr/lib/gcc/avr/7.3.0/avr5/libgcc.a(_udivmodsi4.o)
+ .bss           0x0000000000000000        0x0 /usr/lib/gcc/avr/7.3.0/avr5/libgcc.a(_udivmodsi4.o)
+ .text.libgcc.mul
+                0x0000000000000000        0x0 /usr/lib/gcc/avr/7.3.0/avr5/libgcc.a(_udivmodsi4.o)
+ .text.libgcc   0x0000000000000000        0x0 /usr/lib/gcc/avr/7.3.0/avr5/libgcc.a(_udivmodsi4.o)
+ .text.libgcc.prologue
+                0x0000000000000000        0x0 /usr/lib/gcc/avr/7.3.0/avr5/libgcc.a(_udivmodsi4.o)
+ .text.libgcc.builtins
+                0x0000000000000000        0x0 /usr/lib/gcc/avr/7.3.0/avr5/libgcc.a(_udivmodsi4.o)
+ .text.libgcc.fmul
+                0x0000000000000000        0x0 /usr/lib/gcc/avr/7.3.0/avr5/libgcc.a(_udivmodsi4.o)
+ .text.libgcc.fixed
+                0x0000000000000000        0x0 /usr/lib/gcc/avr/7.3.0/avr5/libgcc.a(_udivmodsi4.o)
+ .text          0x0000000000000000        0x0 /usr/lib/gcc/avr/7.3.0/avr5/libgcc.a(_exit.o)
+ .data          0x0000000000000000        0x0 /usr/lib/gcc/avr/7.3.0/avr5/libgcc.a(_exit.o)
+ .bss           0x0000000000000000        0x0 /usr/lib/gcc/avr/7.3.0/avr5/libgcc.a(_exit.o)
+ .text.libgcc.mul
+                0x0000000000000000        0x0 /usr/lib/gcc/avr/7.3.0/avr5/libgcc.a(_exit.o)
+ .text.libgcc.div
+                0x0000000000000000        0x0 /usr/lib/gcc/avr/7.3.0/avr5/libgcc.a(_exit.o)
+ .text.libgcc   0x0000000000000000        0x0 /usr/lib/gcc/avr/7.3.0/avr5/libgcc.a(_exit.o)
+ .text.libgcc.prologue
+                0x0000000000000000        0x0 /usr/lib/gcc/avr/7.3.0/avr5/libgcc.a(_exit.o)
+ .text.libgcc.builtins
+                0x0000000000000000        0x0 /usr/lib/gcc/avr/7.3.0/avr5/libgcc.a(_exit.o)
+ .text.libgcc.fmul
+                0x0000000000000000        0x0 /usr/lib/gcc/avr/7.3.0/avr5/libgcc.a(_exit.o)
+ .text.libgcc.fixed
+                0x0000000000000000        0x0 /usr/lib/gcc/avr/7.3.0/avr5/libgcc.a(_exit.o)
+ .text          0x0000000000000000        0x0 /usr/lib/gcc/avr/7.3.0/avr5/libgcc.a(_copy_data.o)
+ .data          0x0000000000000000        0x0 /usr/lib/gcc/avr/7.3.0/avr5/libgcc.a(_copy_data.o)
+ .bss           0x0000000000000000        0x0 /usr/lib/gcc/avr/7.3.0/avr5/libgcc.a(_copy_data.o)
+ .text.libgcc.mul
+                0x0000000000000000        0x0 /usr/lib/gcc/avr/7.3.0/avr5/libgcc.a(_copy_data.o)
+ .text.libgcc.div
+                0x0000000000000000        0x0 /usr/lib/gcc/avr/7.3.0/avr5/libgcc.a(_copy_data.o)
+ .text.libgcc   0x0000000000000000        0x0 /usr/lib/gcc/avr/7.3.0/avr5/libgcc.a(_copy_data.o)
+ .text.libgcc.prologue
+                0x0000000000000000        0x0 /usr/lib/gcc/avr/7.3.0/avr5/libgcc.a(_copy_data.o)
+ .text.libgcc.builtins
+                0x0000000000000000        0x0 /usr/lib/gcc/avr/7.3.0/avr5/libgcc.a(_copy_data.o)
+ .text.libgcc.fmul
+                0x0000000000000000        0x0 /usr/lib/gcc/avr/7.3.0/avr5/libgcc.a(_copy_data.o)
+ .text.libgcc.fixed
+                0x0000000000000000        0x0 /usr/lib/gcc/avr/7.3.0/avr5/libgcc.a(_copy_data.o)
+ .text          0x0000000000000000        0x0 /usr/lib/gcc/avr/7.3.0/avr5/libgcc.a(_clear_bss.o)
+ .data          0x0000000000000000        0x0 /usr/lib/gcc/avr/7.3.0/avr5/libgcc.a(_clear_bss.o)
+ .bss           0x0000000000000000        0x0 /usr/lib/gcc/avr/7.3.0/avr5/libgcc.a(_clear_bss.o)
+ .text.libgcc.mul
+                0x0000000000000000        0x0 /usr/lib/gcc/avr/7.3.0/avr5/libgcc.a(_clear_bss.o)
+ .text.libgcc.div
+                0x0000000000000000        0x0 /usr/lib/gcc/avr/7.3.0/avr5/libgcc.a(_clear_bss.o)
+ .text.libgcc   0x0000000000000000        0x0 /usr/lib/gcc/avr/7.3.0/avr5/libgcc.a(_clear_bss.o)
+ .text.libgcc.prologue
+                0x0000000000000000        0x0 /usr/lib/gcc/avr/7.3.0/avr5/libgcc.a(_clear_bss.o)
+ .text.libgcc.builtins
+                0x0000000000000000        0x0 /usr/lib/gcc/avr/7.3.0/avr5/libgcc.a(_clear_bss.o)
+ .text.libgcc.fmul
+                0x0000000000000000        0x0 /usr/lib/gcc/avr/7.3.0/avr5/libgcc.a(_clear_bss.o)
+ .text.libgcc.fixed
+                0x0000000000000000        0x0 /usr/lib/gcc/avr/7.3.0/avr5/libgcc.a(_clear_bss.o)
+ .text          0x0000000000000000        0x0 /usr/lib/gcc/avr/7.3.0/avr5/libgcc.a(_ctors.o)
+ .data          0x0000000000000000        0x0 /usr/lib/gcc/avr/7.3.0/avr5/libgcc.a(_ctors.o)
+ .bss           0x0000000000000000        0x0 /usr/lib/gcc/avr/7.3.0/avr5/libgcc.a(_ctors.o)
+ .text.libgcc.mul
+                0x0000000000000000        0x0 /usr/lib/gcc/avr/7.3.0/avr5/libgcc.a(_ctors.o)
+ .text.libgcc.div
+                0x0000000000000000        0x0 /usr/lib/gcc/avr/7.3.0/avr5/libgcc.a(_ctors.o)
+ .text.libgcc   0x0000000000000000        0x0 /usr/lib/gcc/avr/7.3.0/avr5/libgcc.a(_ctors.o)
+ .text.libgcc.prologue
+                0x0000000000000000        0x0 /usr/lib/gcc/avr/7.3.0/avr5/libgcc.a(_ctors.o)
+ .text.libgcc.builtins
+                0x0000000000000000        0x0 /usr/lib/gcc/avr/7.3.0/avr5/libgcc.a(_ctors.o)
+ .text.libgcc.fmul
+                0x0000000000000000        0x0 /usr/lib/gcc/avr/7.3.0/avr5/libgcc.a(_ctors.o)
+ .text.libgcc.fixed
+                0x0000000000000000        0x0 /usr/lib/gcc/avr/7.3.0/avr5/libgcc.a(_ctors.o)
+ .text          0x0000000000000000        0x0 /usr/lib/gcc/avr/7.3.0/avr5/libgcc.a(_dtors.o)
+ .data          0x0000000000000000        0x0 /usr/lib/gcc/avr/7.3.0/avr5/libgcc.a(_dtors.o)
+ .bss           0x0000000000000000        0x0 /usr/lib/gcc/avr/7.3.0/avr5/libgcc.a(_dtors.o)
+ .text.libgcc.mul
+                0x0000000000000000        0x0 /usr/lib/gcc/avr/7.3.0/avr5/libgcc.a(_dtors.o)
+ .text.libgcc.div
+                0x0000000000000000        0x0 /usr/lib/gcc/avr/7.3.0/avr5/libgcc.a(_dtors.o)
+ .text.libgcc   0x0000000000000000        0x0 /usr/lib/gcc/avr/7.3.0/avr5/libgcc.a(_dtors.o)
+ .text.libgcc.prologue
+                0x0000000000000000        0x0 /usr/lib/gcc/avr/7.3.0/avr5/libgcc.a(_dtors.o)
+ .text.libgcc.builtins
+                0x0000000000000000        0x0 /usr/lib/gcc/avr/7.3.0/avr5/libgcc.a(_dtors.o)
+ .text.libgcc.fmul
+                0x0000000000000000        0x0 /usr/lib/gcc/avr/7.3.0/avr5/libgcc.a(_dtors.o)
+ .text.libgcc.fixed
+                0x0000000000000000        0x0 /usr/lib/gcc/avr/7.3.0/avr5/libgcc.a(_dtors.o)
+ .text          0x0000000000000000        0x0 /usr/lib/gcc/avr/7.3.0/avr5/libgcc.a(_udivmodhi4.o)
+ .data          0x0000000000000000        0x0 /usr/lib/gcc/avr/7.3.0/avr5/libgcc.a(_udivmodhi4.o)
+ .bss           0x0000000000000000        0x0 /usr/lib/gcc/avr/7.3.0/avr5/libgcc.a(_udivmodhi4.o)
+ .text.libgcc.mul
+                0x0000000000000000        0x0 /usr/lib/gcc/avr/7.3.0/avr5/libgcc.a(_udivmodhi4.o)
+ .text.libgcc.div
+                0x0000000000000000       0x28 /usr/lib/gcc/avr/7.3.0/avr5/libgcc.a(_udivmodhi4.o)
+ .text.libgcc   0x0000000000000000        0x0 /usr/lib/gcc/avr/7.3.0/avr5/libgcc.a(_udivmodhi4.o)
+ .text.libgcc.prologue
+                0x0000000000000000        0x0 /usr/lib/gcc/avr/7.3.0/avr5/libgcc.a(_udivmodhi4.o)
+ .text.libgcc.builtins
+                0x0000000000000000        0x0 /usr/lib/gcc/avr/7.3.0/avr5/libgcc.a(_udivmodhi4.o)
+ .text.libgcc.fmul
+                0x0000000000000000        0x0 /usr/lib/gcc/avr/7.3.0/avr5/libgcc.a(_udivmodhi4.o)
+ .text.libgcc.fixed
+                0x0000000000000000        0x0 /usr/lib/gcc/avr/7.3.0/avr5/libgcc.a(_udivmodhi4.o)
+ .text          0x0000000000000000        0x0 /usr/lib/gcc/avr/7.3.0/avr5/libgcc.a(_tablejump2.o)
+ .data          0x0000000000000000        0x0 /usr/lib/gcc/avr/7.3.0/avr5/libgcc.a(_tablejump2.o)
+ .bss           0x0000000000000000        0x0 /usr/lib/gcc/avr/7.3.0/avr5/libgcc.a(_tablejump2.o)
+ .text.libgcc.mul
+                0x0000000000000000        0x0 /usr/lib/gcc/avr/7.3.0/avr5/libgcc.a(_tablejump2.o)
+ .text.libgcc.div
+                0x0000000000000000        0x0 /usr/lib/gcc/avr/7.3.0/avr5/libgcc.a(_tablejump2.o)
+ .text.libgcc.prologue
+                0x0000000000000000        0x0 /usr/lib/gcc/avr/7.3.0/avr5/libgcc.a(_tablejump2.o)
+ .text.libgcc.builtins
+                0x0000000000000000        0x0 /usr/lib/gcc/avr/7.3.0/avr5/libgcc.a(_tablejump2.o)
+ .text.libgcc.fmul
+                0x0000000000000000        0x0 /usr/lib/gcc/avr/7.3.0/avr5/libgcc.a(_tablejump2.o)
+ .text.libgcc.fixed
+                0x0000000000000000        0x0 /usr/lib/gcc/avr/7.3.0/avr5/libgcc.a(_tablejump2.o)
+ .text          0x0000000000000000        0x0 /usr/lib/gcc/avr/7.3.0/../../../avr/lib/avr5/libm.a(addsf3.o)
+ .data          0x0000000000000000        0x0 /usr/lib/gcc/avr/7.3.0/../../../avr/lib/avr5/libm.a(addsf3.o)
+ .bss           0x0000000000000000        0x0 /usr/lib/gcc/avr/7.3.0/../../../avr/lib/avr5/libm.a(addsf3.o)
+ .text.avr-libc.fplib
+                0x0000000000000000        0xe /usr/lib/gcc/avr/7.3.0/../../../avr/lib/avr5/libm.a(addsf3.o)
+ .text          0x0000000000000000        0x0 /usr/lib/gcc/avr/7.3.0/../../../avr/lib/avr5/libm.a(addsf3x.o)
+ .data          0x0000000000000000        0x0 /usr/lib/gcc/avr/7.3.0/../../../avr/lib/avr5/libm.a(addsf3x.o)
+ .bss           0x0000000000000000        0x0 /usr/lib/gcc/avr/7.3.0/../../../avr/lib/avr5/libm.a(addsf3x.o)
+ .text.avr-libc.fplib
+                0x0000000000000000       0xcc /usr/lib/gcc/avr/7.3.0/../../../avr/lib/avr5/libm.a(addsf3x.o)
+ .text          0x0000000000000000        0x0 /usr/lib/gcc/avr/7.3.0/../../../avr/lib/avr5/libm.a(cmpsf2.o)
+ .data          0x0000000000000000        0x0 /usr/lib/gcc/avr/7.3.0/../../../avr/lib/avr5/libm.a(cmpsf2.o)
+ .bss           0x0000000000000000        0x0 /usr/lib/gcc/avr/7.3.0/../../../avr/lib/avr5/libm.a(cmpsf2.o)
+ .text.avr-libc.fplib
+                0x0000000000000000        0xa /usr/lib/gcc/avr/7.3.0/../../../avr/lib/avr5/libm.a(cmpsf2.o)
+ .text          0x0000000000000000        0x0 /usr/lib/gcc/avr/7.3.0/../../../avr/lib/avr5/libm.a(divsf3.o)
+ .data          0x0000000000000000        0x0 /usr/lib/gcc/avr/7.3.0/../../../avr/lib/avr5/libm.a(divsf3.o)
+ .bss           0x0000000000000000        0x0 /usr/lib/gcc/avr/7.3.0/../../../avr/lib/avr5/libm.a(divsf3.o)
+ .text.avr-libc.fplib
+                0x0000000000000000        0x8 /usr/lib/gcc/avr/7.3.0/../../../avr/lib/avr5/libm.a(divsf3.o)
+ .text          0x0000000000000000        0x0 /usr/lib/gcc/avr/7.3.0/../../../avr/lib/avr5/libm.a(divsf3x.o)
+ .data          0x0000000000000000        0x0 /usr/lib/gcc/avr/7.3.0/../../../avr/lib/avr5/libm.a(divsf3x.o)
+ .bss           0x0000000000000000        0x0 /usr/lib/gcc/avr/7.3.0/../../../avr/lib/avr5/libm.a(divsf3x.o)
+ .text.avr-libc.fplib
+                0x0000000000000000       0xdc /usr/lib/gcc/avr/7.3.0/../../../avr/lib/avr5/libm.a(divsf3x.o)
+ .text          0x0000000000000000        0x0 /usr/lib/gcc/avr/7.3.0/../../../avr/lib/avr5/libm.a(fixsfsi.o)
+ .data          0x0000000000000000        0x0 /usr/lib/gcc/avr/7.3.0/../../../avr/lib/avr5/libm.a(fixsfsi.o)
+ .bss           0x0000000000000000        0x0 /usr/lib/gcc/avr/7.3.0/../../../avr/lib/avr5/libm.a(fixsfsi.o)
+ .text.avr-libc.fplib
+                0x0000000000000000        0xe /usr/lib/gcc/avr/7.3.0/../../../avr/lib/avr5/libm.a(fixsfsi.o)
+ .text          0x0000000000000000        0x0 /usr/lib/gcc/avr/7.3.0/../../../avr/lib/avr5/libm.a(fixunssfsi.o)
+ .data          0x0000000000000000        0x0 /usr/lib/gcc/avr/7.3.0/../../../avr/lib/avr5/libm.a(fixunssfsi.o)
+ .bss           0x0000000000000000        0x0 /usr/lib/gcc/avr/7.3.0/../../../avr/lib/avr5/libm.a(fixunssfsi.o)
+ .text.avr-libc.fplib
+                0x0000000000000000       0x5e /usr/lib/gcc/avr/7.3.0/../../../avr/lib/avr5/libm.a(fixunssfsi.o)
+ .text          0x0000000000000000        0x0 /usr/lib/gcc/avr/7.3.0/../../../avr/lib/avr5/libm.a(floatsisf.o)
+ .data          0x0000000000000000        0x0 /usr/lib/gcc/avr/7.3.0/../../../avr/lib/avr5/libm.a(floatsisf.o)
+ .bss           0x0000000000000000        0x0 /usr/lib/gcc/avr/7.3.0/../../../avr/lib/avr5/libm.a(floatsisf.o)
+ .text.avr-libc.fplib
+                0x0000000000000000       0x7a /usr/lib/gcc/avr/7.3.0/../../../avr/lib/avr5/libm.a(floatsisf.o)
+ .text          0x0000000000000000        0x0 /usr/lib/gcc/avr/7.3.0/../../../avr/lib/avr5/libm.a(fp_cmp.o)
+ .data          0x0000000000000000        0x0 /usr/lib/gcc/avr/7.3.0/../../../avr/lib/avr5/libm.a(fp_cmp.o)
+ .bss           0x0000000000000000        0x0 /usr/lib/gcc/avr/7.3.0/../../../avr/lib/avr5/libm.a(fp_cmp.o)
+ .text.avr-libc.fplib
+                0x0000000000000000       0x48 /usr/lib/gcc/avr/7.3.0/../../../avr/lib/avr5/libm.a(fp_cmp.o)
+ .text          0x0000000000000000        0x0 /usr/lib/gcc/avr/7.3.0/../../../avr/lib/avr5/libm.a(fp_inf.o)
+ .data          0x0000000000000000        0x0 /usr/lib/gcc/avr/7.3.0/../../../avr/lib/avr5/libm.a(fp_inf.o)
+ .bss           0x0000000000000000        0x0 /usr/lib/gcc/avr/7.3.0/../../../avr/lib/avr5/libm.a(fp_inf.o)
+ .text.avr-libc.fplib
+                0x0000000000000000        0xc /usr/lib/gcc/avr/7.3.0/../../../avr/lib/avr5/libm.a(fp_inf.o)
+ .text          0x0000000000000000        0x0 /usr/lib/gcc/avr/7.3.0/../../../avr/lib/avr5/libm.a(fp_nan.o)
+ .data          0x0000000000000000        0x0 /usr/lib/gcc/avr/7.3.0/../../../avr/lib/avr5/libm.a(fp_nan.o)
+ .bss           0x0000000000000000        0x0 /usr/lib/gcc/avr/7.3.0/../../../avr/lib/avr5/libm.a(fp_nan.o)
+ .text.avr-libc.fplib
+                0x0000000000000000        0x6 /usr/lib/gcc/avr/7.3.0/../../../avr/lib/avr5/libm.a(fp_nan.o)
+ .text          0x0000000000000000        0x0 /usr/lib/gcc/avr/7.3.0/../../../avr/lib/avr5/libm.a(fp_pscA.o)
+ .data          0x0000000000000000        0x0 /usr/lib/gcc/avr/7.3.0/../../../avr/lib/avr5/libm.a(fp_pscA.o)
+ .bss           0x0000000000000000        0x0 /usr/lib/gcc/avr/7.3.0/../../../avr/lib/avr5/libm.a(fp_pscA.o)
+ .text.avr-libc.fplib
+                0x0000000000000000        0xe /usr/lib/gcc/avr/7.3.0/../../../avr/lib/avr5/libm.a(fp_pscA.o)
+ .text          0x0000000000000000        0x0 /usr/lib/gcc/avr/7.3.0/../../../avr/lib/avr5/libm.a(fp_pscB.o)
+ .data          0x0000000000000000        0x0 /usr/lib/gcc/avr/7.3.0/../../../avr/lib/avr5/libm.a(fp_pscB.o)
+ .bss           0x0000000000000000        0x0 /usr/lib/gcc/avr/7.3.0/../../../avr/lib/avr5/libm.a(fp_pscB.o)
+ .text.avr-libc.fplib
+                0x0000000000000000        0xe /usr/lib/gcc/avr/7.3.0/../../../avr/lib/avr5/libm.a(fp_pscB.o)
+ .text          0x0000000000000000        0x0 /usr/lib/gcc/avr/7.3.0/../../../avr/lib/avr5/libm.a(fp_round.o)
+ .data          0x0000000000000000        0x0 /usr/lib/gcc/avr/7.3.0/../../../avr/lib/avr5/libm.a(fp_round.o)
+ .bss           0x0000000000000000        0x0 /usr/lib/gcc/avr/7.3.0/../../../avr/lib/avr5/libm.a(fp_round.o)
+ .text.avr-libc.fplib
+                0x0000000000000000       0x22 /usr/lib/gcc/avr/7.3.0/../../../avr/lib/avr5/libm.a(fp_round.o)
+ .text          0x0000000000000000        0x0 /usr/lib/gcc/avr/7.3.0/../../../avr/lib/avr5/libm.a(fp_split3.o)
+ .data          0x0000000000000000        0x0 /usr/lib/gcc/avr/7.3.0/../../../avr/lib/avr5/libm.a(fp_split3.o)
+ .bss           0x0000000000000000        0x0 /usr/lib/gcc/avr/7.3.0/../../../avr/lib/avr5/libm.a(fp_split3.o)
+ .text.avr-libc.fplib
+                0x0000000000000000       0x44 /usr/lib/gcc/avr/7.3.0/../../../avr/lib/avr5/libm.a(fp_split3.o)
+ .text          0x0000000000000000        0x0 /usr/lib/gcc/avr/7.3.0/../../../avr/lib/avr5/libm.a(fp_zero.o)
+ .data          0x0000000000000000        0x0 /usr/lib/gcc/avr/7.3.0/../../../avr/lib/avr5/libm.a(fp_zero.o)
+ .bss           0x0000000000000000        0x0 /usr/lib/gcc/avr/7.3.0/../../../avr/lib/avr5/libm.a(fp_zero.o)
+ .text.avr-libc.fplib
+                0x0000000000000000        0xe /usr/lib/gcc/avr/7.3.0/../../../avr/lib/avr5/libm.a(fp_zero.o)
+ .text          0x0000000000000000        0x0 /usr/lib/gcc/avr/7.3.0/../../../avr/lib/avr5/libm.a(mulsf3.o)
+ .data          0x0000000000000000        0x0 /usr/lib/gcc/avr/7.3.0/../../../avr/lib/avr5/libm.a(mulsf3.o)
+ .bss           0x0000000000000000        0x0 /usr/lib/gcc/avr/7.3.0/../../../avr/lib/avr5/libm.a(mulsf3.o)
+ .text.avr-libc.fplib
+                0x0000000000000000        0x8 /usr/lib/gcc/avr/7.3.0/../../../avr/lib/avr5/libm.a(mulsf3.o)
+ .text          0x0000000000000000        0x0 /usr/lib/gcc/avr/7.3.0/../../../avr/lib/avr5/libm.a(mulsf3x.o)
+ .data          0x0000000000000000        0x0 /usr/lib/gcc/avr/7.3.0/../../../avr/lib/avr5/libm.a(mulsf3x.o)
+ .bss           0x0000000000000000        0x0 /usr/lib/gcc/avr/7.3.0/../../../avr/lib/avr5/libm.a(mulsf3x.o)
+ .text.avr-libc.fplib
+                0x0000000000000000       0xd2 /usr/lib/gcc/avr/7.3.0/../../../avr/lib/avr5/libm.a(mulsf3x.o)
+ .text          0x0000000000000000        0x0 /usr/lib/gcc/avr/7.3.0/../../../avr/lib/avr5/libc.a(malloc.o)
+ .data          0x0000000000000000        0x6 /usr/lib/gcc/avr/7.3.0/../../../avr/lib/avr5/libc.a(malloc.o)
+ .bss           0x0000000000000000        0x0 /usr/lib/gcc/avr/7.3.0/../../../avr/lib/avr5/libc.a(malloc.o)
+ .text.avr-libc
+                0x0000000000000000      0x24a /usr/lib/gcc/avr/7.3.0/../../../avr/lib/avr5/libc.a(malloc.o)
+ .comment       0x0000000000000000       0x12 /usr/lib/gcc/avr/7.3.0/../../../avr/lib/avr5/libc.a(malloc.o)
+ COMMON         0x0000000000000000        0x4 /usr/lib/gcc/avr/7.3.0/../../../avr/lib/avr5/libc.a(malloc.o)
+ .text          0x0000000000000000        0x0 /usr/lib/gcc/avr/7.3.0/../../../avr/lib/avr5/libc.a(realloc.o)
+ .data          0x0000000000000000        0x0 /usr/lib/gcc/avr/7.3.0/../../../avr/lib/avr5/libc.a(realloc.o)
+ .bss           0x0000000000000000        0x0 /usr/lib/gcc/avr/7.3.0/../../../avr/lib/avr5/libc.a(realloc.o)
+ .text.avr-libc
+                0x0000000000000000      0x17a /usr/lib/gcc/avr/7.3.0/../../../avr/lib/avr5/libc.a(realloc.o)
+ .comment       0x0000000000000000       0x12 /usr/lib/gcc/avr/7.3.0/../../../avr/lib/avr5/libc.a(realloc.o)
+ .text          0x0000000000000000        0x0 /usr/lib/gcc/avr/7.3.0/../../../avr/lib/avr5/libc.a(atol.o)
+ .data          0x0000000000000000        0x0 /usr/lib/gcc/avr/7.3.0/../../../avr/lib/avr5/libc.a(atol.o)
+ .bss           0x0000000000000000        0x0 /usr/lib/gcc/avr/7.3.0/../../../avr/lib/avr5/libc.a(atol.o)
+ .text.avr-libc
+                0x0000000000000000       0x4e /usr/lib/gcc/avr/7.3.0/../../../avr/lib/avr5/libc.a(atol.o)
+ .text          0x0000000000000000        0x0 /usr/lib/gcc/avr/7.3.0/../../../avr/lib/avr5/libc.a(isspace.o)
+ .data          0x0000000000000000        0x0 /usr/lib/gcc/avr/7.3.0/../../../avr/lib/avr5/libc.a(isspace.o)
+ .bss           0x0000000000000000        0x0 /usr/lib/gcc/avr/7.3.0/../../../avr/lib/avr5/libc.a(isspace.o)
+ .text.avr-libc
+                0x0000000000000000       0x12 /usr/lib/gcc/avr/7.3.0/../../../avr/lib/avr5/libc.a(isspace.o)
+ .text          0x0000000000000000        0x0 /usr/lib/gcc/avr/7.3.0/../../../avr/lib/avr5/libc.a(tolower.o)
+ .data          0x0000000000000000        0x0 /usr/lib/gcc/avr/7.3.0/../../../avr/lib/avr5/libc.a(tolower.o)
+ .bss           0x0000000000000000        0x0 /usr/lib/gcc/avr/7.3.0/../../../avr/lib/avr5/libc.a(tolower.o)
+ .text.avr-libc
+                0x0000000000000000       0x10 /usr/lib/gcc/avr/7.3.0/../../../avr/lib/avr5/libc.a(tolower.o)
+ .text          0x0000000000000000        0x0 /usr/lib/gcc/avr/7.3.0/../../../avr/lib/avr5/libc.a(toupper.o)
+ .data          0x0000000000000000        0x0 /usr/lib/gcc/avr/7.3.0/../../../avr/lib/avr5/libc.a(toupper.o)
+ .bss           0x0000000000000000        0x0 /usr/lib/gcc/avr/7.3.0/../../../avr/lib/avr5/libc.a(toupper.o)
+ .text.avr-libc
+                0x0000000000000000       0x10 /usr/lib/gcc/avr/7.3.0/../../../avr/lib/avr5/libc.a(toupper.o)
+ .text          0x0000000000000000        0x0 /usr/lib/gcc/avr/7.3.0/../../../avr/lib/avr5/libc.a(memcpy.o)
+ .data          0x0000000000000000        0x0 /usr/lib/gcc/avr/7.3.0/../../../avr/lib/avr5/libc.a(memcpy.o)
+ .bss           0x0000000000000000        0x0 /usr/lib/gcc/avr/7.3.0/../../../avr/lib/avr5/libc.a(memcpy.o)
+ .text.avr-libc
+                0x0000000000000000       0x12 /usr/lib/gcc/avr/7.3.0/../../../avr/lib/avr5/libc.a(memcpy.o)
+ .text          0x0000000000000000        0x0 /usr/lib/gcc/avr/7.3.0/../../../avr/lib/avr5/libc.a(strcat.o)
+ .data          0x0000000000000000        0x0 /usr/lib/gcc/avr/7.3.0/../../../avr/lib/avr5/libc.a(strcat.o)
+ .bss           0x0000000000000000        0x0 /usr/lib/gcc/avr/7.3.0/../../../avr/lib/avr5/libc.a(strcat.o)
+ .text.avr-libc
+                0x0000000000000000       0x16 /usr/lib/gcc/avr/7.3.0/../../../avr/lib/avr5/libc.a(strcat.o)
+ .text          0x0000000000000000        0x0 /usr/lib/gcc/avr/7.3.0/../../../avr/lib/avr5/libc.a(strchr.o)
+ .data          0x0000000000000000        0x0 /usr/lib/gcc/avr/7.3.0/../../../avr/lib/avr5/libc.a(strchr.o)
+ .bss           0x0000000000000000        0x0 /usr/lib/gcc/avr/7.3.0/../../../avr/lib/avr5/libc.a(strchr.o)
+ .text.avr-libc
+                0x0000000000000000       0x16 /usr/lib/gcc/avr/7.3.0/../../../avr/lib/avr5/libc.a(strchr.o)
+ .text          0x0000000000000000        0x0 /usr/lib/gcc/avr/7.3.0/../../../avr/lib/avr5/libc.a(strcmp.o)
+ .data          0x0000000000000000        0x0 /usr/lib/gcc/avr/7.3.0/../../../avr/lib/avr5/libc.a(strcmp.o)
+ .bss           0x0000000000000000        0x0 /usr/lib/gcc/avr/7.3.0/../../../avr/lib/avr5/libc.a(strcmp.o)
+ .text.avr-libc
+                0x0000000000000000       0x12 /usr/lib/gcc/avr/7.3.0/../../../avr/lib/avr5/libc.a(strcmp.o)
+ .text          0x0000000000000000        0x0 /usr/lib/gcc/avr/7.3.0/../../../avr/lib/avr5/libc.a(strcpy.o)
+ .data          0x0000000000000000        0x0 /usr/lib/gcc/avr/7.3.0/../../../avr/lib/avr5/libc.a(strcpy.o)
+ .bss           0x0000000000000000        0x0 /usr/lib/gcc/avr/7.3.0/../../../avr/lib/avr5/libc.a(strcpy.o)
+ .text.avr-libc
+                0x0000000000000000        0xe /usr/lib/gcc/avr/7.3.0/../../../avr/lib/avr5/libc.a(strcpy.o)
+ .text          0x0000000000000000        0x0 /usr/lib/gcc/avr/7.3.0/../../../avr/lib/avr5/libc.a(strncmp.o)
+ .data          0x0000000000000000        0x0 /usr/lib/gcc/avr/7.3.0/../../../avr/lib/avr5/libc.a(strncmp.o)
+ .bss           0x0000000000000000        0x0 /usr/lib/gcc/avr/7.3.0/../../../avr/lib/avr5/libc.a(strncmp.o)
+ .text.avr-libc
+                0x0000000000000000       0x1c /usr/lib/gcc/avr/7.3.0/../../../avr/lib/avr5/libc.a(strncmp.o)
+ .text          0x0000000000000000        0x0 /usr/lib/gcc/avr/7.3.0/../../../avr/lib/avr5/libc.a(strncpy.o)
+ .data          0x0000000000000000        0x0 /usr/lib/gcc/avr/7.3.0/../../../avr/lib/avr5/libc.a(strncpy.o)
+ .bss           0x0000000000000000        0x0 /usr/lib/gcc/avr/7.3.0/../../../avr/lib/avr5/libc.a(strncpy.o)
+ .text.avr-libc
+                0x0000000000000000       0x1e /usr/lib/gcc/avr/7.3.0/../../../avr/lib/avr5/libc.a(strncpy.o)
+ .text          0x0000000000000000        0x0 /usr/lib/gcc/avr/7.3.0/../../../avr/lib/avr5/libc.a(strrchr.o)
+ .data          0x0000000000000000        0x0 /usr/lib/gcc/avr/7.3.0/../../../avr/lib/avr5/libc.a(strrchr.o)
+ .bss           0x0000000000000000        0x0 /usr/lib/gcc/avr/7.3.0/../../../avr/lib/avr5/libc.a(strrchr.o)
+ .text.avr-libc
+                0x0000000000000000       0x16 /usr/lib/gcc/avr/7.3.0/../../../avr/lib/avr5/libc.a(strrchr.o)
+ .text          0x0000000000000000        0x0 /usr/lib/gcc/avr/7.3.0/../../../avr/lib/avr5/libc.a(strstr.o)
+ .data          0x0000000000000000        0x0 /usr/lib/gcc/avr/7.3.0/../../../avr/lib/avr5/libc.a(strstr.o)
+ .bss           0x0000000000000000        0x0 /usr/lib/gcc/avr/7.3.0/../../../avr/lib/avr5/libc.a(strstr.o)
+ .text.avr-libc
+                0x0000000000000000       0x34 /usr/lib/gcc/avr/7.3.0/../../../avr/lib/avr5/libc.a(strstr.o)
+ .text          0x0000000000000000        0x0 /usr/lib/gcc/avr/7.3.0/../../../avr/lib/avr5/libc.a(itoa.o)
+ .data          0x0000000000000000        0x0 /usr/lib/gcc/avr/7.3.0/../../../avr/lib/avr5/libc.a(itoa.o)
+ .bss           0x0000000000000000        0x0 /usr/lib/gcc/avr/7.3.0/../../../avr/lib/avr5/libc.a(itoa.o)
+ .text.avr-libc
+                0x0000000000000000       0x16 /usr/lib/gcc/avr/7.3.0/../../../avr/lib/avr5/libc.a(itoa.o)
+ .text          0x0000000000000000        0x0 /usr/lib/gcc/avr/7.3.0/../../../avr/lib/avr5/libc.a(itoa_ncheck.o)
+ .data          0x0000000000000000        0x0 /usr/lib/gcc/avr/7.3.0/../../../avr/lib/avr5/libc.a(itoa_ncheck.o)
+ .bss           0x0000000000000000        0x0 /usr/lib/gcc/avr/7.3.0/../../../avr/lib/avr5/libc.a(itoa_ncheck.o)
+ .text.avr-libc
+                0x0000000000000000       0x16 /usr/lib/gcc/avr/7.3.0/../../../avr/lib/avr5/libc.a(itoa_ncheck.o)
+ .text          0x0000000000000000        0x0 /usr/lib/gcc/avr/7.3.0/../../../avr/lib/avr5/libc.a(ltoa.o)
+ .data          0x0000000000000000        0x0 /usr/lib/gcc/avr/7.3.0/../../../avr/lib/avr5/libc.a(ltoa.o)
+ .bss           0x0000000000000000        0x0 /usr/lib/gcc/avr/7.3.0/../../../avr/lib/avr5/libc.a(ltoa.o)
+ .text.avr-libc
+                0x0000000000000000       0x16 /usr/lib/gcc/avr/7.3.0/../../../avr/lib/avr5/libc.a(ltoa.o)
+ .text          0x0000000000000000        0x0 /usr/lib/gcc/avr/7.3.0/../../../avr/lib/avr5/libc.a(ltoa_ncheck.o)
+ .data          0x0000000000000000        0x0 /usr/lib/gcc/avr/7.3.0/../../../avr/lib/avr5/libc.a(ltoa_ncheck.o)
+ .bss           0x0000000000000000        0x0 /usr/lib/gcc/avr/7.3.0/../../../avr/lib/avr5/libc.a(ltoa_ncheck.o)
+ .text.avr-libc
+                0x0000000000000000       0x1e /usr/lib/gcc/avr/7.3.0/../../../avr/lib/avr5/libc.a(ltoa_ncheck.o)
+ .text          0x0000000000000000        0x0 /usr/lib/gcc/avr/7.3.0/../../../avr/lib/avr5/libc.a(mulsi10.o)
+ .data          0x0000000000000000        0x0 /usr/lib/gcc/avr/7.3.0/../../../avr/lib/avr5/libc.a(mulsi10.o)
+ .bss           0x0000000000000000        0x0 /usr/lib/gcc/avr/7.3.0/../../../avr/lib/avr5/libc.a(mulsi10.o)
+ .text.avr-libc
+                0x0000000000000000       0x2a /usr/lib/gcc/avr/7.3.0/../../../avr/lib/avr5/libc.a(mulsi10.o)
+ .text          0x0000000000000000        0x0 /usr/lib/gcc/avr/7.3.0/../../../avr/lib/avr5/libc.a(ultoa.o)
+ .data          0x0000000000000000        0x0 /usr/lib/gcc/avr/7.3.0/../../../avr/lib/avr5/libc.a(ultoa.o)
+ .bss           0x0000000000000000        0x0 /usr/lib/gcc/avr/7.3.0/../../../avr/lib/avr5/libc.a(ultoa.o)
+ .text.avr-libc
+                0x0000000000000000       0x16 /usr/lib/gcc/avr/7.3.0/../../../avr/lib/avr5/libc.a(ultoa.o)
+ .text          0x0000000000000000        0x0 /usr/lib/gcc/avr/7.3.0/../../../avr/lib/avr5/libc.a(ultoa_ncheck.o)
+ .data          0x0000000000000000        0x0 /usr/lib/gcc/avr/7.3.0/../../../avr/lib/avr5/libc.a(ultoa_ncheck.o)
+ .bss           0x0000000000000000        0x0 /usr/lib/gcc/avr/7.3.0/../../../avr/lib/avr5/libc.a(ultoa_ncheck.o)
+ .text.avr-libc
+                0x0000000000000000       0x44 /usr/lib/gcc/avr/7.3.0/../../../avr/lib/avr5/libc.a(ultoa_ncheck.o)
+ .text          0x0000000000000000        0x0 /usr/lib/gcc/avr/7.3.0/../../../avr/lib/avr5/libc.a(utoa_ncheck.o)
+ .data          0x0000000000000000        0x0 /usr/lib/gcc/avr/7.3.0/../../../avr/lib/avr5/libc.a(utoa_ncheck.o)
+ .bss           0x0000000000000000        0x0 /usr/lib/gcc/avr/7.3.0/../../../avr/lib/avr5/libc.a(utoa_ncheck.o)
+ .text.avr-libc
+                0x0000000000000000       0x34 /usr/lib/gcc/avr/7.3.0/../../../avr/lib/avr5/libc.a(utoa_ncheck.o)
+ .text          0x0000000000000000        0x0 /usr/lib/gcc/avr/7.3.0/../../../avr/lib/avr5/libc.a(cty_isfalse.o)
+ .data          0x0000000000000000        0x0 /usr/lib/gcc/avr/7.3.0/../../../avr/lib/avr5/libc.a(cty_isfalse.o)
+ .bss           0x0000000000000000        0x0 /usr/lib/gcc/avr/7.3.0/../../../avr/lib/avr5/libc.a(cty_isfalse.o)
+ .text.avr-libc
+                0x0000000000000000        0x6 /usr/lib/gcc/avr/7.3.0/../../../avr/lib/avr5/libc.a(cty_isfalse.o)
+ .text          0x0000000000000000        0x0 /usr/lib/gcc/avr/7.3.0/../../../avr/lib/avr5/libc.a(strrev.o)
+ .data          0x0000000000000000        0x0 /usr/lib/gcc/avr/7.3.0/../../../avr/lib/avr5/libc.a(strrev.o)
+ .bss           0x0000000000000000        0x0 /usr/lib/gcc/avr/7.3.0/../../../avr/lib/avr5/libc.a(strrev.o)
+ .text.avr-libc
+                0x0000000000000000       0x20 /usr/lib/gcc/avr/7.3.0/../../../avr/lib/avr5/libc.a(strrev.o)
+ .text          0x0000000000000000        0x0 /usr/lib/gcc/avr/7.3.0/../../../avr/lib/avr5/libatmega328p.a(eerd_byte.o)
+ .data          0x0000000000000000        0x0 /usr/lib/gcc/avr/7.3.0/../../../avr/lib/avr5/libatmega328p.a(eerd_byte.o)
+ .bss           0x0000000000000000        0x0 /usr/lib/gcc/avr/7.3.0/../../../avr/lib/avr5/libatmega328p.a(eerd_byte.o)
+ .text          0x0000000000000000        0x0 /usr/lib/gcc/avr/7.3.0/../../../avr/lib/avr5/libatmega328p.a(eewr_byte.o)
+ .data          0x0000000000000000        0x0 /usr/lib/gcc/avr/7.3.0/../../../avr/lib/avr5/libatmega328p.a(eewr_byte.o)
+ .bss           0x0000000000000000        0x0 /usr/lib/gcc/avr/7.3.0/../../../avr/lib/avr5/libatmega328p.a(eewr_byte.o)
+ .text          0x0000000000000000        0x0 /usr/lib/gcc/avr/7.3.0/avr5/libgcc.a(_prologue.o)
+ .data          0x0000000000000000        0x0 /usr/lib/gcc/avr/7.3.0/avr5/libgcc.a(_prologue.o)
+ .bss           0x0000000000000000        0x0 /usr/lib/gcc/avr/7.3.0/avr5/libgcc.a(_prologue.o)
+ .text.libgcc.mul
+                0x0000000000000000        0x0 /usr/lib/gcc/avr/7.3.0/avr5/libgcc.a(_prologue.o)
+ .text.libgcc.div
+                0x0000000000000000        0x0 /usr/lib/gcc/avr/7.3.0/avr5/libgcc.a(_prologue.o)
+ .text.libgcc   0x0000000000000000        0x0 /usr/lib/gcc/avr/7.3.0/avr5/libgcc.a(_prologue.o)
+ .text.libgcc.prologue
+                0x0000000000000000       0x38 /usr/lib/gcc/avr/7.3.0/avr5/libgcc.a(_prologue.o)
+ .text.libgcc.builtins
+                0x0000000000000000        0x0 /usr/lib/gcc/avr/7.3.0/avr5/libgcc.a(_prologue.o)
+ .text.libgcc.fmul
+                0x0000000000000000        0x0 /usr/lib/gcc/avr/7.3.0/avr5/libgcc.a(_prologue.o)
+ .text.libgcc.fixed
+                0x0000000000000000        0x0 /usr/lib/gcc/avr/7.3.0/avr5/libgcc.a(_prologue.o)
+ .text          0x0000000000000000        0x0 /usr/lib/gcc/avr/7.3.0/avr5/libgcc.a(_epilogue.o)
+ .data          0x0000000000000000        0x0 /usr/lib/gcc/avr/7.3.0/avr5/libgcc.a(_epilogue.o)
+ .bss           0x0000000000000000        0x0 /usr/lib/gcc/avr/7.3.0/avr5/libgcc.a(_epilogue.o)
+ .text.libgcc.mul
+                0x0000000000000000        0x0 /usr/lib/gcc/avr/7.3.0/avr5/libgcc.a(_epilogue.o)
+ .text.libgcc.div
+                0x0000000000000000        0x0 /usr/lib/gcc/avr/7.3.0/avr5/libgcc.a(_epilogue.o)
+ .text.libgcc   0x0000000000000000        0x0 /usr/lib/gcc/avr/7.3.0/avr5/libgcc.a(_epilogue.o)
+ .text.libgcc.prologue
+                0x0000000000000000       0x36 /usr/lib/gcc/avr/7.3.0/avr5/libgcc.a(_epilogue.o)
+ .text.libgcc.builtins
+                0x0000000000000000        0x0 /usr/lib/gcc/avr/7.3.0/avr5/libgcc.a(_epilogue.o)
+ .text.libgcc.fmul
+                0x0000000000000000        0x0 /usr/lib/gcc/avr/7.3.0/avr5/libgcc.a(_epilogue.o)
+ .text.libgcc.fixed
+                0x0000000000000000        0x0 /usr/lib/gcc/avr/7.3.0/avr5/libgcc.a(_epilogue.o)
+
+Memory Configuration
+
+Name             Origin             Length             Attributes
+text             0x0000000000000000 0x0000000000008000 xr
+data             0x0000000000800100 0x0000000000000800 rw !x
+eeprom           0x0000000000810000 0x0000000000000400 rw !x
+fuse             0x0000000000820000 0x0000000000000003 rw !x
+lock             0x0000000000830000 0x0000000000000400 rw !x
+signature        0x0000000000840000 0x0000000000000400 rw !x
+user_signatures  0x0000000000850000 0x0000000000000400 rw !x
+*default*        0x0000000000000000 0xffffffffffffffff
+
+Linker script and memory map
+
+Address of section .data set to 0x800100
+LOAD /usr/lib/gcc/avr/7.3.0/../../../avr/lib/avr5/crtatmega328p.o
+LOAD ./main.o
+LOAD /home/nico/eclipse-workspace/Template/libArduinoLibraries.a
+LOAD /home/nico/eclipse-workspace/Template/libArduinoCore.a
+LOAD /home/nico/eclipse-workspace/Template/libArduinoLibraries.a
+LOAD /home/nico/eclipse-workspace/Template/libArduinoCore.a
+LOAD /usr/lib/gcc/avr/7.3.0/avr5/libgcc.a
+LOAD /usr/lib/gcc/avr/7.3.0/../../../avr/lib/avr5/libm.a
+START GROUP
+LOAD /usr/lib/gcc/avr/7.3.0/avr5/libgcc.a
+LOAD /usr/lib/gcc/avr/7.3.0/../../../avr/lib/avr5/libm.a
+LOAD /usr/lib/gcc/avr/7.3.0/../../../avr/lib/avr5/libc.a
+LOAD /usr/lib/gcc/avr/7.3.0/../../../avr/lib/avr5/libatmega328p.a
+END GROUP
+                0x0000000000000000                __TEXT_REGION_ORIGIN__ = DEFINED (__TEXT_REGION_ORIGIN__)?__TEXT_REGION_ORIGIN__:0x0
+                [0x0000000000800100]                __DATA_REGION_ORIGIN__ = DEFINED (__DATA_REGION_ORIGIN__)?__DATA_REGION_ORIGIN__:0x800060
+                [0x0000000000008000]                __TEXT_REGION_LENGTH__ = DEFINED (__TEXT_REGION_LENGTH__)?__TEXT_REGION_LENGTH__:0x20000
+                [0x0000000000000800]                __DATA_REGION_LENGTH__ = DEFINED (__DATA_REGION_LENGTH__)?__DATA_REGION_LENGTH__:0xffa0
+                [0x0000000000000400]                __EEPROM_REGION_LENGTH__ = DEFINED (__EEPROM_REGION_LENGTH__)?__EEPROM_REGION_LENGTH__:0x10000
+                [0x0000000000000003]                __FUSE_REGION_LENGTH__ = DEFINED (__FUSE_REGION_LENGTH__)?__FUSE_REGION_LENGTH__:0x400
+                0x0000000000000400                __LOCK_REGION_LENGTH__ = DEFINED (__LOCK_REGION_LENGTH__)?__LOCK_REGION_LENGTH__:0x400
+                0x0000000000000400                __SIGNATURE_REGION_LENGTH__ = DEFINED (__SIGNATURE_REGION_LENGTH__)?__SIGNATURE_REGION_LENGTH__:0x400
+                0x0000000000000400                __USER_SIGNATURE_REGION_LENGTH__ = DEFINED (__USER_SIGNATURE_REGION_LENGTH__)?__USER_SIGNATURE_REGION_LENGTH__:0x400
+
+.hash
+ *(.hash)
+
+.dynsym
+ *(.dynsym)
+
+.dynstr
+ *(.dynstr)
+
+.gnu.version
+ *(.gnu.version)
+
+.gnu.version_d
+ *(.gnu.version_d)
+
+.gnu.version_r
+ *(.gnu.version_r)
+
+.rel.init
+ *(.rel.init)
+
+.rela.init
+ *(.rela.init)
+
+.rel.text
+ *(.rel.text)
+ *(.rel.text.*)
+ *(.rel.gnu.linkonce.t*)
+
+.rela.text
+ *(.rela.text)
+ *(.rela.text.*)
+ *(.rela.gnu.linkonce.t*)
+
+.rel.fini
+ *(.rel.fini)
+
+.rela.fini
+ *(.rela.fini)
+
+.rel.rodata
+ *(.rel.rodata)
+ *(.rel.rodata.*)
+ *(.rel.gnu.linkonce.r*)
+
+.rela.rodata
+ *(.rela.rodata)
+ *(.rela.rodata.*)
+ *(.rela.gnu.linkonce.r*)
+
+.rel.data
+ *(.rel.data)
+ *(.rel.data.*)
+ *(.rel.gnu.linkonce.d*)
+
+.rela.data
+ *(.rela.data)
+ *(.rela.data.*)
+ *(.rela.gnu.linkonce.d*)
+
+.rel.ctors
+ *(.rel.ctors)
+
+.rela.ctors
+ *(.rela.ctors)
+
+.rel.dtors
+ *(.rel.dtors)
+
+.rela.dtors
+ *(.rela.dtors)
+
+.rel.got
+ *(.rel.got)
+
+.rela.got
+ *(.rela.got)
+
+.rel.bss
+ *(.rel.bss)
+
+.rela.bss
+ *(.rela.bss)
+
+.rel.plt
+ *(.rel.plt)
+
+.rela.plt
+ *(.rela.plt)
+
+.text           0x0000000000000000      0xd26
+ *(.vectors)
+ .vectors       0x0000000000000000       0x68 /usr/lib/gcc/avr/7.3.0/../../../avr/lib/avr5/crtatmega328p.o
+                0x0000000000000000                __vectors
+                0x0000000000000000                __vector_default
+ *(.vectors)
+ *(.progmem.gcc*)
+                0x0000000000000068                . = ALIGN (0x2)
+                0x0000000000000068                __trampolines_start = .
+ *(.trampolines)
+ .trampolines   0x0000000000000068        0x0 linker stubs
+ *(.trampolines*)
+                0x0000000000000068                __trampolines_end = .
+ *libprintf_flt.a:*(.progmem.data)
+ *libc.a:*(.progmem.data)
+ *(.progmem*)
+ .progmem.data.digital_pin_to_timer_PGM
+                0x0000000000000068       0x14 /home/nico/eclipse-workspace/Template/libArduinoCore.a(pins_arduino.o)
+                0x0000000000000068                digital_pin_to_timer_PGM
+ .progmem.data.digital_pin_to_bit_mask_PGM
+                0x000000000000007c       0x14 /home/nico/eclipse-workspace/Template/libArduinoCore.a(pins_arduino.o)
+                0x000000000000007c                digital_pin_to_bit_mask_PGM
+ .progmem.data.digital_pin_to_port_PGM
+                0x0000000000000090       0x14 /home/nico/eclipse-workspace/Template/libArduinoCore.a(pins_arduino.o)
+                0x0000000000000090                digital_pin_to_port_PGM
+ .progmem.data.port_to_input_PGM
+                0x00000000000000a4        0xa /home/nico/eclipse-workspace/Template/libArduinoCore.a(pins_arduino.o)
+                0x00000000000000a4                port_to_input_PGM
+ .progmem.data.port_to_output_PGM
+                0x00000000000000ae        0xa /home/nico/eclipse-workspace/Template/libArduinoCore.a(pins_arduino.o)
+                0x00000000000000ae                port_to_output_PGM
+ .progmem.data.port_to_mode_PGM
+                0x00000000000000b8        0xa /home/nico/eclipse-workspace/Template/libArduinoCore.a(pins_arduino.o)
+                0x00000000000000b8                port_to_mode_PGM
+                0x00000000000000c2                . = ALIGN (0x2)
+ *(.jumptables)
+ *(.jumptables*)
+ *(.lowtext)
+ *(.lowtext*)
+                0x00000000000000c2                __ctors_start = .
+ *(.ctors)
+ .ctors         0x00000000000000c2        0x2 ./main.o
+ .ctors         0x00000000000000c4        0x2 /home/nico/eclipse-workspace/Template/libArduinoCore.a(HardwareSerial.o)
+                0x00000000000000c6                __ctors_end = .
+                0x00000000000000c6                __dtors_start = .
+ *(.dtors)
+ .dtors         0x00000000000000c6        0x2 ./main.o
+                0x00000000000000c8                __dtors_end = .
+ SORT(*)(.ctors)
+ SORT(*)(.dtors)
+ *(.init0)
+ .init0         0x00000000000000c8        0x0 /usr/lib/gcc/avr/7.3.0/../../../avr/lib/avr5/crtatmega328p.o
+                0x00000000000000c8                __init
+ *(.init0)
+ *(.init1)
+ *(.init1)
+ *(.init2)
+ .init2         0x00000000000000c8        0xc /usr/lib/gcc/avr/7.3.0/../../../avr/lib/avr5/crtatmega328p.o
+ *(.init2)
+ *(.init3)
+ *(.init3)
+ *(.init4)
+ .init4         0x00000000000000d4       0x16 /usr/lib/gcc/avr/7.3.0/avr5/libgcc.a(_copy_data.o)
+                0x00000000000000d4                __do_copy_data
+ .init4         0x00000000000000ea       0x10 /usr/lib/gcc/avr/7.3.0/avr5/libgcc.a(_clear_bss.o)
+                0x00000000000000ea                __do_clear_bss
+ *(.init4)
+ *(.init5)
+ *(.init5)
+ *(.init6)
+ .init6         0x00000000000000fa       0x14 /usr/lib/gcc/avr/7.3.0/avr5/libgcc.a(_ctors.o)
+                0x00000000000000fa                __do_global_ctors
+ *(.init6)
+ *(.init7)
+ *(.init7)
+ *(.init8)
+ *(.init8)
+ *(.init9)
+ .init9         0x000000000000010e        0x4 /usr/lib/gcc/avr/7.3.0/../../../avr/lib/avr5/crtatmega328p.o
+ *(.init9)
+ *(.text)
+ .text          0x0000000000000112        0x2 /usr/lib/gcc/avr/7.3.0/../../../avr/lib/avr5/crtatmega328p.o
+                0x0000000000000112                __vector_22
+                0x0000000000000112                __vector_1
+                0x0000000000000112                __vector_24
+                0x0000000000000112                __vector_12
+                0x0000000000000112                __bad_interrupt
+                0x0000000000000112                __vector_6
+                0x0000000000000112                __vector_23
+                0x0000000000000112                __vector_25
+                0x0000000000000112                __vector_11
+                0x0000000000000112                __vector_13
+                0x0000000000000112                __vector_17
+                0x0000000000000112                __vector_19
+                0x0000000000000112                __vector_7
+                0x0000000000000112                __vector_5
+                0x0000000000000112                __vector_4
+                0x0000000000000112                __vector_9
+                0x0000000000000112                __vector_21
+                0x0000000000000112                __vector_15
+                0x0000000000000112                __vector_8
+                0x0000000000000112                __vector_14
+                0x0000000000000112                __vector_10
+                0x0000000000000112                __vector_20
+                0x0000000000000114                . = ALIGN (0x2)
+ *(.text.*)
+ .text._Z11eepromWritev
+                0x0000000000000114       0x22 ./main.o
+                0x0000000000000114                _Z11eepromWritev
+ .text._Z10eepromReadv
+                0x0000000000000136       0x82 ./main.o
+                0x0000000000000136                _Z10eepromReadv
+ .text.setup    0x00000000000001b8       0x1a ./main.o
+                0x00000000000001b8                setup
+ .text.loop     0x00000000000001d2       0x26 ./main.o
+                0x00000000000001d2                loop
+ .text.startup.main
+                0x00000000000001f8        0x6 ./main.o
+                0x00000000000001f8                main
+ .text.startup._GLOBAL__sub_I___cxa_pure_virtual
+                0x00000000000001fe        0xc ./main.o
+ .text.exit._GLOBAL__sub_D___cxa_pure_virtual
+                0x000000000000020a        0x6 ./main.o
+ .text._ZN13NewSoftSerial12tx_pin_writeEh.part.1
+                0x0000000000000210       0x18 /home/nico/eclipse-workspace/Template/libArduinoLibraries.a(NewSoftSerial.o)
+ .text._ZN13NewSoftSerial10tunedDelayEj
+                0x0000000000000228        0xe /home/nico/eclipse-workspace/Template/libArduinoLibraries.a(NewSoftSerial.o)
+                0x0000000000000228                _ZN13NewSoftSerial10tunedDelayEj
+ .text._ZN13NewSoftSerial8activateEv
+                0x0000000000000236       0x34 /home/nico/eclipse-workspace/Template/libArduinoLibraries.a(NewSoftSerial.o)
+                0x0000000000000236                _ZN13NewSoftSerial8activateEv
+ .text._ZN13NewSoftSerial4recvEv
+                0x000000000000026a       0xb2 /home/nico/eclipse-workspace/Template/libArduinoLibraries.a(NewSoftSerial.o)
+                0x000000000000026a                _ZN13NewSoftSerial4recvEv
+ .text._ZN13NewSoftSerial12tx_pin_writeEh
+                0x000000000000031c       0x16 /home/nico/eclipse-workspace/Template/libArduinoLibraries.a(NewSoftSerial.o)
+                0x000000000000031c                _ZN13NewSoftSerial12tx_pin_writeEh
+ .text._ZN13NewSoftSerial5writeEh
+                0x0000000000000332       0xba /home/nico/eclipse-workspace/Template/libArduinoLibraries.a(NewSoftSerial.o)
+                0x0000000000000332                _ZN13NewSoftSerial5writeEh
+ .text.__vector_2
+                0x00000000000003ec       0x52 /home/nico/eclipse-workspace/Template/libArduinoLibraries.a(NewSoftSerial.o)
+                0x00000000000003ec                __vector_2
+ .text.__vector_3
+                0x000000000000043e       0x46 /home/nico/eclipse-workspace/Template/libArduinoLibraries.a(NewSoftSerial.o)
+                0x000000000000043e                __vector_3
+ .text._ZN13NewSoftSerialD2Ev
+                0x0000000000000484        0x2 /home/nico/eclipse-workspace/Template/libArduinoLibraries.a(NewSoftSerial.o)
+                0x0000000000000484                _ZN13NewSoftSerialD2Ev
+                0x0000000000000484                _ZN13NewSoftSerialD1Ev
+ .text._ZN13NewSoftSerial5setTXEh
+                0x0000000000000486       0x46 /home/nico/eclipse-workspace/Template/libArduinoLibraries.a(NewSoftSerial.o)
+                0x0000000000000486                _ZN13NewSoftSerial5setTXEh
+ .text._ZN13NewSoftSerial5setRXEh
+                0x00000000000004cc       0x4e /home/nico/eclipse-workspace/Template/libArduinoLibraries.a(NewSoftSerial.o)
+                0x00000000000004cc                _ZN13NewSoftSerial5setRXEh
+ .text._ZN13NewSoftSerialC2Ehhb
+                0x000000000000051a       0x3e /home/nico/eclipse-workspace/Template/libArduinoLibraries.a(NewSoftSerial.o)
+                0x000000000000051a                _ZN13NewSoftSerialC2Ehhb
+                0x000000000000051a                _ZN13NewSoftSerialC1Ehhb
+ .text._ZN11EEPROMClass4readEi
+                0x0000000000000558        0x4 /home/nico/eclipse-workspace/Template/libArduinoLibraries.a(EEPROM.o)
+                0x0000000000000558                _ZN11EEPROMClass4readEi
+ .text._ZN11EEPROMClass5writeEih
+                0x000000000000055c        0x6 /home/nico/eclipse-workspace/Template/libArduinoLibraries.a(EEPROM.o)
+                0x000000000000055c                _ZN11EEPROMClass5writeEih
+ .text._ZN14HardwareSerial9availableEv
+                0x0000000000000562       0x24 /home/nico/eclipse-workspace/Template/libArduinoCore.a(HardwareSerial.o)
+                0x0000000000000562                _ZN14HardwareSerial9availableEv
+ .text._ZN14HardwareSerial4peekEv
+                0x0000000000000586       0x2e /home/nico/eclipse-workspace/Template/libArduinoCore.a(HardwareSerial.o)
+                0x0000000000000586                _ZN14HardwareSerial4peekEv
+ .text._ZN14HardwareSerial4readEv
+                0x00000000000005b4       0x40 /home/nico/eclipse-workspace/Template/libArduinoCore.a(HardwareSerial.o)
+                0x00000000000005b4                _ZN14HardwareSerial4readEv
+ .text._ZN14HardwareSerial5flushEv
+                0x00000000000005f4       0x1e /home/nico/eclipse-workspace/Template/libArduinoCore.a(HardwareSerial.o)
+                0x00000000000005f4                _ZN14HardwareSerial5flushEv
+ .text._ZN14HardwareSerial5writeEh
+                0x0000000000000612       0x2c /home/nico/eclipse-workspace/Template/libArduinoCore.a(HardwareSerial.o)
+                0x0000000000000612                _ZN14HardwareSerial5writeEh
+ .text.__vector_18
+                0x000000000000063e       0x6a /home/nico/eclipse-workspace/Template/libArduinoCore.a(HardwareSerial.o)
+                0x000000000000063e                __vector_18
+ .text._ZN14HardwareSerial5beginEl
+                0x00000000000006a8       0xaa /home/nico/eclipse-workspace/Template/libArduinoCore.a(HardwareSerial.o)
+                0x00000000000006a8                _ZN14HardwareSerial5beginEl
+ .text.startup._GLOBAL__sub_I_rx_buffer
+                0x0000000000000752       0x52 /home/nico/eclipse-workspace/Template/libArduinoCore.a(HardwareSerial.o)
+ .text._ZN5Print5writeEPKc
+                0x00000000000007a4       0x30 /home/nico/eclipse-workspace/Template/libArduinoCore.a(Print.o)
+                0x00000000000007a4                _ZN5Print5writeEPKc
+ .text._ZN5Print5writeEPKhj
+                0x00000000000007d4       0x3e /home/nico/eclipse-workspace/Template/libArduinoCore.a(Print.o)
+                0x00000000000007d4                _ZN5Print5writeEPKhj
+ .text._ZN5Print5printEPKc
+                0x0000000000000812        0xe /home/nico/eclipse-workspace/Template/libArduinoCore.a(Print.o)
+                0x0000000000000812                _ZN5Print5printEPKc
+ .text._ZN5Print11printNumberEmh
+                0x0000000000000820      0x122 /home/nico/eclipse-workspace/Template/libArduinoCore.a(Print.o)
+                0x0000000000000820                _ZN5Print11printNumberEmh
+ .text._ZN5Print5printEli
+                0x0000000000000942       0x6a /home/nico/eclipse-workspace/Template/libArduinoCore.a(Print.o)
+                0x0000000000000942                _ZN5Print5printEli
+ .text._ZN5Print5printEci
+                0x00000000000009ac        0xc /home/nico/eclipse-workspace/Template/libArduinoCore.a(Print.o)
+                0x00000000000009ac                _ZN5Print5printEci
+ .text._ZN5Print7printlnEv
+                0x00000000000009b8       0x1c /home/nico/eclipse-workspace/Template/libArduinoCore.a(Print.o)
+                0x00000000000009b8                _ZN5Print7printlnEv
+ .text._ZN5Print5printEii
+                0x00000000000009d4        0xc /home/nico/eclipse-workspace/Template/libArduinoCore.a(Print.o)
+                0x00000000000009d4                _ZN5Print5printEii
+ .text._ZN5Print5printEmi
+                0x00000000000009e0       0x18 /home/nico/eclipse-workspace/Template/libArduinoCore.a(Print.o)
+                0x00000000000009e0                _ZN5Print5printEmi
+ .text._ZN5Print5printEhi
+                0x00000000000009f8        0xc /home/nico/eclipse-workspace/Template/libArduinoCore.a(Print.o)
+                0x00000000000009f8                _ZN5Print5printEhi
+ .text.__vector_16
+                0x0000000000000a04       0x94 /home/nico/eclipse-workspace/Template/libArduinoCore.a(wiring.o)
+                0x0000000000000a04                __vector_16
+ .text.micros   0x0000000000000a98       0x4a /home/nico/eclipse-workspace/Template/libArduinoCore.a(wiring.o)
+                0x0000000000000a98                micros
+ .text.delay    0x0000000000000ae2       0x48 /home/nico/eclipse-workspace/Template/libArduinoCore.a(wiring.o)
+                0x0000000000000ae2                delay
+ .text.init     0x0000000000000b2a       0x76 /home/nico/eclipse-workspace/Template/libArduinoCore.a(wiring.o)
+                0x0000000000000b2a                init
+ .text.turnOffPWM
+                0x0000000000000ba0       0x52 /home/nico/eclipse-workspace/Template/libArduinoCore.a(wiring_digital.o)
+ .text.pinMode  0x0000000000000bf2       0x42 /home/nico/eclipse-workspace/Template/libArduinoCore.a(wiring_digital.o)
+                0x0000000000000bf2                pinMode
+ .text.digitalWrite
+                0x0000000000000c34       0x5e /home/nico/eclipse-workspace/Template/libArduinoCore.a(wiring_digital.o)
+                0x0000000000000c34                digitalWrite
+ .text.libgcc.div
+                0x0000000000000c92       0x44 /usr/lib/gcc/avr/7.3.0/avr5/libgcc.a(_udivmodsi4.o)
+                0x0000000000000c92                __udivmodsi4
+ .text.libgcc   0x0000000000000cd6        0xc /usr/lib/gcc/avr/7.3.0/avr5/libgcc.a(_tablejump2.o)
+                0x0000000000000cd6                __tablejump2__
+ .text.avr-libc
+                0x0000000000000ce2       0x10 /usr/lib/gcc/avr/7.3.0/../../../avr/lib/avr5/libatmega328p.a(eerd_byte.o)
+                0x0000000000000ce2                eeprom_read_byte
+ .text.avr-libc
+                0x0000000000000cf2       0x1c /usr/lib/gcc/avr/7.3.0/../../../avr/lib/avr5/libatmega328p.a(eewr_byte.o)
+                0x0000000000000cf2                eeprom_write_byte
+                0x0000000000000cf4                eeprom_write_r18
+                0x0000000000000d0e                . = ALIGN (0x2)
+ *(.fini9)
+ .fini9         0x0000000000000d0e        0x0 /usr/lib/gcc/avr/7.3.0/avr5/libgcc.a(_exit.o)
+                0x0000000000000d0e                exit
+                0x0000000000000d0e                _exit
+ *(.fini9)
+ *(.fini8)
+ *(.fini8)
+ *(.fini7)
+ *(.fini7)
+ *(.fini6)
+ .fini6         0x0000000000000d0e       0x14 /usr/lib/gcc/avr/7.3.0/avr5/libgcc.a(_dtors.o)
+                0x0000000000000d0e                __do_global_dtors
+ *(.fini6)
+ *(.fini5)
+ *(.fini5)
+ *(.fini4)
+ *(.fini4)
+ *(.fini3)
+ *(.fini3)
+ *(.fini2)
+ *(.fini2)
+ *(.fini1)
+ *(.fini1)
+ *(.fini0)
+ .fini0         0x0000000000000d22        0x4 /usr/lib/gcc/avr/7.3.0/avr5/libgcc.a(_exit.o)
+ *(.fini0)
+                0x0000000000000d26                _etext = .
+
+.data           0x0000000000800100       0x20 load address 0x0000000000000d26
+                0x0000000000800100                PROVIDE (__data_start, .)
+ *(.data)
+ *(.data*)
+ .data.ledPin   0x0000000000800100        0x2 ./main.o
+                0x0000000000800100                ledPin
+ *(.gnu.linkonce.d*)
+ *(.rodata)
+ *(.rodata*)
+ .rodata._Z10eepromReadv.str1.1
+                0x0000000000800102        0x2 ./main.o
+ .rodata._ZTV13NewSoftSerial
+                0x0000000000800104        0xa /home/nico/eclipse-workspace/Template/libArduinoLibraries.a(NewSoftSerial.o)
+                0x0000000000800104                _ZTV13NewSoftSerial
+ .rodata._ZTV14HardwareSerial
+                0x000000000080010e       0x12 /home/nico/eclipse-workspace/Template/libArduinoCore.a(HardwareSerial.o)
+                0x000000000080010e                _ZTV14HardwareSerial
+ *(.gnu.linkonce.r*)
+                0x0000000000800120                . = ALIGN (0x2)
+                0x0000000000800120                _edata = .
+                0x0000000000800120                PROVIDE (__data_end, .)
+
+.bss            0x0000000000800120       0xfa
+                0x0000000000800120                PROVIDE (__bss_start, .)
+ *(.bss)
+ *(.bss*)
+ .bss.dbP       0x0000000000800120       0x12 ./main.o
+                0x0000000000800120                dbP
+ .bss.value     0x0000000000800132        0x1 ./main.o
+                0x0000000000800132                value
+ .bss.address   0x0000000000800133        0x2 ./main.o
+                0x0000000000800133                address
+ .bss._ZN13NewSoftSerial20_receive_buffer_headE
+                0x0000000000800135        0x1 /home/nico/eclipse-workspace/Template/libArduinoLibraries.a(NewSoftSerial.o)
+                0x0000000000800135                _ZN13NewSoftSerial20_receive_buffer_headE
+ .bss._ZN13NewSoftSerial20_receive_buffer_tailE
+                0x0000000000800136        0x1 /home/nico/eclipse-workspace/Template/libArduinoLibraries.a(NewSoftSerial.o)
+                0x0000000000800136                _ZN13NewSoftSerial20_receive_buffer_tailE
+ .bss._ZN13NewSoftSerial15_receive_bufferE
+                0x0000000000800137       0x40 /home/nico/eclipse-workspace/Template/libArduinoLibraries.a(NewSoftSerial.o)
+                0x0000000000800137                _ZN13NewSoftSerial15_receive_bufferE
+ .bss._ZN13NewSoftSerial13active_objectE
+                0x0000000000800177        0x2 /home/nico/eclipse-workspace/Template/libArduinoLibraries.a(NewSoftSerial.o)
+                0x0000000000800177                _ZN13NewSoftSerial13active_objectE
+ .bss.EEPROM    0x0000000000800179        0x1 /home/nico/eclipse-workspace/Template/libArduinoLibraries.a(EEPROM.o)
+                0x0000000000800179                EEPROM
+ .bss.Serial    0x000000000080017a       0x13 /home/nico/eclipse-workspace/Template/libArduinoCore.a(HardwareSerial.o)
+                0x000000000080017a                Serial
+ .bss.rx_buffer
+                0x000000000080018d       0x84 /home/nico/eclipse-workspace/Template/libArduinoCore.a(HardwareSerial.o)
+                0x000000000080018d                rx_buffer
+ .bss.timer0_fract
+                0x0000000000800211        0x1 /home/nico/eclipse-workspace/Template/libArduinoCore.a(wiring.o)
+ .bss.timer0_millis
+                0x0000000000800212        0x4 /home/nico/eclipse-workspace/Template/libArduinoCore.a(wiring.o)
+                0x0000000000800212                timer0_millis
+ .bss.timer0_overflow_count
+                0x0000000000800216        0x4 /home/nico/eclipse-workspace/Template/libArduinoCore.a(wiring.o)
+                0x0000000000800216                timer0_overflow_count
+ *(COMMON)
+                0x000000000080021a                PROVIDE (__bss_end, .)
+                0x0000000000000d26                __data_load_start = LOADADDR (.data)
+                0x0000000000000d46                __data_load_end = (__data_load_start + SIZEOF (.data))
+
+.noinit         0x000000000080021a        0x0
+                [!provide]                        PROVIDE (__noinit_start, .)
+ *(.noinit*)
+                [!provide]                        PROVIDE (__noinit_end, .)
+                0x000000000080021a                _end = .
+                0x000000000080021a                PROVIDE (__heap_start, .)
+
+.eeprom         0x0000000000810000        0x0
+ *(.eeprom*)
+                0x0000000000810000                __eeprom_end = .
+
+.fuse
+ *(.fuse)
+ *(.lfuse)
+ *(.hfuse)
+ *(.efuse)
+
+.lock
+ *(.lock*)
+
+.signature
+ *(.signature*)
+
+.user_signatures
+ *(.user_signatures*)
+
+.stab
+ *(.stab)
+
+.stabstr
+ *(.stabstr)
+
+.stab.excl
+ *(.stab.excl)
+
+.stab.exclstr
+ *(.stab.exclstr)
+
+.stab.index
+ *(.stab.index)
+
+.stab.indexstr
+ *(.stab.indexstr)
+
+.comment        0x0000000000000000       0x11
+ *(.comment)
+ .comment       0x0000000000000000       0x11 ./main.o
+                                         0x12 (size before relaxing)
+ .comment       0x0000000000000011       0x12 /home/nico/eclipse-workspace/Template/libArduinoLibraries.a(NewSoftSerial.o)
+ .comment       0x0000000000000011       0x12 /home/nico/eclipse-workspace/Template/libArduinoLibraries.a(EEPROM.o)
+ .comment       0x0000000000000011       0x12 /home/nico/eclipse-workspace/Template/libArduinoCore.a(HardwareSerial.o)
+ .comment       0x0000000000000011       0x12 /home/nico/eclipse-workspace/Template/libArduinoCore.a(Print.o)
+ .comment       0x0000000000000011       0x12 /home/nico/eclipse-workspace/Template/libArduinoCore.a(pins_arduino.o)
+ .comment       0x0000000000000011       0x12 /home/nico/eclipse-workspace/Template/libArduinoCore.a(wiring.o)
+ .comment       0x0000000000000011       0x12 /home/nico/eclipse-workspace/Template/libArduinoCore.a(wiring_digital.o)
+
+.note.gnu.avr.deviceinfo
+                0x0000000000000000       0x40
+ .note.gnu.avr.deviceinfo
+                0x0000000000000000       0x40 /usr/lib/gcc/avr/7.3.0/../../../avr/lib/avr5/crtatmega328p.o
+
+.note.gnu.build-id
+ *(.note.gnu.build-id)
+
+.debug
+ *(.debug)
+
+.line
+ *(.line)
+
+.debug_srcinfo
+ *(.debug_srcinfo)
+
+.debug_sfnames
+ *(.debug_sfnames)
+
+.debug_aranges
+ *(.debug_aranges)
+
+.debug_pubnames
+ *(.debug_pubnames)
+
+.debug_info     0x0000000000000000      0x5f4
+ *(.debug_info .gnu.linkonce.wi.*)
+ .debug_info    0x0000000000000000      0x5f4 /usr/lib/gcc/avr/7.3.0/../../../avr/lib/avr5/crtatmega328p.o
+
+.debug_abbrev   0x0000000000000000      0x5a2
+ *(.debug_abbrev)
+ .debug_abbrev  0x0000000000000000      0x5a2 /usr/lib/gcc/avr/7.3.0/../../../avr/lib/avr5/crtatmega328p.o
+
+.debug_line     0x0000000000000000       0x1a
+ *(.debug_line .debug_line.* .debug_line_end)
+ .debug_line    0x0000000000000000       0x1a /usr/lib/gcc/avr/7.3.0/../../../avr/lib/avr5/crtatmega328p.o
+
+.debug_frame
+ *(.debug_frame)
+
+.debug_str      0x0000000000000000      0x208
+ *(.debug_str)
+ .debug_str     0x0000000000000000      0x208 /usr/lib/gcc/avr/7.3.0/../../../avr/lib/avr5/crtatmega328p.o
+
+.debug_loc
+ *(.debug_loc)
+
+.debug_macinfo
+ *(.debug_macinfo)
+
+.debug_weaknames
+ *(.debug_weaknames)
+
+.debug_funcnames
+ *(.debug_funcnames)
+
+.debug_typenames
+ *(.debug_typenames)
+
+.debug_varnames
+ *(.debug_varnames)
+
+.debug_pubtypes
+ *(.debug_pubtypes)
+
+.debug_ranges
+ *(.debug_ranges)
+
+.debug_macro
+ *(.debug_macro)
+OUTPUT(Template.elf elf32-avr)
+LOAD linker stubs
+
+Cross Reference Table
+
+Symbol                                            File
+EEPROM                                            /home/nico/eclipse-workspace/Template/libArduinoLibraries.a(EEPROM.o)
+                                                  ./main.o
+Serial                                            /home/nico/eclipse-workspace/Template/libArduinoCore.a(HardwareSerial.o)
+                                                  ./main.o
+_Z10eepromReadv                                   ./main.o
+_Z11eepromWritev                                  ./main.o
+_Z17__cxa_guard_abortPx                           ./main.o
+_Z19__cxa_guard_acquirePx                         ./main.o
+_Z19__cxa_guard_releasePx                         ./main.o
+_ZN11EEPROMClass4readEi                           /home/nico/eclipse-workspace/Template/libArduinoLibraries.a(EEPROM.o)
+                                                  ./main.o
+_ZN11EEPROMClass5writeEih                         /home/nico/eclipse-workspace/Template/libArduinoLibraries.a(EEPROM.o)
+                                                  ./main.o
+_ZN13NewSoftSerial10tunedDelayEj                  /home/nico/eclipse-workspace/Template/libArduinoLibraries.a(NewSoftSerial.o)
+_ZN13NewSoftSerial11rx_pin_readEv                 /home/nico/eclipse-workspace/Template/libArduinoLibraries.a(NewSoftSerial.o)
+_ZN13NewSoftSerial12tx_pin_writeEh                /home/nico/eclipse-workspace/Template/libArduinoLibraries.a(NewSoftSerial.o)
+_ZN13NewSoftSerial13active_objectE                /home/nico/eclipse-workspace/Template/libArduinoLibraries.a(NewSoftSerial.o)
+_ZN13NewSoftSerial13enable_timer0Eb               /home/nico/eclipse-workspace/Template/libArduinoLibraries.a(NewSoftSerial.o)
+_ZN13NewSoftSerial15_receive_bufferE              /home/nico/eclipse-workspace/Template/libArduinoLibraries.a(NewSoftSerial.o)
+_ZN13NewSoftSerial20_receive_buffer_headE         /home/nico/eclipse-workspace/Template/libArduinoLibraries.a(NewSoftSerial.o)
+_ZN13NewSoftSerial20_receive_buffer_tailE         /home/nico/eclipse-workspace/Template/libArduinoLibraries.a(NewSoftSerial.o)
+_ZN13NewSoftSerial3endEv                          /home/nico/eclipse-workspace/Template/libArduinoLibraries.a(NewSoftSerial.o)
+_ZN13NewSoftSerial4readEv                         /home/nico/eclipse-workspace/Template/libArduinoLibraries.a(NewSoftSerial.o)
+_ZN13NewSoftSerial4recvEv                         /home/nico/eclipse-workspace/Template/libArduinoLibraries.a(NewSoftSerial.o)
+_ZN13NewSoftSerial5beginEl                        /home/nico/eclipse-workspace/Template/libArduinoLibraries.a(NewSoftSerial.o)
+_ZN13NewSoftSerial5flushEv                        /home/nico/eclipse-workspace/Template/libArduinoLibraries.a(NewSoftSerial.o)
+_ZN13NewSoftSerial5setRXEh                        /home/nico/eclipse-workspace/Template/libArduinoLibraries.a(NewSoftSerial.o)
+_ZN13NewSoftSerial5setTXEh                        /home/nico/eclipse-workspace/Template/libArduinoLibraries.a(NewSoftSerial.o)
+_ZN13NewSoftSerial5writeEh                        /home/nico/eclipse-workspace/Template/libArduinoLibraries.a(NewSoftSerial.o)
+_ZN13NewSoftSerial8activateEv                     /home/nico/eclipse-workspace/Template/libArduinoLibraries.a(NewSoftSerial.o)
+_ZN13NewSoftSerial9availableEv                    /home/nico/eclipse-workspace/Template/libArduinoLibraries.a(NewSoftSerial.o)
+_ZN13NewSoftSerialC1Ehhb                          /home/nico/eclipse-workspace/Template/libArduinoLibraries.a(NewSoftSerial.o)
+                                                  ./main.o
+_ZN13NewSoftSerialC2Ehhb                          /home/nico/eclipse-workspace/Template/libArduinoLibraries.a(NewSoftSerial.o)
+_ZN13NewSoftSerialD1Ev                            /home/nico/eclipse-workspace/Template/libArduinoLibraries.a(NewSoftSerial.o)
+                                                  ./main.o
+_ZN13NewSoftSerialD2Ev                            /home/nico/eclipse-workspace/Template/libArduinoLibraries.a(NewSoftSerial.o)
+_ZN14HardwareSerial3endEv                         /home/nico/eclipse-workspace/Template/libArduinoCore.a(HardwareSerial.o)
+_ZN14HardwareSerial4peekEv                        /home/nico/eclipse-workspace/Template/libArduinoCore.a(HardwareSerial.o)
+_ZN14HardwareSerial4readEv                        /home/nico/eclipse-workspace/Template/libArduinoCore.a(HardwareSerial.o)
+_ZN14HardwareSerial5beginEl                       /home/nico/eclipse-workspace/Template/libArduinoCore.a(HardwareSerial.o)
+                                                  ./main.o
+_ZN14HardwareSerial5flushEv                       /home/nico/eclipse-workspace/Template/libArduinoCore.a(HardwareSerial.o)
+_ZN14HardwareSerial5writeEh                       /home/nico/eclipse-workspace/Template/libArduinoCore.a(HardwareSerial.o)
+_ZN14HardwareSerial9availableEv                   /home/nico/eclipse-workspace/Template/libArduinoCore.a(HardwareSerial.o)
+_ZN14HardwareSerialC1EP11ring_bufferPVhS3_S3_S3_S3_hhhhh /home/nico/eclipse-workspace/Template/libArduinoCore.a(HardwareSerial.o)
+_ZN14HardwareSerialC2EP11ring_bufferPVhS3_S3_S3_S3_hhhhh /home/nico/eclipse-workspace/Template/libArduinoCore.a(HardwareSerial.o)
+_ZN5Print10printFloatEdh                          /home/nico/eclipse-workspace/Template/libArduinoCore.a(Print.o)
+_ZN5Print11printNumberEmh                         /home/nico/eclipse-workspace/Template/libArduinoCore.a(Print.o)
+_ZN5Print5printEPKc                               /home/nico/eclipse-workspace/Template/libArduinoCore.a(Print.o)
+                                                  ./main.o
+_ZN5Print5printERK6String                         /home/nico/eclipse-workspace/Template/libArduinoCore.a(Print.o)
+_ZN5Print5printEci                                /home/nico/eclipse-workspace/Template/libArduinoCore.a(Print.o)
+_ZN5Print5printEdi                                /home/nico/eclipse-workspace/Template/libArduinoCore.a(Print.o)
+_ZN5Print5printEhi                                /home/nico/eclipse-workspace/Template/libArduinoCore.a(Print.o)
+                                                  ./main.o
+_ZN5Print5printEii                                /home/nico/eclipse-workspace/Template/libArduinoCore.a(Print.o)
+                                                  ./main.o
+_ZN5Print5printEji                                /home/nico/eclipse-workspace/Template/libArduinoCore.a(Print.o)
+_ZN5Print5printEli                                /home/nico/eclipse-workspace/Template/libArduinoCore.a(Print.o)
+_ZN5Print5printEmi                                /home/nico/eclipse-workspace/Template/libArduinoCore.a(Print.o)
+_ZN5Print5writeEPKc                               /home/nico/eclipse-workspace/Template/libArduinoCore.a(Print.o)
+                                                  /home/nico/eclipse-workspace/Template/libArduinoCore.a(HardwareSerial.o)
+                                                  /home/nico/eclipse-workspace/Template/libArduinoLibraries.a(NewSoftSerial.o)
+_ZN5Print5writeEPKhj                              /home/nico/eclipse-workspace/Template/libArduinoCore.a(Print.o)
+                                                  /home/nico/eclipse-workspace/Template/libArduinoCore.a(HardwareSerial.o)
+                                                  /home/nico/eclipse-workspace/Template/libArduinoLibraries.a(NewSoftSerial.o)
+_ZN5Print7printlnEPKc                             /home/nico/eclipse-workspace/Template/libArduinoCore.a(Print.o)
+_ZN5Print7printlnERK6String                       /home/nico/eclipse-workspace/Template/libArduinoCore.a(Print.o)
+_ZN5Print7printlnEci                              /home/nico/eclipse-workspace/Template/libArduinoCore.a(Print.o)
+_ZN5Print7printlnEdi                              /home/nico/eclipse-workspace/Template/libArduinoCore.a(Print.o)
+_ZN5Print7printlnEhi                              /home/nico/eclipse-workspace/Template/libArduinoCore.a(Print.o)
+_ZN5Print7printlnEii                              /home/nico/eclipse-workspace/Template/libArduinoCore.a(Print.o)
+_ZN5Print7printlnEji                              /home/nico/eclipse-workspace/Template/libArduinoCore.a(Print.o)
+_ZN5Print7printlnEli                              /home/nico/eclipse-workspace/Template/libArduinoCore.a(Print.o)
+_ZN5Print7printlnEmi                              /home/nico/eclipse-workspace/Template/libArduinoCore.a(Print.o)
+_ZN5Print7printlnEv                               /home/nico/eclipse-workspace/Template/libArduinoCore.a(Print.o)
+                                                  ./main.o
+_ZN6String11toCharArrayEPcj                       /home/nico/eclipse-workspace/Template/libArduinoCore.a(WString.o)
+_ZN6String5toIntEv                                /home/nico/eclipse-workspace/Template/libArduinoCore.a(WString.o)
+_ZN6String6concatERKS_                            /home/nico/eclipse-workspace/Template/libArduinoCore.a(WString.o)
+_ZN6String7replaceERKS_S1_                        /home/nico/eclipse-workspace/Template/libArduinoCore.a(WString.o)
+_ZN6String7replaceEcc                             /home/nico/eclipse-workspace/Template/libArduinoCore.a(WString.o)
+_ZN6String8getBytesEPhj                           /home/nico/eclipse-workspace/Template/libArduinoCore.a(WString.o)
+_ZN6String9getBufferEj                            /home/nico/eclipse-workspace/Template/libArduinoCore.a(WString.o)
+_ZN6String9setCharAtEjc                           /home/nico/eclipse-workspace/Template/libArduinoCore.a(WString.o)
+_ZN6StringC1EPKc                                  /home/nico/eclipse-workspace/Template/libArduinoCore.a(WString.o)
+_ZN6StringC1ERKS_                                 /home/nico/eclipse-workspace/Template/libArduinoCore.a(WString.o)
+_ZN6StringC1Ec                                    /home/nico/eclipse-workspace/Template/libArduinoCore.a(WString.o)
+_ZN6StringC1Eh                                    /home/nico/eclipse-workspace/Template/libArduinoCore.a(WString.o)
+_ZN6StringC1Eii                                   /home/nico/eclipse-workspace/Template/libArduinoCore.a(WString.o)
+_ZN6StringC1Eji                                   /home/nico/eclipse-workspace/Template/libArduinoCore.a(WString.o)
+_ZN6StringC1Eli                                   /home/nico/eclipse-workspace/Template/libArduinoCore.a(WString.o)
+_ZN6StringC1Emi                                   /home/nico/eclipse-workspace/Template/libArduinoCore.a(WString.o)
+_ZN6StringC2EPKc                                  /home/nico/eclipse-workspace/Template/libArduinoCore.a(WString.o)
+_ZN6StringC2ERKS_                                 /home/nico/eclipse-workspace/Template/libArduinoCore.a(WString.o)
+_ZN6StringC2Ec                                    /home/nico/eclipse-workspace/Template/libArduinoCore.a(WString.o)
+_ZN6StringC2Eh                                    /home/nico/eclipse-workspace/Template/libArduinoCore.a(WString.o)
+_ZN6StringC2Eii                                   /home/nico/eclipse-workspace/Template/libArduinoCore.a(WString.o)
+_ZN6StringC2Eji                                   /home/nico/eclipse-workspace/Template/libArduinoCore.a(WString.o)
+_ZN6StringC2Eli                                   /home/nico/eclipse-workspace/Template/libArduinoCore.a(WString.o)
+_ZN6StringC2Emi                                   /home/nico/eclipse-workspace/Template/libArduinoCore.a(WString.o)
+_ZN6StringD1Ev                                    /home/nico/eclipse-workspace/Template/libArduinoCore.a(WString.o)
+_ZN6StringD2Ev                                    /home/nico/eclipse-workspace/Template/libArduinoCore.a(WString.o)
+_ZN6StringaSERKS_                                 /home/nico/eclipse-workspace/Template/libArduinoCore.a(WString.o)
+_ZN6StringixEj                                    /home/nico/eclipse-workspace/Template/libArduinoCore.a(WString.o)
+_ZN6StringpLERKS_                                 /home/nico/eclipse-workspace/Template/libArduinoCore.a(WString.o)
+_ZNK6String10startsWithERKS_                      /home/nico/eclipse-workspace/Template/libArduinoCore.a(WString.o)
+_ZNK6String10startsWithERKS_j                     /home/nico/eclipse-workspace/Template/libArduinoCore.a(WString.o)
+_ZNK6String11lastIndexOfERKS_                     /home/nico/eclipse-workspace/Template/libArduinoCore.a(WString.o)
+_ZNK6String11lastIndexOfERKS_j                    /home/nico/eclipse-workspace/Template/libArduinoCore.a(WString.o)
+_ZNK6String11lastIndexOfEc                        /home/nico/eclipse-workspace/Template/libArduinoCore.a(WString.o)
+_ZNK6String11lastIndexOfEcj                       /home/nico/eclipse-workspace/Template/libArduinoCore.a(WString.o)
+_ZNK6String11toLowerCaseEv                        /home/nico/eclipse-workspace/Template/libArduinoCore.a(WString.o)
+_ZNK6String11toUpperCaseEv                        /home/nico/eclipse-workspace/Template/libArduinoCore.a(WString.o)
+_ZNK6String16equalsIgnoreCaseERKS_                /home/nico/eclipse-workspace/Template/libArduinoCore.a(WString.o)
+_ZNK6String4trimEv                                /home/nico/eclipse-workspace/Template/libArduinoCore.a(WString.o)
+_ZNK6String6charAtEj                              /home/nico/eclipse-workspace/Template/libArduinoCore.a(WString.o)
+_ZNK6String6equalsERKS_                           /home/nico/eclipse-workspace/Template/libArduinoCore.a(WString.o)
+_ZNK6String7indexOfERKS_                          /home/nico/eclipse-workspace/Template/libArduinoCore.a(WString.o)
+_ZNK6String7indexOfERKS_j                         /home/nico/eclipse-workspace/Template/libArduinoCore.a(WString.o)
+_ZNK6String7indexOfEc                             /home/nico/eclipse-workspace/Template/libArduinoCore.a(WString.o)
+_ZNK6String7indexOfEcj                            /home/nico/eclipse-workspace/Template/libArduinoCore.a(WString.o)
+_ZNK6String8endsWithERKS_                         /home/nico/eclipse-workspace/Template/libArduinoCore.a(WString.o)
+_ZNK6String9compareToERKS_                        /home/nico/eclipse-workspace/Template/libArduinoCore.a(WString.o)
+_ZNK6String9substringEj                           /home/nico/eclipse-workspace/Template/libArduinoCore.a(WString.o)
+_ZNK6String9substringEjj                          /home/nico/eclipse-workspace/Template/libArduinoCore.a(WString.o)
+_ZNK6StringeqERKS_                                /home/nico/eclipse-workspace/Template/libArduinoCore.a(WString.o)
+_ZNK6StringgeERKS_                                /home/nico/eclipse-workspace/Template/libArduinoCore.a(WString.o)
+_ZNK6StringgtERKS_                                /home/nico/eclipse-workspace/Template/libArduinoCore.a(WString.o)
+_ZNK6StringixEj                                   /home/nico/eclipse-workspace/Template/libArduinoCore.a(WString.o)
+                                                  /home/nico/eclipse-workspace/Template/libArduinoCore.a(Print.o)
+_ZNK6StringleERKS_                                /home/nico/eclipse-workspace/Template/libArduinoCore.a(WString.o)
+_ZNK6StringltERKS_                                /home/nico/eclipse-workspace/Template/libArduinoCore.a(WString.o)
+_ZNK6StringneERKS_                                /home/nico/eclipse-workspace/Template/libArduinoCore.a(WString.o)
+_ZTV13NewSoftSerial                               /home/nico/eclipse-workspace/Template/libArduinoLibraries.a(NewSoftSerial.o)
+_ZTV14HardwareSerial                              /home/nico/eclipse-workspace/Template/libArduinoCore.a(HardwareSerial.o)
+_ZTV5Print                                        /home/nico/eclipse-workspace/Template/libArduinoCore.a(Print.o)
+_ZdaPv                                            ./main.o
+_ZdlPv                                            ./main.o
+_Znaj                                             ./main.o
+_Znwj                                             ./main.o
+__DATA_REGION_LENGTH__                            /usr/lib/gcc/avr/7.3.0/../../../avr/lib/avr5/crtatmega328p.o
+__DATA_REGION_ORIGIN__                            /usr/lib/gcc/avr/7.3.0/../../../avr/lib/avr5/crtatmega328p.o
+__EEPROM_REGION_LENGTH__                          /usr/lib/gcc/avr/7.3.0/../../../avr/lib/avr5/crtatmega328p.o
+__FUSE_REGION_LENGTH__                            /usr/lib/gcc/avr/7.3.0/../../../avr/lib/avr5/crtatmega328p.o
+__TEXT_REGION_LENGTH__                            /usr/lib/gcc/avr/7.3.0/../../../avr/lib/avr5/crtatmega328p.o
+__addsf3                                          /usr/lib/gcc/avr/7.3.0/../../../avr/lib/avr5/libm.a(addsf3.o)
+                                                  /home/nico/eclipse-workspace/Template/libArduinoCore.a(Print.o)
+__addsf3x                                         /usr/lib/gcc/avr/7.3.0/../../../avr/lib/avr5/libm.a(addsf3x.o)
+                                                  /usr/lib/gcc/avr/7.3.0/../../../avr/lib/avr5/libm.a(addsf3.o)
+__bad_interrupt                                   /usr/lib/gcc/avr/7.3.0/../../../avr/lib/avr5/crtatmega328p.o
+__brkval                                          /usr/lib/gcc/avr/7.3.0/../../../avr/lib/avr5/libc.a(malloc.o)
+                                                  /usr/lib/gcc/avr/7.3.0/../../../avr/lib/avr5/libc.a(realloc.o)
+__bss_end                                         /usr/lib/gcc/avr/7.3.0/avr5/libgcc.a(_clear_bss.o)
+__bss_start                                       /usr/lib/gcc/avr/7.3.0/avr5/libgcc.a(_clear_bss.o)
+__cmpsf2                                          /usr/lib/gcc/avr/7.3.0/../../../avr/lib/avr5/libm.a(cmpsf2.o)
+__ctors_end                                       /usr/lib/gcc/avr/7.3.0/avr5/libgcc.a(_ctors.o)
+__ctors_start                                     /usr/lib/gcc/avr/7.3.0/avr5/libgcc.a(_ctors.o)
+__ctype_isfalse                                   /usr/lib/gcc/avr/7.3.0/../../../avr/lib/avr5/libc.a(cty_isfalse.o)
+                                                  /usr/lib/gcc/avr/7.3.0/../../../avr/lib/avr5/libc.a(isspace.o)
+__ctype_istrue                                    /usr/lib/gcc/avr/7.3.0/../../../avr/lib/avr5/libc.a(cty_isfalse.o)
+__cxa_pure_virtual                                ./main.o
+                                                  /home/nico/eclipse-workspace/Template/libArduinoCore.a(Print.o)
+__data_end                                        /usr/lib/gcc/avr/7.3.0/avr5/libgcc.a(_copy_data.o)
+__data_load_start                                 /usr/lib/gcc/avr/7.3.0/avr5/libgcc.a(_copy_data.o)
+__data_start                                      /usr/lib/gcc/avr/7.3.0/avr5/libgcc.a(_copy_data.o)
+__divmodhi4                                       /usr/lib/gcc/avr/7.3.0/avr5/libgcc.a(_divmodhi4.o)
+                                                  /home/nico/eclipse-workspace/Template/libArduinoLibraries.a(NewSoftSerial.o)
+__divsf3                                          /usr/lib/gcc/avr/7.3.0/../../../avr/lib/avr5/libm.a(divsf3.o)
+                                                  /home/nico/eclipse-workspace/Template/libArduinoCore.a(Print.o)
+__divsf3_pse                                      /usr/lib/gcc/avr/7.3.0/../../../avr/lib/avr5/libm.a(divsf3x.o)
+__divsf3x                                         /usr/lib/gcc/avr/7.3.0/../../../avr/lib/avr5/libm.a(divsf3x.o)
+                                                  /usr/lib/gcc/avr/7.3.0/../../../avr/lib/avr5/libm.a(divsf3.o)
+__do_clear_bss                                    /usr/lib/gcc/avr/7.3.0/avr5/libgcc.a(_clear_bss.o)
+                                                  /usr/lib/gcc/avr/7.3.0/../../../avr/lib/avr5/libc.a(malloc.o)
+                                                  /home/nico/eclipse-workspace/Template/libArduinoCore.a(wiring.o)
+                                                  /home/nico/eclipse-workspace/Template/libArduinoCore.a(WString.o)
+                                                  /home/nico/eclipse-workspace/Template/libArduinoCore.a(HardwareSerial.o)
+                                                  /home/nico/eclipse-workspace/Template/libArduinoLibraries.a(EEPROM.o)
+                                                  /home/nico/eclipse-workspace/Template/libArduinoLibraries.a(NewSoftSerial.o)
+                                                  ./main.o
+__do_copy_data                                    /usr/lib/gcc/avr/7.3.0/avr5/libgcc.a(_copy_data.o)
+                                                  /usr/lib/gcc/avr/7.3.0/../../../avr/lib/avr5/libc.a(malloc.o)
+                                                  /home/nico/eclipse-workspace/Template/libArduinoCore.a(WString.o)
+                                                  /home/nico/eclipse-workspace/Template/libArduinoCore.a(Print.o)
+                                                  /home/nico/eclipse-workspace/Template/libArduinoCore.a(HardwareSerial.o)
+                                                  /home/nico/eclipse-workspace/Template/libArduinoLibraries.a(NewSoftSerial.o)
+                                                  ./main.o
+__do_global_ctors                                 /usr/lib/gcc/avr/7.3.0/avr5/libgcc.a(_ctors.o)
+                                                  /home/nico/eclipse-workspace/Template/libArduinoCore.a(HardwareSerial.o)
+                                                  ./main.o
+__do_global_dtors                                 /usr/lib/gcc/avr/7.3.0/avr5/libgcc.a(_dtors.o)
+                                                  ./main.o
+__dtors_end                                       /usr/lib/gcc/avr/7.3.0/avr5/libgcc.a(_dtors.o)
+__dtors_start                                     /usr/lib/gcc/avr/7.3.0/avr5/libgcc.a(_dtors.o)
+__epilogue_restores__                             /usr/lib/gcc/avr/7.3.0/avr5/libgcc.a(_epilogue.o)
+                                                  /usr/lib/gcc/avr/7.3.0/../../../avr/lib/avr5/libc.a(realloc.o)
+__eqsf2                                           /usr/lib/gcc/avr/7.3.0/../../../avr/lib/avr5/libm.a(cmpsf2.o)
+__fixsfsi                                         /usr/lib/gcc/avr/7.3.0/../../../avr/lib/avr5/libm.a(fixsfsi.o)
+                                                  /home/nico/eclipse-workspace/Template/libArduinoCore.a(Print.o)
+__fixunssfsi                                      /usr/lib/gcc/avr/7.3.0/../../../avr/lib/avr5/libm.a(fixunssfsi.o)
+                                                  /usr/lib/gcc/avr/7.3.0/../../../avr/lib/avr5/libm.a(fixsfsi.o)
+                                                  /home/nico/eclipse-workspace/Template/libArduinoCore.a(Print.o)
+__floatsisf                                       /usr/lib/gcc/avr/7.3.0/../../../avr/lib/avr5/libm.a(floatsisf.o)
+                                                  /home/nico/eclipse-workspace/Template/libArduinoCore.a(Print.o)
+__floatunsisf                                     /usr/lib/gcc/avr/7.3.0/../../../avr/lib/avr5/libm.a(floatsisf.o)
+                                                  /home/nico/eclipse-workspace/Template/libArduinoCore.a(Print.o)
+__flp                                             /usr/lib/gcc/avr/7.3.0/../../../avr/lib/avr5/libc.a(malloc.o)
+                                                  /usr/lib/gcc/avr/7.3.0/../../../avr/lib/avr5/libc.a(realloc.o)
+__fp_cmp                                          /usr/lib/gcc/avr/7.3.0/../../../avr/lib/avr5/libm.a(fp_cmp.o)
+                                                  /usr/lib/gcc/avr/7.3.0/../../../avr/lib/avr5/libm.a(cmpsf2.o)
+__fp_inf                                          /usr/lib/gcc/avr/7.3.0/../../../avr/lib/avr5/libm.a(fp_inf.o)
+                                                  /usr/lib/gcc/avr/7.3.0/../../../avr/lib/avr5/libm.a(mulsf3x.o)
+                                                  /usr/lib/gcc/avr/7.3.0/../../../avr/lib/avr5/libm.a(divsf3x.o)
+                                                  /usr/lib/gcc/avr/7.3.0/../../../avr/lib/avr5/libm.a(addsf3x.o)
+__fp_nan                                          /usr/lib/gcc/avr/7.3.0/../../../avr/lib/avr5/libm.a(fp_nan.o)
+                                                  /usr/lib/gcc/avr/7.3.0/../../../avr/lib/avr5/libm.a(mulsf3x.o)
+                                                  /usr/lib/gcc/avr/7.3.0/../../../avr/lib/avr5/libm.a(divsf3x.o)
+                                                  /usr/lib/gcc/avr/7.3.0/../../../avr/lib/avr5/libm.a(addsf3x.o)
+__fp_pscA                                         /usr/lib/gcc/avr/7.3.0/../../../avr/lib/avr5/libm.a(fp_pscA.o)
+                                                  /usr/lib/gcc/avr/7.3.0/../../../avr/lib/avr5/libm.a(mulsf3x.o)
+                                                  /usr/lib/gcc/avr/7.3.0/../../../avr/lib/avr5/libm.a(divsf3x.o)
+                                                  /usr/lib/gcc/avr/7.3.0/../../../avr/lib/avr5/libm.a(addsf3x.o)
+__fp_pscB                                         /usr/lib/gcc/avr/7.3.0/../../../avr/lib/avr5/libm.a(fp_pscB.o)
+                                                  /usr/lib/gcc/avr/7.3.0/../../../avr/lib/avr5/libm.a(mulsf3x.o)
+                                                  /usr/lib/gcc/avr/7.3.0/../../../avr/lib/avr5/libm.a(divsf3x.o)
+                                                  /usr/lib/gcc/avr/7.3.0/../../../avr/lib/avr5/libm.a(addsf3x.o)
+__fp_round                                        /usr/lib/gcc/avr/7.3.0/../../../avr/lib/avr5/libm.a(fp_round.o)
+                                                  /usr/lib/gcc/avr/7.3.0/../../../avr/lib/avr5/libm.a(mulsf3.o)
+                                                  /usr/lib/gcc/avr/7.3.0/../../../avr/lib/avr5/libm.a(divsf3.o)
+                                                  /usr/lib/gcc/avr/7.3.0/../../../avr/lib/avr5/libm.a(addsf3.o)
+__fp_split3                                       /usr/lib/gcc/avr/7.3.0/../../../avr/lib/avr5/libm.a(fp_split3.o)
+                                                  /usr/lib/gcc/avr/7.3.0/../../../avr/lib/avr5/libm.a(mulsf3x.o)
+                                                  /usr/lib/gcc/avr/7.3.0/../../../avr/lib/avr5/libm.a(divsf3x.o)
+                                                  /usr/lib/gcc/avr/7.3.0/../../../avr/lib/avr5/libm.a(addsf3x.o)
+__fp_splitA                                       /usr/lib/gcc/avr/7.3.0/../../../avr/lib/avr5/libm.a(fp_split3.o)
+                                                  /usr/lib/gcc/avr/7.3.0/../../../avr/lib/avr5/libm.a(fixunssfsi.o)
+__fp_szero                                        /usr/lib/gcc/avr/7.3.0/../../../avr/lib/avr5/libm.a(fp_zero.o)
+                                                  /usr/lib/gcc/avr/7.3.0/../../../avr/lib/avr5/libm.a(mulsf3x.o)
+                                                  /usr/lib/gcc/avr/7.3.0/../../../avr/lib/avr5/libm.a(fixsfsi.o)
+                                                  /usr/lib/gcc/avr/7.3.0/../../../avr/lib/avr5/libm.a(divsf3x.o)
+__fp_zero                                         /usr/lib/gcc/avr/7.3.0/../../../avr/lib/avr5/libm.a(fp_zero.o)
+                                                  /usr/lib/gcc/avr/7.3.0/../../../avr/lib/avr5/libm.a(fixunssfsi.o)
+                                                  /usr/lib/gcc/avr/7.3.0/../../../avr/lib/avr5/libm.a(addsf3x.o)
+__heap_end                                        /usr/lib/gcc/avr/7.3.0/../../../avr/lib/avr5/crtatmega328p.o
+                                                  /usr/lib/gcc/avr/7.3.0/../../../avr/lib/avr5/libc.a(malloc.o)
+__heap_start                                      /usr/lib/gcc/avr/7.3.0/../../../avr/lib/avr5/libc.a(malloc.o)
+__init                                            /usr/lib/gcc/avr/7.3.0/../../../avr/lib/avr5/crtatmega328p.o
+__itoa                                            /usr/lib/gcc/avr/7.3.0/../../../avr/lib/avr5/libc.a(itoa.o)
+                                                  /home/nico/eclipse-workspace/Template/libArduinoCore.a(WString.o)
+__itoa_ncheck                                     /usr/lib/gcc/avr/7.3.0/../../../avr/lib/avr5/libc.a(itoa_ncheck.o)
+                                                  /usr/lib/gcc/avr/7.3.0/../../../avr/lib/avr5/libc.a(itoa.o)
+__lesf2                                           /usr/lib/gcc/avr/7.3.0/../../../avr/lib/avr5/libm.a(cmpsf2.o)
+__ltoa                                            /usr/lib/gcc/avr/7.3.0/../../../avr/lib/avr5/libc.a(ltoa.o)
+                                                  /home/nico/eclipse-workspace/Template/libArduinoCore.a(WString.o)
+__ltoa_ncheck                                     /usr/lib/gcc/avr/7.3.0/../../../avr/lib/avr5/libc.a(ltoa_ncheck.o)
+                                                  /usr/lib/gcc/avr/7.3.0/../../../avr/lib/avr5/libc.a(ltoa.o)
+__ltsf2                                           /usr/lib/gcc/avr/7.3.0/../../../avr/lib/avr5/libm.a(cmpsf2.o)
+                                                  /home/nico/eclipse-workspace/Template/libArduinoCore.a(Print.o)
+__malloc_heap_end                                 /usr/lib/gcc/avr/7.3.0/../../../avr/lib/avr5/libc.a(malloc.o)
+                                                  /usr/lib/gcc/avr/7.3.0/../../../avr/lib/avr5/libc.a(realloc.o)
+__malloc_heap_start                               /usr/lib/gcc/avr/7.3.0/../../../avr/lib/avr5/libc.a(malloc.o)
+__malloc_margin                                   /usr/lib/gcc/avr/7.3.0/../../../avr/lib/avr5/libc.a(malloc.o)
+                                                  /usr/lib/gcc/avr/7.3.0/../../../avr/lib/avr5/libc.a(realloc.o)
+__mulsf3                                          /usr/lib/gcc/avr/7.3.0/../../../avr/lib/avr5/libm.a(mulsf3.o)
+                                                  /home/nico/eclipse-workspace/Template/libArduinoCore.a(Print.o)
+__mulsf3_pse                                      /usr/lib/gcc/avr/7.3.0/../../../avr/lib/avr5/libm.a(mulsf3x.o)
+__mulsf3x                                         /usr/lib/gcc/avr/7.3.0/../../../avr/lib/avr5/libm.a(mulsf3x.o)
+                                                  /usr/lib/gcc/avr/7.3.0/../../../avr/lib/avr5/libm.a(mulsf3.o)
+__mulsi_const_10                                  /usr/lib/gcc/avr/7.3.0/../../../avr/lib/avr5/libc.a(mulsi10.o)
+                                                  /usr/lib/gcc/avr/7.3.0/../../../avr/lib/avr5/libc.a(atol.o)
+__nesf2                                           /usr/lib/gcc/avr/7.3.0/../../../avr/lib/avr5/libm.a(cmpsf2.o)
+__prologue_saves__                                /usr/lib/gcc/avr/7.3.0/avr5/libgcc.a(_prologue.o)
+                                                  /usr/lib/gcc/avr/7.3.0/../../../avr/lib/avr5/libc.a(realloc.o)
+__stack                                           /usr/lib/gcc/avr/7.3.0/../../../avr/lib/avr5/crtatmega328p.o
+__subsf3                                          /usr/lib/gcc/avr/7.3.0/../../../avr/lib/avr5/libm.a(addsf3.o)
+                                                  /home/nico/eclipse-workspace/Template/libArduinoCore.a(Print.o)
+__tablejump2__                                    /usr/lib/gcc/avr/7.3.0/avr5/libgcc.a(_tablejump2.o)
+                                                  /usr/lib/gcc/avr/7.3.0/avr5/libgcc.a(_dtors.o)
+                                                  /usr/lib/gcc/avr/7.3.0/avr5/libgcc.a(_ctors.o)
+__udivmodhi4                                      /usr/lib/gcc/avr/7.3.0/avr5/libgcc.a(_udivmodhi4.o)
+                                                  /usr/lib/gcc/avr/7.3.0/avr5/libgcc.a(_divmodhi4.o)
+__udivmodsi4                                      /usr/lib/gcc/avr/7.3.0/avr5/libgcc.a(_udivmodsi4.o)
+                                                  /home/nico/eclipse-workspace/Template/libArduinoCore.a(Print.o)
+                                                  /home/nico/eclipse-workspace/Template/libArduinoCore.a(HardwareSerial.o)
+__ultoa                                           /usr/lib/gcc/avr/7.3.0/../../../avr/lib/avr5/libc.a(ultoa.o)
+                                                  /home/nico/eclipse-workspace/Template/libArduinoCore.a(WString.o)
+__ultoa_common                                    /usr/lib/gcc/avr/7.3.0/../../../avr/lib/avr5/libc.a(ultoa_ncheck.o)
+                                                  /usr/lib/gcc/avr/7.3.0/../../../avr/lib/avr5/libc.a(ltoa_ncheck.o)
+__ultoa_ncheck                                    /usr/lib/gcc/avr/7.3.0/../../../avr/lib/avr5/libc.a(ultoa_ncheck.o)
+                                                  /usr/lib/gcc/avr/7.3.0/../../../avr/lib/avr5/libc.a(ultoa.o)
+                                                  /home/nico/eclipse-workspace/Template/libArduinoCore.a(WString.o)
+__utoa_common                                     /usr/lib/gcc/avr/7.3.0/../../../avr/lib/avr5/libc.a(utoa_ncheck.o)
+                                                  /usr/lib/gcc/avr/7.3.0/../../../avr/lib/avr5/libc.a(itoa_ncheck.o)
+__utoa_ncheck                                     /usr/lib/gcc/avr/7.3.0/../../../avr/lib/avr5/libc.a(utoa_ncheck.o)
+__vector_1                                        /usr/lib/gcc/avr/7.3.0/../../../avr/lib/avr5/crtatmega328p.o
+__vector_10                                       /usr/lib/gcc/avr/7.3.0/../../../avr/lib/avr5/crtatmega328p.o
+__vector_11                                       /usr/lib/gcc/avr/7.3.0/../../../avr/lib/avr5/crtatmega328p.o
+__vector_12                                       /usr/lib/gcc/avr/7.3.0/../../../avr/lib/avr5/crtatmega328p.o
+__vector_13                                       /usr/lib/gcc/avr/7.3.0/../../../avr/lib/avr5/crtatmega328p.o
+__vector_14                                       /usr/lib/gcc/avr/7.3.0/../../../avr/lib/avr5/crtatmega328p.o
+__vector_15                                       /usr/lib/gcc/avr/7.3.0/../../../avr/lib/avr5/crtatmega328p.o
+__vector_16                                       /home/nico/eclipse-workspace/Template/libArduinoCore.a(wiring.o)
+                                                  /usr/lib/gcc/avr/7.3.0/../../../avr/lib/avr5/crtatmega328p.o
+__vector_17                                       /usr/lib/gcc/avr/7.3.0/../../../avr/lib/avr5/crtatmega328p.o
+__vector_18                                       /home/nico/eclipse-workspace/Template/libArduinoCore.a(HardwareSerial.o)
+                                                  /usr/lib/gcc/avr/7.3.0/../../../avr/lib/avr5/crtatmega328p.o
+__vector_19                                       /usr/lib/gcc/avr/7.3.0/../../../avr/lib/avr5/crtatmega328p.o
+__vector_2                                        /home/nico/eclipse-workspace/Template/libArduinoLibraries.a(NewSoftSerial.o)
+                                                  /usr/lib/gcc/avr/7.3.0/../../../avr/lib/avr5/crtatmega328p.o
+__vector_20                                       /usr/lib/gcc/avr/7.3.0/../../../avr/lib/avr5/crtatmega328p.o
+__vector_21                                       /usr/lib/gcc/avr/7.3.0/../../../avr/lib/avr5/crtatmega328p.o
+__vector_22                                       /usr/lib/gcc/avr/7.3.0/../../../avr/lib/avr5/crtatmega328p.o
+__vector_23                                       /usr/lib/gcc/avr/7.3.0/../../../avr/lib/avr5/crtatmega328p.o
+__vector_24                                       /usr/lib/gcc/avr/7.3.0/../../../avr/lib/avr5/crtatmega328p.o
+__vector_25                                       /usr/lib/gcc/avr/7.3.0/../../../avr/lib/avr5/crtatmega328p.o
+__vector_3                                        /home/nico/eclipse-workspace/Template/libArduinoLibraries.a(NewSoftSerial.o)
+                                                  /usr/lib/gcc/avr/7.3.0/../../../avr/lib/avr5/crtatmega328p.o
+__vector_4                                        /usr/lib/gcc/avr/7.3.0/../../../avr/lib/avr5/crtatmega328p.o
+__vector_5                                        /usr/lib/gcc/avr/7.3.0/../../../avr/lib/avr5/crtatmega328p.o
+__vector_6                                        /usr/lib/gcc/avr/7.3.0/../../../avr/lib/avr5/crtatmega328p.o
+__vector_7                                        /usr/lib/gcc/avr/7.3.0/../../../avr/lib/avr5/crtatmega328p.o
+__vector_8                                        /usr/lib/gcc/avr/7.3.0/../../../avr/lib/avr5/crtatmega328p.o
+__vector_9                                        /usr/lib/gcc/avr/7.3.0/../../../avr/lib/avr5/crtatmega328p.o
+__vector_default                                  /usr/lib/gcc/avr/7.3.0/../../../avr/lib/avr5/crtatmega328p.o
+__vectors                                         /usr/lib/gcc/avr/7.3.0/../../../avr/lib/avr5/crtatmega328p.o
+_div                                              /usr/lib/gcc/avr/7.3.0/avr5/libgcc.a(_divmodhi4.o)
+_exit                                             /usr/lib/gcc/avr/7.3.0/avr5/libgcc.a(_exit.o)
+address                                           ./main.o
+atol                                              /usr/lib/gcc/avr/7.3.0/../../../avr/lib/avr5/libc.a(atol.o)
+                                                  /home/nico/eclipse-workspace/Template/libArduinoCore.a(WString.o)
+dbP                                               ./main.o
+delay                                             /home/nico/eclipse-workspace/Template/libArduinoCore.a(wiring.o)
+                                                  ./main.o
+delayMicroseconds                                 /home/nico/eclipse-workspace/Template/libArduinoCore.a(wiring.o)
+digitalRead                                       /home/nico/eclipse-workspace/Template/libArduinoCore.a(wiring_digital.o)
+digitalWrite                                      /home/nico/eclipse-workspace/Template/libArduinoCore.a(wiring_digital.o)
+                                                  /home/nico/eclipse-workspace/Template/libArduinoLibraries.a(NewSoftSerial.o)
+                                                  ./main.o
+digital_pin_to_bit_mask_PGM                       /home/nico/eclipse-workspace/Template/libArduinoCore.a(pins_arduino.o)
+                                                  /home/nico/eclipse-workspace/Template/libArduinoCore.a(wiring_digital.o)
+                                                  /home/nico/eclipse-workspace/Template/libArduinoLibraries.a(NewSoftSerial.o)
+digital_pin_to_port_PGM                           /home/nico/eclipse-workspace/Template/libArduinoCore.a(pins_arduino.o)
+                                                  /home/nico/eclipse-workspace/Template/libArduinoCore.a(wiring_digital.o)
+                                                  /home/nico/eclipse-workspace/Template/libArduinoLibraries.a(NewSoftSerial.o)
+digital_pin_to_timer_PGM                          /home/nico/eclipse-workspace/Template/libArduinoCore.a(pins_arduino.o)
+                                                  /home/nico/eclipse-workspace/Template/libArduinoCore.a(wiring_digital.o)
+eeprom_read_byte                                  /usr/lib/gcc/avr/7.3.0/../../../avr/lib/avr5/libatmega328p.a(eerd_byte.o)
+                                                  /home/nico/eclipse-workspace/Template/libArduinoLibraries.a(EEPROM.o)
+eeprom_write_byte                                 /usr/lib/gcc/avr/7.3.0/../../../avr/lib/avr5/libatmega328p.a(eewr_byte.o)
+                                                  /home/nico/eclipse-workspace/Template/libArduinoLibraries.a(EEPROM.o)
+eeprom_write_r18                                  /usr/lib/gcc/avr/7.3.0/../../../avr/lib/avr5/libatmega328p.a(eewr_byte.o)
+exit                                              /usr/lib/gcc/avr/7.3.0/avr5/libgcc.a(_exit.o)
+                                                  /usr/lib/gcc/avr/7.3.0/../../../avr/lib/avr5/crtatmega328p.o
+free                                              /usr/lib/gcc/avr/7.3.0/../../../avr/lib/avr5/libc.a(malloc.o)
+                                                  /usr/lib/gcc/avr/7.3.0/../../../avr/lib/avr5/libc.a(realloc.o)
+                                                  /home/nico/eclipse-workspace/Template/libArduinoCore.a(WString.o)
+                                                  ./main.o
+init                                              /home/nico/eclipse-workspace/Template/libArduinoCore.a(wiring.o)
+                                                  ./main.o
+isspace                                           /usr/lib/gcc/avr/7.3.0/../../../avr/lib/avr5/libc.a(isspace.o)
+                                                  /home/nico/eclipse-workspace/Template/libArduinoCore.a(WString.o)
+itoa                                              /usr/lib/gcc/avr/7.3.0/../../../avr/lib/avr5/libc.a(itoa.o)
+ledPin                                            ./main.o
+loop                                              ./main.o
+ltoa                                              /usr/lib/gcc/avr/7.3.0/../../../avr/lib/avr5/libc.a(ltoa.o)
+main                                              ./main.o
+                                                  /usr/lib/gcc/avr/7.3.0/../../../avr/lib/avr5/crtatmega328p.o
+malloc                                            /usr/lib/gcc/avr/7.3.0/../../../avr/lib/avr5/libc.a(malloc.o)
+                                                  /usr/lib/gcc/avr/7.3.0/../../../avr/lib/avr5/libc.a(realloc.o)
+                                                  /home/nico/eclipse-workspace/Template/libArduinoCore.a(WString.o)
+                                                  ./main.o
+memcpy                                            /usr/lib/gcc/avr/7.3.0/../../../avr/lib/avr5/libc.a(memcpy.o)
+                                                  /usr/lib/gcc/avr/7.3.0/../../../avr/lib/avr5/libc.a(realloc.o)
+micros                                            /home/nico/eclipse-workspace/Template/libArduinoCore.a(wiring.o)
+millis                                            /home/nico/eclipse-workspace/Template/libArduinoCore.a(wiring.o)
+pinMode                                           /home/nico/eclipse-workspace/Template/libArduinoCore.a(wiring_digital.o)
+                                                  /home/nico/eclipse-workspace/Template/libArduinoLibraries.a(NewSoftSerial.o)
+                                                  ./main.o
+port_to_input_PGM                                 /home/nico/eclipse-workspace/Template/libArduinoCore.a(pins_arduino.o)
+                                                  /home/nico/eclipse-workspace/Template/libArduinoCore.a(wiring_digital.o)
+                                                  /home/nico/eclipse-workspace/Template/libArduinoLibraries.a(NewSoftSerial.o)
+port_to_mode_PGM                                  /home/nico/eclipse-workspace/Template/libArduinoCore.a(pins_arduino.o)
+                                                  /home/nico/eclipse-workspace/Template/libArduinoCore.a(wiring_digital.o)
+port_to_output_PGM                                /home/nico/eclipse-workspace/Template/libArduinoCore.a(pins_arduino.o)
+                                                  /home/nico/eclipse-workspace/Template/libArduinoCore.a(wiring_digital.o)
+                                                  /home/nico/eclipse-workspace/Template/libArduinoLibraries.a(NewSoftSerial.o)
+realloc                                           /usr/lib/gcc/avr/7.3.0/../../../avr/lib/avr5/libc.a(realloc.o)
+                                                  /home/nico/eclipse-workspace/Template/libArduinoCore.a(WString.o)
+rx_buffer                                         /home/nico/eclipse-workspace/Template/libArduinoCore.a(HardwareSerial.o)
+setup                                             ./main.o
+strcat                                            /usr/lib/gcc/avr/7.3.0/../../../avr/lib/avr5/libc.a(strcat.o)
+                                                  /home/nico/eclipse-workspace/Template/libArduinoCore.a(WString.o)
+strchr                                            /usr/lib/gcc/avr/7.3.0/../../../avr/lib/avr5/libc.a(strchr.o)
+                                                  /home/nico/eclipse-workspace/Template/libArduinoCore.a(WString.o)
+strcmp                                            /usr/lib/gcc/avr/7.3.0/../../../avr/lib/avr5/libc.a(strcmp.o)
+                                                  /home/nico/eclipse-workspace/Template/libArduinoCore.a(WString.o)
+strcpy                                            /usr/lib/gcc/avr/7.3.0/../../../avr/lib/avr5/libc.a(strcpy.o)
+                                                  /home/nico/eclipse-workspace/Template/libArduinoCore.a(WString.o)
+strncmp                                           /usr/lib/gcc/avr/7.3.0/../../../avr/lib/avr5/libc.a(strncmp.o)
+                                                  /home/nico/eclipse-workspace/Template/libArduinoCore.a(WString.o)
+strncpy                                           /usr/lib/gcc/avr/7.3.0/../../../avr/lib/avr5/libc.a(strncpy.o)
+                                                  /home/nico/eclipse-workspace/Template/libArduinoCore.a(WString.o)
+strrchr                                           /usr/lib/gcc/avr/7.3.0/../../../avr/lib/avr5/libc.a(strrchr.o)
+                                                  /home/nico/eclipse-workspace/Template/libArduinoCore.a(WString.o)
+strrev                                            /usr/lib/gcc/avr/7.3.0/../../../avr/lib/avr5/libc.a(strrev.o)
+                                                  /usr/lib/gcc/avr/7.3.0/../../../avr/lib/avr5/libc.a(utoa_ncheck.o)
+                                                  /usr/lib/gcc/avr/7.3.0/../../../avr/lib/avr5/libc.a(ultoa_ncheck.o)
+strstr                                            /usr/lib/gcc/avr/7.3.0/../../../avr/lib/avr5/libc.a(strstr.o)
+                                                  /home/nico/eclipse-workspace/Template/libArduinoCore.a(WString.o)
+timer0_millis                                     /home/nico/eclipse-workspace/Template/libArduinoCore.a(wiring.o)
+timer0_overflow_count                             /home/nico/eclipse-workspace/Template/libArduinoCore.a(wiring.o)
+tolower                                           /usr/lib/gcc/avr/7.3.0/../../../avr/lib/avr5/libc.a(tolower.o)
+                                                  /home/nico/eclipse-workspace/Template/libArduinoCore.a(WString.o)
+toupper                                           /usr/lib/gcc/avr/7.3.0/../../../avr/lib/avr5/libc.a(toupper.o)
+                                                  /home/nico/eclipse-workspace/Template/libArduinoCore.a(WString.o)
+ultoa                                             /usr/lib/gcc/avr/7.3.0/../../../avr/lib/avr5/libc.a(ultoa.o)
+value                                             ./main.o
