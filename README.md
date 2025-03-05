@@ -1,5 +1,5 @@
-All diese Dateien können Sie, in Ihrem Eclipse-Workspace implementieren. 
-Schauen Sie das sie jedes Projekt fehlerfrei kompilieren können. 
+All diese Dateien können Sie, in Ihr Eclipse implementieren. 
+Schauen Sie das sie jedes Projekt (Ordner) fehlerfrei kompilieren können. 
 Der eigentliche Programmcode ist im Ordner free-rtos-demo --> src, die Datei lautet test.cpp.
 Nachdem Sie das Projekt free-rtos-demo kompiliert haben, bildet sich eine hex-Datei im Ordner Release. 
 Diese hex-Datei können sie mithilfe des avrdude auf Ihrem Arduino laden. 
